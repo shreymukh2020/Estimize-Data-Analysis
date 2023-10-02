@@ -1,0 +1,3058 @@
+quarter,Ticker,Company_Name,Name,Type,Estimated_Value
+fq1-2020,A,Agilent Technologies Inc.,A Reported Earnings,Generic,0.81
+fq1-2020,A,Agilent Technologies Inc.,A Guidance,Generic,0.81
+fq1-2020,A,Agilent Technologies Inc.,Estimize Consensus,Generic,0.83
+fq1-2020,A,Agilent Technologies Inc.,Estimize Mean,Generic,0.83
+fq1-2020,A,Agilent Technologies Inc.,Wall Street Consensus,Generic,0.81
+fq1-2020,A,Agilent Technologies Inc.,Stephen Unger,Analyst,0.81
+fq1-2020,A,Agilent Technologies Inc.,SweUbbe,Analyst,0.81
+fq1-2020,A,Agilent Technologies Inc.,Sentinel,Analyst,0.82
+fq1-2020,A,Agilent Technologies Inc.,Analyst_5795851,Analyst,0.82
+fq1-2020,A,Agilent Technologies Inc.,Analyst_2647208,Analyst,0.8
+fq1-2020,A,Agilent Technologies Inc.,larrylai,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,maggieb,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,AAFED,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Analyst_6098124,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,miltrltr,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Bill,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Zilvinas Speteliunas,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Analyst_290705,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Rob Ford,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Frederick Tremblay,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,kerry burrell,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,New_Moon,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,PM,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Philip Mascherino,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,serp,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Ram,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Richard Wickstrom,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,SM_Georg,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Saulius,Analyst,0.83
+fq1-2020,A,Agilent Technologies Inc.,Analyst_7792487,Analyst,0.79
+fq1-2020,A,Agilent Technologies Inc.,JABOM_AM,Analyst,0.84
+fq1-2020,A,Agilent Technologies Inc.,Analyst_783524,Analyst,0.84
+fq1-2020,A,Agilent Technologies Inc.,Ron,Analyst,0.84
+fq1-2020,A,Agilent Technologies Inc.,Shawn P. Cooney,Analyst,0.85
+fq1-2020,A,Agilent Technologies Inc.,dalton,Analyst,0.85
+fq2-2020,A,Agilent Technologies Inc.,A Reported Earnings,Generic,0.71
+fq2-2020,A,Agilent Technologies Inc.,A Guidance,Generic,0.74
+fq2-2020,A,Agilent Technologies Inc.,Estimize Consensus,Generic,0.66
+fq2-2020,A,Agilent Technologies Inc.,Estimize Mean,Generic,0.67
+fq2-2020,A,Agilent Technologies Inc.,Wall Street Consensus,Generic,0.61
+fq2-2020,A,Agilent Technologies Inc.,New_Moon,Analyst,0.71
+fq2-2020,A,Agilent Technologies Inc.,PM,Analyst,0.71
+fq2-2020,A,Agilent Technologies Inc.,schmidtke_jake,Analyst,0.72
+fq2-2020,A,Agilent Technologies Inc.,Rob Ford,Analyst,0.7
+fq2-2020,A,Agilent Technologies Inc.,AAFED,Analyst,0.69
+fq2-2020,A,Agilent Technologies Inc.,Analyst_8202295,Analyst,0.68
+fq2-2020,A,Agilent Technologies Inc.,Analyst_2777191,Analyst,0.68
+fq2-2020,A,Agilent Technologies Inc.,Analyst_1536505,Analyst,0.68
+fq2-2020,A,Agilent Technologies Inc.,Roman Novacek,Analyst,0.67
+fq2-2020,A,Agilent Technologies Inc.,Stephen Unger,Analyst,0.75
+fq2-2020,A,Agilent Technologies Inc.,maggieb,Analyst,0.75
+fq2-2020,A,Agilent Technologies Inc.,miltrltr,Analyst,0.66
+fq2-2020,A,Agilent Technologies Inc.,Neil_Martin,Analyst,0.65
+fq2-2020,A,Agilent Technologies Inc.,Zilvinas Speteliunas,Analyst,0.65
+fq2-2020,A,Agilent Technologies Inc.,serp,Analyst,0.64
+fq2-2020,A,Agilent Technologies Inc.,Frederick Tremblay,Analyst,0.63
+fq2-2020,A,Agilent Technologies Inc.,kerry burrell,Analyst,0.63
+fq2-2020,A,Agilent Technologies Inc.,Ben Jen,Analyst,0.63
+fq2-2020,A,Agilent Technologies Inc.,Bill,Analyst,0.63
+fq2-2020,A,Agilent Technologies Inc.,JABOM_AM,Analyst,0.79
+fq2-2020,A,Agilent Technologies Inc.,Analyst_5795851,Analyst,0.62
+fq2-2020,A,Agilent Technologies Inc.,PCLA,Analyst,0.62
+fq2-2020,A,Agilent Technologies Inc.,Analyst_9118472,Analyst,0.62
+fq2-2020,A,Agilent Technologies Inc.,Sentinel,Analyst,0.61
+fq2-2020,A,Agilent Technologies Inc.,RmznKrkmz,Analyst,0.6
+fq3-2020,A,Agilent Technologies Inc.,A Reported Earnings,Generic,0.78
+fq3-2020,A,Agilent Technologies Inc.,Estimize Consensus,Generic,0.68
+fq3-2020,A,Agilent Technologies Inc.,Estimize Mean,Generic,0.7
+fq3-2020,A,Agilent Technologies Inc.,Wall Street Consensus,Generic,0.66
+fq3-2020,A,Agilent Technologies Inc.,Neil_Martin,Analyst,0.78
+fq3-2020,A,Agilent Technologies Inc.,schmidtke_jake,Analyst,0.75
+fq3-2020,A,Agilent Technologies Inc.,panda_w,Analyst,0.74
+fq3-2020,A,Agilent Technologies Inc.,JABOM_AM,Analyst,0.86
+fq3-2020,A,Agilent Technologies Inc.,Analyst_5795851,Analyst,0.7
+fq3-2020,A,Agilent Technologies Inc.,larrylai,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,Analyst_2777191,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,kerry burrell,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,Bill,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,Rob Ford,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,PM,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,Zilvinas Speteliunas,Analyst,0.69
+fq3-2020,A,Agilent Technologies Inc.,AAFED,Analyst,0.68
+fq3-2020,A,Agilent Technologies Inc.,PCLA,Analyst,0.68
+fq3-2020,A,Agilent Technologies Inc.,Ram,Analyst,0.68
+fq3-2020,A,Agilent Technologies Inc.,Analyst_8113162,Analyst,0.68
+fq3-2020,A,Agilent Technologies Inc.,Analyst_3656041,Analyst,0.68
+fq3-2020,A,Agilent Technologies Inc.,arjunav,Analyst,0.67
+fq3-2020,A,Agilent Technologies Inc.,Analyst_1342063,Analyst,0.67
+fq3-2020,A,Agilent Technologies Inc.,Stephen Unger,Analyst,0.66
+fq3-2020,A,Agilent Technologies Inc.,dalton,Analyst,0.63
+fq4-2020,A,Agilent Technologies Inc.,A Reported Earnings,Generic,0.98
+fq4-2020,A,Agilent Technologies Inc.,Estimize Consensus,Generic,0.96
+fq4-2020,A,Agilent Technologies Inc.,Estimize Mean,Generic,0.95
+fq4-2020,A,Agilent Technologies Inc.,Wall Street Consensus,Generic,0.93
+fq4-2020,A,Agilent Technologies Inc.,Neil_Martin,Analyst,0.98
+fq4-2020,A,Agilent Technologies Inc.,JABOM_AM,Analyst,0.98
+fq4-2020,A,Agilent Technologies Inc.,kerry burrell,Analyst,0.97
+fq4-2020,A,Agilent Technologies Inc.,Analyst_6508066,Analyst,0.96
+fq4-2020,A,Agilent Technologies Inc.,Ben Jen,Analyst,0.96
+fq4-2020,A,Agilent Technologies Inc.,Analyst_76071,Analyst,0.96
+fq4-2020,A,Agilent Technologies Inc.,panda_w,Analyst,1
+fq4-2020,A,Agilent Technologies Inc.,dalton,Analyst,1
+fq4-2020,A,Agilent Technologies Inc.,Zilvinas Speteliunas,Analyst,0.95
+fq4-2020,A,Agilent Technologies Inc.,PCLA,Analyst,0.95
+fq4-2020,A,Agilent Technologies Inc.,Bill,Analyst,0.95
+fq4-2020,A,Agilent Technologies Inc.,AAFED,Analyst,0.95
+fq4-2020,A,Agilent Technologies Inc.,Analyst_6127515,Analyst,0.95
+fq4-2020,A,Agilent Technologies Inc.,Madmoni,Analyst,0.94
+fq4-2020,A,Agilent Technologies Inc.,PM,Analyst,0.94
+fq4-2020,A,Agilent Technologies Inc.,Rob Ford,Analyst,0.94
+fq4-2020,A,Agilent Technologies Inc.,Ketamine_Fund,Analyst,0.93
+fq4-2020,A,Agilent Technologies Inc.,larrylai,Analyst,0.93
+fq4-2020,A,Agilent Technologies Inc.,Stephen Unger,Analyst,0.92
+fq4-2020,A,Agilent Technologies Inc.,Aitvaras,Analyst,0.92
+fq4-2020,A,Agilent Technologies Inc.,Don Pagach,Analyst,0.92
+fq1-2020,AA,Alcoa Corp.,AA Reported Earnings,Generic,-0.23
+fq1-2020,AA,Alcoa Corp.,Estimize Consensus,Generic,-0.26
+fq1-2020,AA,Alcoa Corp.,Estimize Mean,Generic,-0.22
+fq1-2020,AA,Alcoa Corp.,Wall Street Consensus,Generic,-0.25
+fq1-2020,AA,Alcoa Corp.,Analyst_2871418,Analyst,-0.23
+fq1-2020,AA,Alcoa Corp.,Frederick Tremblay,Analyst,-0.23
+fq1-2020,AA,Alcoa Corp.,Analyst_2597190,Analyst,-0.22
+fq1-2020,AA,Alcoa Corp.,Analyst_7227115,Analyst,-0.22
+fq1-2020,AA,Alcoa Corp.,Ben Jen,Analyst,-0.25
+fq1-2020,AA,Alcoa Corp.,mnadelman,Analyst,-0.21
+fq1-2020,AA,Alcoa Corp.,Kozlice,Analyst,-0.26
+fq1-2020,AA,Alcoa Corp.,timpconnolly1,Analyst,-0.19
+fq1-2020,AA,Alcoa Corp.,robert brand,Analyst,-0.27
+fq1-2020,AA,Alcoa Corp.,Analyst_6043052,Analyst,-0.19
+fq1-2020,AA,Alcoa Corp.,Analyst_5115161,Analyst,-0.18
+fq1-2020,AA,Alcoa Corp.,Bill,Analyst,-0.28
+fq1-2020,AA,Alcoa Corp.,SS_GQS,Analyst,-0.28
+fq1-2020,AA,Alcoa Corp.,Analyst_1828490,Analyst,-0.17
+fq1-2020,AA,Alcoa Corp.,Analyst_2777191,Analyst,-0.33
+fq1-2020,AA,Alcoa Corp.,Analyst_7269239,Analyst,-0.12
+fq1-2020,AA,Alcoa Corp.,Shreeder Adibhatla,Analyst,-0.36
+fq1-2020,AA,Alcoa Corp.,Sentinel,Analyst,-0.1
+fq1-2020,AA,Alcoa Corp.,M2MIGLIO,Analyst,-0.09
+fq2-2020,AA,Alcoa Corp.,AA Reported Earnings,Generic,-0.02
+fq2-2020,AA,Alcoa Corp.,AA Guidance,Generic,-0.04
+fq2-2020,AA,Alcoa Corp.,Estimize Consensus,Generic,-0.33
+fq2-2020,AA,Alcoa Corp.,Estimize Mean,Generic,-0.34
+fq2-2020,AA,Alcoa Corp.,Wall Street Consensus,Generic,-0.38
+fq2-2020,AA,Alcoa Corp.,Analyst_6928004,Analyst,-0.09
+fq2-2020,AA,Alcoa Corp.,Analyst_6043052,Analyst,-0.09
+fq2-2020,AA,Alcoa Corp.,Medic2525,Analyst,-0.09
+fq2-2020,AA,Alcoa Corp.,Analyst_7563537,Analyst,-0.2
+fq2-2020,AA,Alcoa Corp.,Analyst_6348688,Analyst,-0.32
+fq2-2020,AA,Alcoa Corp.,kerry burrell,Analyst,-0.32
+fq2-2020,AA,Alcoa Corp.,WonterC,Analyst,-0.35
+fq2-2020,AA,Alcoa Corp.,Analyst_8113162,Analyst,-0.36
+fq2-2020,AA,Alcoa Corp.,Bill,Analyst,-0.36
+fq2-2020,AA,Alcoa Corp.,Analyst_5507324,Analyst,-0.37
+fq2-2020,AA,Alcoa Corp.,Analyst_6312115,Analyst,-0.39
+fq2-2020,AA,Alcoa Corp.,SelectiveTrade,Analyst,-0.42
+fq2-2020,AA,Alcoa Corp.,Sentinel,Analyst,-0.44
+fq2-2020,AA,Alcoa Corp.,SS_GQS,Analyst,-0.44
+fq2-2020,AA,Alcoa Corp.,Analyst_3202815,Analyst,-0.45
+fq2-2020,AA,Alcoa Corp.,robert brand,Analyst,-0.52
+fq3-2020,AA,Alcoa Corp.,AA Reported Earnings,Generic,-1.17
+fq3-2020,AA,Alcoa Corp.,Estimize Consensus,Generic,-1.19
+fq3-2020,AA,Alcoa Corp.,Estimize Mean,Generic,-1.08
+fq3-2020,AA,Alcoa Corp.,Wall Street Consensus,Generic,-1.38
+fq3-2020,AA,Alcoa Corp.,kerry burrell,Analyst,-1.14
+fq3-2020,AA,Alcoa Corp.,PCLA,Analyst,-1.13
+fq3-2020,AA,Alcoa Corp.,Bill,Analyst,-1.11
+fq3-2020,AA,Alcoa Corp.,robert brand,Analyst,-1.09
+fq3-2020,AA,Alcoa Corp.,SS_GQS,Analyst,-1.29
+fq3-2020,AA,Alcoa Corp.,Gdonaldson,Analyst,-1.31
+fq3-2020,AA,Alcoa Corp.,Medic2525,Analyst,-1.01
+fq3-2020,AA,Alcoa Corp.,Metal_Miltia,Analyst,-1.33
+fq3-2020,AA,Alcoa Corp.,TylerDurham,Analyst,-1.37
+fq3-2020,AA,Alcoa Corp.,omni,Analyst,-1.38
+fq3-2020,AA,Alcoa Corp.,Analyst_6348688,Analyst,-0.84
+fq3-2020,AA,Alcoa Corp.,Analyst_8685850,Analyst,0.1
+fq4-2020,AA,Alcoa Corp.,AA Reported Earnings,Generic,0.26
+fq4-2020,AA,Alcoa Corp.,Estimize Consensus,Generic,0.14
+fq4-2020,AA,Alcoa Corp.,Estimize Mean,Generic,0.11
+fq4-2020,AA,Alcoa Corp.,Wall Street Consensus,Generic,0.11
+fq4-2020,AA,Alcoa Corp.,kerry burrell,Analyst,0.17
+fq4-2020,AA,Alcoa Corp.,Ben Jen,Analyst,0.16
+fq4-2020,AA,Alcoa Corp.,Analyst_8113162,Analyst,0.16
+fq4-2020,AA,Alcoa Corp.,Analyst_908965,Analyst,0.15
+fq4-2020,AA,Alcoa Corp.,Analyst_6127515,Analyst,0.15
+fq4-2020,AA,Alcoa Corp.,Bill,Analyst,0.14
+fq4-2020,AA,Alcoa Corp.,Analyst_883247,Analyst,0.14
+fq4-2020,AA,Alcoa Corp.,Analyst_489058,Analyst,0.13
+fq4-2020,AA,Alcoa Corp.,Analyst_5404515,Analyst,0.11
+fq4-2020,AA,Alcoa Corp.,robert brand,Analyst,0.1
+fq4-2020,AA,Alcoa Corp.,TylerDurham,Analyst,-0.16
+fq1-2020,AACH,"AAC Holdings, Inc.",AACH Reported Earnings,Generic,-0.4
+fq1-2020,AACH,"AAC Holdings, Inc.",Estimize Consensus,Generic,-0.38
+fq1-2020,AACH,"AAC Holdings, Inc.",Estimize Mean,Generic,-0.21
+fq1-2020,AACH,"AAC Holdings, Inc.",Wall Street Consensus,Generic,-0.35
+fq1-2020,AACH,"AAC Holdings, Inc.",Analyst_8833156,Analyst,-0.4
+fq1-2020,AACH,"AAC Holdings, Inc.",Bill,Analyst,-0.39
+fq1-2020,AACH,"AAC Holdings, Inc.",Frederick Tremblay,Analyst,-0.38
+fq1-2020,AACH,"AAC Holdings, Inc.",Medic2525,Analyst,-0.38
+fq1-2020,AACH,"AAC Holdings, Inc.","Joseph D. France, CFA",Analyst,0
+fq1-2020,AACH,"AAC Holdings, Inc.","Alice Avanian, CFA",Analyst,0
+fq1-2020,AACH,"AAC Holdings, Inc.",Sean,Analyst,0.06
+fq2-2020,AACH,"AAC Holdings, Inc.",AACH Reported Earnings,Generic,-0.4
+fq2-2020,AACH,"AAC Holdings, Inc.",Estimize Consensus,Generic,-0.38
+fq2-2020,AACH,"AAC Holdings, Inc.",Estimize Mean,Generic,-0.21
+fq2-2020,AACH,"AAC Holdings, Inc.",Wall Street Consensus,Generic,-0.35
+fq2-2020,AACH,"AAC Holdings, Inc.",Analyst_8833156,Analyst,-0.4
+fq2-2020,AACH,"AAC Holdings, Inc.",Bill,Analyst,-0.39
+fq2-2020,AACH,"AAC Holdings, Inc.",Frederick Tremblay,Analyst,-0.38
+fq2-2020,AACH,"AAC Holdings, Inc.",Medic2525,Analyst,-0.38
+fq2-2020,AACH,"AAC Holdings, Inc.","Joseph D. France, CFA",Analyst,0
+fq2-2020,AACH,"AAC Holdings, Inc.","Alice Avanian, CFA",Analyst,0
+fq2-2020,AACH,"AAC Holdings, Inc.",Sean,Analyst,0.06
+fq3-2020,AACH,"AAC Holdings, Inc.",AACH Reported Earnings,Generic,-0.4
+fq3-2020,AACH,"AAC Holdings, Inc.",Estimize Consensus,Generic,-0.38
+fq3-2020,AACH,"AAC Holdings, Inc.",Estimize Mean,Generic,-0.21
+fq3-2020,AACH,"AAC Holdings, Inc.",Wall Street Consensus,Generic,-0.35
+fq3-2020,AACH,"AAC Holdings, Inc.",Analyst_8833156,Analyst,-0.4
+fq3-2020,AACH,"AAC Holdings, Inc.",Bill,Analyst,-0.39
+fq3-2020,AACH,"AAC Holdings, Inc.",Frederick Tremblay,Analyst,-0.38
+fq3-2020,AACH,"AAC Holdings, Inc.",Medic2525,Analyst,-0.38
+fq3-2020,AACH,"AAC Holdings, Inc.","Joseph D. France, CFA",Analyst,0
+fq3-2020,AACH,"AAC Holdings, Inc.","Alice Avanian, CFA",Analyst,0
+fq3-2020,AACH,"AAC Holdings, Inc.",Sean,Analyst,0.06
+fq4-2020,AACH,"AAC Holdings, Inc.",AACH Reported Earnings,Generic,-0.4
+fq4-2020,AACH,"AAC Holdings, Inc.",Estimize Consensus,Generic,-0.38
+fq4-2020,AACH,"AAC Holdings, Inc.",Estimize Mean,Generic,-0.21
+fq4-2020,AACH,"AAC Holdings, Inc.",Wall Street Consensus,Generic,-0.35
+fq4-2020,AACH,"AAC Holdings, Inc.",Analyst_8833156,Analyst,-0.4
+fq4-2020,AACH,"AAC Holdings, Inc.",Bill,Analyst,-0.39
+fq4-2020,AACH,"AAC Holdings, Inc.",Frederick Tremblay,Analyst,-0.38
+fq4-2020,AACH,"AAC Holdings, Inc.",Medic2525,Analyst,-0.38
+fq4-2020,AACH,"AAC Holdings, Inc.","Joseph D. France, CFA",Analyst,0
+fq4-2020,AACH,"AAC Holdings, Inc.","Alice Avanian, CFA",Analyst,0
+fq4-2020,AACH,"AAC Holdings, Inc.",Sean,Analyst,0.06
+fq1-2020,AAL,American Airlines Group Inc.,AAL Reported Earnings,Generic,-2.65
+fq1-2020,AAL,American Airlines Group Inc.,Estimize Consensus,Generic,-2.02
+fq1-2020,AAL,American Airlines Group Inc.,Estimize Mean,Generic,-1.65
+fq1-2020,AAL,American Airlines Group Inc.,Wall Street Consensus,Generic,-2.08
+fq1-2020,AAL,American Airlines Group Inc.,robertoagodinez,Analyst,-2.88
+fq1-2020,AAL,American Airlines Group Inc.,Saulius,Analyst,-2.35
+fq1-2020,AAL,American Airlines Group Inc.,Frederick Tremblay,Analyst,-2.22
+fq1-2020,AAL,American Airlines Group Inc.,Swimboy,Analyst,-2.14
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_6108201,Analyst,-2.13
+fq1-2020,AAL,American Airlines Group Inc.,Bill,Analyst,-2.09
+fq1-2020,AAL,American Airlines Group Inc.,Scott Hendricks,Analyst,-2.05
+fq1-2020,AAL,American Airlines Group Inc.,Zilvinas Speteliunas,Analyst,-2.03
+fq1-2020,AAL,American Airlines Group Inc.,Ram,Analyst,-2.02
+fq1-2020,AAL,American Airlines Group Inc.,PM,Analyst,-2.02
+fq1-2020,AAL,American Airlines Group Inc.,New_Moon,Analyst,-2.01
+fq1-2020,AAL,American Airlines Group Inc.,JonathanMacArt,Analyst,-2
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_5637861,Analyst,-2
+fq1-2020,AAL,American Airlines Group Inc.,AAFED,Analyst,-2
+fq1-2020,AAL,American Airlines Group Inc.,Ben Jen,Analyst,-2
+fq1-2020,AAL,American Airlines Group Inc.,PCLA,Analyst,-1.98
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_859963,Analyst,-1.96
+fq1-2020,AAL,American Airlines Group Inc.,Vitaly,Analyst,-1.95
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_4242497,Analyst,-1.94
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_7444700,Analyst,-1.92
+fq1-2020,AAL,American Airlines Group Inc.,Rob Ford,Analyst,-1.92
+fq1-2020,AAL,American Airlines Group Inc.,dalton,Analyst,-1.92
+fq1-2020,AAL,American Airlines Group Inc.,Marty Lardy,Analyst,-1.89
+fq1-2020,AAL,American Airlines Group Inc.,Rasun,Analyst,-1.88
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_1427705,Analyst,-1.87
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_8075381,Analyst,-1.86
+fq1-2020,AAL,American Airlines Group Inc.,Analyst_6142933,Analyst,-1.85
+fq1-2020,AAL,American Airlines Group Inc.,euribe25,Analyst,-1.85
+fq1-2020,AAL,American Airlines Group Inc.,najehothman,Analyst,-1.85
+fq1-2020,AAL,American Airlines Group Inc.,Siinbad,Analyst,-1.85
+fq2-2020,AAL,American Airlines Group Inc.,AAL Reported Earnings,Generic,-7.82
+fq2-2020,AAL,American Airlines Group Inc.,Estimize Consensus,Generic,-7.68
+fq2-2020,AAL,American Airlines Group Inc.,Estimize Mean,Generic,-6.54
+fq2-2020,AAL,American Airlines Group Inc.,Wall Street Consensus,Generic,-7.84
+fq2-2020,AAL,American Airlines Group Inc.,larrylai,Analyst,-7.83
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_6414753,Analyst,-7.84
+fq2-2020,AAL,American Airlines Group Inc.,tigerzhang2092,Analyst,-7.84
+fq2-2020,AAL,American Airlines Group Inc.,Marty Lardy,Analyst,-7.8
+fq2-2020,AAL,American Airlines Group Inc.,PM,Analyst,-7.87
+fq2-2020,AAL,American Airlines Group Inc.,Ben Jen,Analyst,-7.88
+fq2-2020,AAL,American Airlines Group Inc.,Eric,Analyst,-7.89
+fq2-2020,AAL,American Airlines Group Inc.,dalton,Analyst,-7.89
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_4316714,Analyst,-7.75
+fq2-2020,AAL,American Airlines Group Inc.,Ram,Analyst,-7.75
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_368401,Analyst,-7.74
+fq2-2020,AAL,American Airlines Group Inc.,Rob Ford,Analyst,-7.9
+fq2-2020,AAL,American Airlines Group Inc.,PCLA,Analyst,-7.72
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_9909949,Analyst,-7.7
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_3334837,Analyst,-7.7
+fq2-2020,AAL,American Airlines Group Inc.,SelectiveTrade,Analyst,-7.7
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_7249103,Analyst,-7.7
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_Pereto,Analyst,-7.7
+fq2-2020,AAL,American Airlines Group Inc.,Calvin_S,Analyst,-7.7
+fq2-2020,AAL,American Airlines Group Inc.,Zilvinas Speteliunas,Analyst,-7.94
+fq2-2020,AAL,American Airlines Group Inc.,Bill,Analyst,-7.96
+fq2-2020,AAL,American Airlines Group Inc.,Medic2525,Analyst,-7.96
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_2354256,Analyst,-7.68
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_8013917,Analyst,-7.65
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_2777191,Analyst,-8
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_2885909,Analyst,-7.63
+fq2-2020,AAL,American Airlines Group Inc.,Sentinel,Analyst,-7.62
+fq2-2020,AAL,American Airlines Group Inc.,Scott Hendricks,Analyst,-8.03
+fq2-2020,AAL,American Airlines Group Inc.,kerry burrell,Analyst,-7.61
+fq2-2020,AAL,American Airlines Group Inc.,Analyst_602478,Analyst,-7.6
+fq3-2020,AAL,American Airlines Group Inc.,AAL Reported Earnings,Generic,-5.54
+fq3-2020,AAL,American Airlines Group Inc.,Estimize Consensus,Generic,-5.88
+fq3-2020,AAL,American Airlines Group Inc.,Estimize Mean,Generic,-4.83
+fq3-2020,AAL,American Airlines Group Inc.,Wall Street Consensus,Generic,-5.86
+fq3-2020,AAL,American Airlines Group Inc.,Lyubo,Analyst,-5.56
+fq3-2020,AAL,American Airlines Group Inc.,Ben Jen,Analyst,-5.5
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_7800843,Analyst,-5.72
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_9977912,Analyst,-5.75
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_8292178,Analyst,-5.75
+fq3-2020,AAL,American Airlines Group Inc.,Siinbad,Analyst,-5.75
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_9928373,Analyst,-5.77
+fq3-2020,AAL,American Airlines Group Inc.,JakeHughesy,Analyst,-5.79
+fq3-2020,AAL,American Airlines Group Inc.,larrylai,Analyst,-5.8
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_2404801,Analyst,-5.82
+fq3-2020,AAL,American Airlines Group Inc.,Bill,Analyst,-5.83
+fq3-2020,AAL,American Airlines Group Inc.,omni,Analyst,-5.85
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_8658038,Analyst,-5.87
+fq3-2020,AAL,American Airlines Group Inc.,Medic2525,Analyst,-5.87
+fq3-2020,AAL,American Airlines Group Inc.,loopie,Analyst,-5.88
+fq3-2020,AAL,American Airlines Group Inc.,Zilvinas Speteliunas,Analyst,-5.89
+fq3-2020,AAL,American Airlines Group Inc.,euribe25,Analyst,-5.9
+fq3-2020,AAL,American Airlines Group Inc.,AAFED,Analyst,-5.9
+fq3-2020,AAL,American Airlines Group Inc.,Ram,Analyst,-5.9
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_6414753,Analyst,-5.91
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_5795851,Analyst,-5.92
+fq3-2020,AAL,American Airlines Group Inc.,Scott Hendricks,Analyst,-5.94
+fq3-2020,AAL,American Airlines Group Inc.,PCLA,Analyst,-5.94
+fq3-2020,AAL,American Airlines Group Inc.,Rob Ford,Analyst,-5.95
+fq3-2020,AAL,American Airlines Group Inc.,dalton,Analyst,-5.96
+fq3-2020,AAL,American Airlines Group Inc.,WonterC,Analyst,-6
+fq3-2020,AAL,American Airlines Group Inc.,Analyst_5081658,Analyst,-6.4
+fq3-2020,AAL,American Airlines Group Inc.,ericjason15,Analyst,-4.3
+fq3-2020,AAL,American Airlines Group Inc.,"Daniel McKenzie, CFA",Analyst,-7.07
+fq3-2020,AAL,American Airlines Group Inc.,najehothman,Analyst,-2.72
+fq4-2020,AAL,American Airlines Group Inc.,AAL Reported Earnings,Generic,-3.86
+fq4-2020,AAL,American Airlines Group Inc.,Estimize Consensus,Generic,-4.05
+fq4-2020,AAL,American Airlines Group Inc.,Estimize Mean,Generic,-3.26
+fq4-2020,AAL,American Airlines Group Inc.,Wall Street Consensus,Generic,-4.11
+fq4-2020,AAL,American Airlines Group Inc.,euribe25,Analyst,-3.84
+fq4-2020,AAL,American Airlines Group Inc.,Ben Jen,Analyst,-3.95
+fq4-2020,AAL,American Airlines Group Inc.,Analyst_1415247,Analyst,-3.75
+fq4-2020,AAL,American Airlines Group Inc.,Scott Hendricks,Analyst,-3.99
+fq4-2020,AAL,American Airlines Group Inc.,Analyst_615560,Analyst,-4
+fq4-2020,AAL,American Airlines Group Inc.,Siinbad,Analyst,-4
+fq4-2020,AAL,American Airlines Group Inc.,Eric,Analyst,-4
+fq4-2020,AAL,American Airlines Group Inc.,Swimboy,Analyst,-4
+fq4-2020,AAL,American Airlines Group Inc.,PM,Analyst,-4.04
+fq4-2020,AAL,American Airlines Group Inc.,AAFED,Analyst,-4.05
+fq4-2020,AAL,American Airlines Group Inc.,Rob Ford,Analyst,-4.06
+fq4-2020,AAL,American Airlines Group Inc.,panda_w,Analyst,-3.65
+fq4-2020,AAL,American Airlines Group Inc.,dalton,Analyst,-4.07
+fq4-2020,AAL,American Airlines Group Inc.,RumeliUSA,Analyst,-4.09
+fq4-2020,AAL,American Airlines Group Inc.,Analyst_4859493,Analyst,-4.09
+fq4-2020,AAL,American Airlines Group Inc.,Bill,Analyst,-4.1
+fq4-2020,AAL,American Airlines Group Inc.,Ram,Analyst,-4.1
+fq4-2020,AAL,American Airlines Group Inc.,Medic2525,Analyst,-4.1
+fq4-2020,AAL,American Airlines Group Inc.,Analyst_7408013,Analyst,-4.11
+fq4-2020,AAL,American Airlines Group Inc.,Analyst_5487226,Analyst,-4.11
+fq4-2020,AAL,American Airlines Group Inc.,Analyst_2115368,Analyst,-4.12
+fq4-2020,AAL,American Airlines Group Inc.,mnahmed,Analyst,-4.13
+fq4-2020,AAL,American Airlines Group Inc.,ConspiracyPizza,Analyst,-4.15
+fq4-2020,AAL,American Airlines Group Inc.,Tim P,Analyst,-4.15
+fq4-2020,AAL,American Airlines Group Inc.,Zilvinas Speteliunas,Analyst,-4.16
+fq4-2020,AAL,American Airlines Group Inc.,"Daniel McKenzie, CFA",Analyst,-4.25
+fq4-2020,AAL,American Airlines Group Inc.,MaksimsGesins,Analyst,-4.28
+fq4-2020,AAL,American Airlines Group Inc.,Lyubo,Analyst,-4.5
+fq4-2020,AAL,American Airlines Group Inc.,ericjason15,Analyst,-1.82
+fq4-2020,AAL,American Airlines Group Inc.,najehothman,Analyst,0.02
+fq1-2020,AAN,"Aaron's, Inc.",AAN Reported Earnings,Generic,0.85
+fq1-2020,AAN,"Aaron's, Inc.",Estimize Consensus,Generic,0.83
+fq1-2020,AAN,"Aaron's, Inc.",Estimize Mean,Generic,0.81
+fq1-2020,AAN,"Aaron's, Inc.",Wall Street Consensus,Generic,0.78
+fq1-2020,AAN,"Aaron's, Inc.",Frederick Tremblay,Analyst,0.86
+fq1-2020,AAN,"Aaron's, Inc.",Analyst_6377265,Analyst,0.83
+fq1-2020,AAN,"Aaron's, Inc.",Analyst_2138331,Analyst,0.83
+fq1-2020,AAN,"Aaron's, Inc.",Bill,Analyst,0.83
+fq1-2020,AAN,"Aaron's, Inc.",TV447703,Analyst,0.82
+fq1-2020,AAN,"Aaron's, Inc.","William Chappell, Jr.",Analyst,0.7
+fq2-2020,AAN,"Aaron's, Inc.",AAN Reported Earnings,Generic,1.18
+fq2-2020,AAN,"Aaron's, Inc.",AAN Guidance,Generic,0.83
+fq2-2020,AAN,"Aaron's, Inc.",Estimize Consensus,Generic,0.84
+fq2-2020,AAN,"Aaron's, Inc.",Estimize Mean,Generic,0.8
+fq2-2020,AAN,"Aaron's, Inc.",Wall Street Consensus,Generic,0.82
+fq2-2020,AAN,"Aaron's, Inc.",Medic2525,Analyst,0.87
+fq2-2020,AAN,"Aaron's, Inc.",jean_acciari,Analyst,0.86
+fq2-2020,AAN,"Aaron's, Inc.",Analyst_9639635,Analyst,0.84
+fq2-2020,AAN,"Aaron's, Inc.",Analyst_5059282,Analyst,0.84
+fq2-2020,AAN,"Aaron's, Inc.",Analyst_8113162,Analyst,0.84
+fq2-2020,AAN,"Aaron's, Inc.",DF_5082802,Analyst,0.84
+fq2-2020,AAN,"Aaron's, Inc.",TV447703,Analyst,0.83
+fq2-2020,AAN,"Aaron's, Inc.","William Chappell, Jr.",Analyst,0.82
+fq2-2020,AAN,"Aaron's, Inc.",Bill,Analyst,0.8
+fq2-2020,AAN,"Aaron's, Inc.",Sentinel,Analyst,0.52
+fq3-2020,AAN,"Aaron's, Inc.",AAN Reported Earnings,Generic,1.8
+fq3-2020,AAN,"Aaron's, Inc.",AAN Guidance,Generic,1.45
+fq3-2020,AAN,"Aaron's, Inc.",Estimize Consensus,Generic,1.46
+fq3-2020,AAN,"Aaron's, Inc.",Estimize Mean,Generic,1.35
+fq3-2020,AAN,"Aaron's, Inc.",Wall Street Consensus,Generic,1.44
+fq3-2020,AAN,"Aaron's, Inc.",Ben Jen,Analyst,1.47
+fq3-2020,AAN,"Aaron's, Inc.",Bill,Analyst,1.46
+fq3-2020,AAN,"Aaron's, Inc.",Bill Chappell,Analyst,1.44
+fq3-2020,AAN,"Aaron's, Inc.",TV447703,Analyst,1.43
+fq3-2020,AAN,"Aaron's, Inc.",Analyst_2088276,Analyst,1.43
+fq3-2020,AAN,"Aaron's, Inc.","William Chappell, Jr.",Analyst,0.86
+fq4-2020,AAN,"Aaron's, Inc.",AAN Reported Earnings,Generic,0.79
+fq4-2020,AAN,"Aaron's, Inc.",AAN Guidance,Generic,1.25
+fq4-2020,AAN,"Aaron's, Inc.",Estimize Consensus,Generic,1.33
+fq4-2020,AAN,"Aaron's, Inc.",Estimize Mean,Generic,1.16
+fq4-2020,AAN,"Aaron's, Inc.",Wall Street Consensus,Generic,0.76
+fq4-2020,AAN,"Aaron's, Inc.",TV447703,Analyst,0.79
+fq4-2020,AAN,"Aaron's, Inc.",Bill Chappell,Analyst,0.68
+fq4-2020,AAN,"Aaron's, Inc.","William Chappell, Jr.",Analyst,1.11
+fq4-2020,AAN,"Aaron's, Inc.",Dominantstock,Analyst,1.3
+fq4-2020,AAN,"Aaron's, Inc.",Bill,Analyst,1.31
+fq4-2020,AAN,"Aaron's, Inc.",Jen_F,Analyst,1.44
+fq4-2020,AAN,"Aaron's, Inc.",Bill_Maurer,Analyst,1.48
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Reported Earnings,Generic,-0.44
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Guidance,Generic,-0.38
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Consensus,Generic,-0.32
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Mean,Generic,-0.32
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Wall Street Consensus,Generic,-0.37
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_3159502,Analyst,-0.42
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Alex Henderson,Analyst,-0.37
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_5477164,Analyst,-0.37
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",JFally,Analyst,-0.36
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Ben Jen,Analyst,-0.35
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Zilvinas Speteliunas,Analyst,-0.35
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Frederick Tremblay,Analyst,-0.34
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Bill,Analyst,-0.33
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",robert brand,Analyst,-0.31
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",osbjmg,Analyst,-0.3
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",andluger,Analyst,-0.3
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",coffeepster,Analyst,-0.29
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Plu,Analyst,-0.27
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",rpajam,Analyst,-0.27
+fq1-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_5841627,Analyst,-0.17
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Reported Earnings,Generic,-0.24
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Consensus,Generic,-0.21
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Mean,Generic,-0.2
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Wall Street Consensus,Generic,-0.25
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Sentinel,Analyst,-0.23
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",andluger,Analyst,-0.23
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Bill,Analyst,-0.23
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_4464782,Analyst,-0.25
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Medic2525,Analyst,-0.22
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Plu,Analyst,-0.22
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Zilvinas Speteliunas,Analyst,-0.21
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Alex Henderson,Analyst,-0.27
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Mixwell,Analyst,-0.2
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_3159502,Analyst,-0.3
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",kobv,Analyst,-0.17
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",robert brand,Analyst,-0.16
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",rpajam,Analyst,-0.15
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",shafeiaadly,Analyst,-0.15
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Kevinemeier,Analyst,-0.15
+fq2-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_5841627,Analyst,-0.06
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Reported Earnings,Generic,-0.06
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Guidance,Generic,-0.12
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Consensus,Generic,-0.05
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Mean,Generic,-0.05
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Wall Street Consensus,Generic,-0.08
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",shafeiaadly,Analyst,-0.06
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Ben Jen,Analyst,-0.06
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",andluger,Analyst,-0.05
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Bill,Analyst,-0.05
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Kevinemeier,Analyst,-0.05
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Zilvinas Speteliunas,Analyst,-0.05
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_3159502,Analyst,-0.08
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Plu,Analyst,-0.08
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",robert brand,Analyst,-0.03
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",rpajam,Analyst,-0.02
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",Alex Henderson,Analyst,-0.1
+fq3-2020,AAOI,"Applied Optoelectronics, Inc.",bubbybubster,Analyst,0.02
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Reported Earnings,Generic,-0.2
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",AAOI Guidance,Generic,-0.22
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Consensus,Generic,-0.18
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Estimize Mean,Generic,-0.11
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Wall Street Consensus,Generic,-0.23
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",andluger,Analyst,-0.19
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_3159502,Analyst,-0.19
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Bill,Analyst,-0.19
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Zilvinas Speteliunas,Analyst,-0.19
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Alex Henderson,Analyst,-0.24
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_4865844,Analyst,-0.14
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",rpajam,Analyst,-0.02
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Kevinemeier,Analyst,0.05
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",Analyst_2421160,Analyst,0.1
+fq4-2020,AAOI,"Applied Optoelectronics, Inc.",mstepan,Analyst,0.1
+fq1-2020,AAON,AAON Inc.,AAON Reported Earnings,Generic,0.41
+fq1-2020,AAON,AAON Inc.,Estimize Consensus,Generic,0.34
+fq1-2020,AAON,AAON Inc.,Estimize Mean,Generic,0.34
+fq1-2020,AAON,AAON Inc.,Wall Street Consensus,Generic,0.35
+fq1-2020,AAON,AAON Inc.,Ben Jen,Analyst,0.34
+fq1-2020,AAON,AAON Inc.,Bill,Analyst,0.34
+fq1-2020,AAON,AAON Inc.,Frederick Tremblay,Analyst,0.34
+fq1-2020,AAON,AAON Inc.,Analyst_2777191,Analyst,0.33
+fq2-2020,AAON,AAON Inc.,AAON Reported Earnings,Generic,0.34
+fq2-2020,AAON,AAON Inc.,Estimize Consensus,Generic,0.38
+fq2-2020,AAON,AAON Inc.,Estimize Mean,Generic,0.36
+fq2-2020,AAON,AAON Inc.,Wall Street Consensus,Generic,0.37
+fq2-2020,AAON,AAON Inc.,Frederick Tremblay,Analyst,0.34
+fq2-2020,AAON,AAON Inc.,Sentinel,Analyst,0.35
+fq2-2020,AAON,AAON Inc.,Bill,Analyst,0.38
+fq3-2020,AAON,AAON Inc.,AAON Reported Earnings,Generic,0.38
+fq3-2020,AAON,AAON Inc.,Estimize Mean,Generic,-
+fq3-2020,AAON,AAON Inc.,Wall Street Consensus,Generic,0.31
+fq3-2020,AAON,AAON Inc.,Bill,Analyst,0.32
+fq4-2020,AAON,AAON Inc.,AAON Reported Earnings,Generic,0.27
+fq4-2020,AAON,AAON Inc.,Estimize Mean,Generic,-
+fq4-2020,AAON,AAON Inc.,Wall Street Consensus,Generic,0.29
+fq4-2020,AAON,AAON Inc.,Bill,Analyst,0.33
+fq1-2020,AAP,Advance Auto Parts Inc.,AAP Reported Earnings,Generic,0.91
+fq1-2020,AAP,Advance Auto Parts Inc.,Estimize Consensus,Generic,1.8
+fq1-2020,AAP,Advance Auto Parts Inc.,Estimize Mean,Generic,2.03
+fq1-2020,AAP,Advance Auto Parts Inc.,Wall Street Consensus,Generic,1.76
+fq1-2020,AAP,Advance Auto Parts Inc.,loopie,Analyst,1.73
+fq1-2020,AAP,Advance Auto Parts Inc.,Analyst_7973079,Analyst,1.75
+fq1-2020,AAP,Advance Auto Parts Inc.,Analyst_1282980,Analyst,1.76
+fq1-2020,AAP,Advance Auto Parts Inc.,Sentinel,Analyst,1.77
+fq1-2020,AAP,Advance Auto Parts Inc.,TV447703,Analyst,1.8
+fq1-2020,AAP,Advance Auto Parts Inc.,Ben Jen,Analyst,1.8
+fq1-2020,AAP,Advance Auto Parts Inc.,Bill,Analyst,1.81
+fq1-2020,AAP,Advance Auto Parts Inc.,Ron,Analyst,1.85
+fq1-2020,AAP,Advance Auto Parts Inc.,robert brand,Analyst,1.85
+fq1-2020,AAP,Advance Auto Parts Inc.,WincoreCapital,Analyst,1.85
+fq1-2020,AAP,Advance Auto Parts Inc.,Frederick Tremblay,Analyst,1.95
+fq1-2020,AAP,Advance Auto Parts Inc.,"Brian Nagel, CFA",Analyst,2.47
+fq1-2020,AAP,Advance Auto Parts Inc.,Analyst_3642898,Analyst,2.76
+fq1-2020,AAP,Advance Auto Parts Inc.,"Bret Jordan, CFA",Analyst,3.29
+fq2-2020,AAP,Advance Auto Parts Inc.,AAP Reported Earnings,Generic,2.92
+fq2-2020,AAP,Advance Auto Parts Inc.,Estimize Consensus,Generic,2.03
+fq2-2020,AAP,Advance Auto Parts Inc.,Estimize Mean,Generic,1.96
+fq2-2020,AAP,Advance Auto Parts Inc.,Wall Street Consensus,Generic,1.98
+fq2-2020,AAP,Advance Auto Parts Inc.,"Bret Jordan, CFA",Analyst,2.81
+fq2-2020,AAP,Advance Auto Parts Inc.,TV447703,Analyst,2.39
+fq2-2020,AAP,Advance Auto Parts Inc.,Analyst_8113162,Analyst,2.03
+fq2-2020,AAP,Advance Auto Parts Inc.,Dem,Analyst,1.98
+fq2-2020,AAP,Advance Auto Parts Inc.,Bill,Analyst,1.9
+fq2-2020,AAP,Advance Auto Parts Inc.,robert brand,Analyst,1.85
+fq2-2020,AAP,Advance Auto Parts Inc.,vovakm,Analyst,1.82
+fq2-2020,AAP,Advance Auto Parts Inc.,"Brian Nagel, CFA",Analyst,1.61
+fq2-2020,AAP,Advance Auto Parts Inc.,Sentinel,Analyst,1.28
+fq3-2020,AAP,Advance Auto Parts Inc.,AAP Reported Earnings,Generic,2.81
+fq3-2020,AAP,Advance Auto Parts Inc.,Estimize Consensus,Generic,2.83
+fq3-2020,AAP,Advance Auto Parts Inc.,Estimize Mean,Generic,2.74
+fq3-2020,AAP,Advance Auto Parts Inc.,Wall Street Consensus,Generic,2.7
+fq3-2020,AAP,Advance Auto Parts Inc.,robert brand,Analyst,2.82
+fq3-2020,AAP,Advance Auto Parts Inc.,TV447703,Analyst,2.83
+fq3-2020,AAP,Advance Auto Parts Inc.,Ben Jen,Analyst,2.75
+fq3-2020,AAP,Advance Auto Parts Inc.,Bill,Analyst,2.75
+fq3-2020,AAP,Advance Auto Parts Inc.,jean_acciari,Analyst,3
+fq3-2020,AAP,Advance Auto Parts Inc.,"Brian Nagel, CFA",Analyst,2.3
+fq4-2020,AAP,Advance Auto Parts Inc.,AAP Reported Earnings,Generic,1.87
+fq4-2020,AAP,Advance Auto Parts Inc.,Estimize Consensus,Generic,2.11
+fq4-2020,AAP,Advance Auto Parts Inc.,Estimize Mean,Generic,2
+fq4-2020,AAP,Advance Auto Parts Inc.,Wall Street Consensus,Generic,1.98
+fq4-2020,AAP,Advance Auto Parts Inc.,"Brian Nagel, CFA",Analyst,1.8
+fq4-2020,AAP,Advance Auto Parts Inc.,TV447703,Analyst,2.01
+fq4-2020,AAP,Advance Auto Parts Inc.,robert brand,Analyst,2.04
+fq4-2020,AAP,Advance Auto Parts Inc.,Bill,Analyst,2.15
+fq1-2020,AAPL,Apple Inc.,AAPL Reported Earnings,Generic,1.25
+fq1-2020,AAPL,Apple Inc.,Estimize Consensus,Generic,1.15
+fq1-2020,AAPL,Apple Inc.,Estimize Mean,Generic,1.14
+fq1-2020,AAPL,Apple Inc.,Wall Street Consensus,Generic,1.13
+fq1-2020,AAPL,Apple Inc.,Analyst_6812161,Analyst,1.25
+fq1-2020,AAPL,Apple Inc.,Analyst_8775157,Analyst,1.25
+fq1-2020,AAPL,Apple Inc.,Analyst_737033,Analyst,1.25
+fq1-2020,AAPL,Apple Inc.,miltrltr,Analyst,1.25
+fq1-2020,AAPL,Apple Inc.,Analyst_4316998,Analyst,1.25
+fq1-2020,AAPL,Apple Inc.,Avinash,Analyst,1.25
+fq1-2020,AAPL,Apple Inc.,Analyst_5607057,Analyst,1.26
+fq1-2020,AAPL,Apple Inc.,panda_w,Analyst,1.26
+fq1-2020,AAPL,Apple Inc.,EDWIN ORTIZ,Analyst,1.23
+fq1-2020,AAPL,Apple Inc.,Alamosbeat,Analyst,1.23
+fq1-2020,AAPL,Apple Inc.,sushil,Analyst,1.22
+fq1-2020,AAPL,Apple Inc.,Analyst_7779696,Analyst,1.22
+fq1-2020,AAPL,Apple Inc.,Analyst_3290108,Analyst,1.22
+fq1-2020,AAPL,Apple Inc.,Analyst_6221028,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Jonette,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Analyst_9971984,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Analyst_9311341,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Tintin31,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Analyst_6836919,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Analyst_3874771,Analyst,1.21
+fq1-2020,AAPL,Apple Inc.,Joey,Analyst,1.2
+fq1-2020,AAPL,Apple Inc.,Analyst_508786,Analyst,1.2
+fq1-2020,AAPL,Apple Inc.,khoka214,Analyst,1.2
+fq1-2020,AAPL,Apple Inc.,TBuckley,Analyst,1.2
+fq1-2020,AAPL,Apple Inc.,Analyst_4146227,Analyst,1.2
+fq1-2020,AAPL,Apple Inc.,TTQ1991,Analyst,1.2
+fq1-2020,AAPL,Apple Inc.,RaghuRam,Analyst,1.19
+fq1-2020,AAPL,Apple Inc.,Analyst_3159502,Analyst,1.19
+fq1-2020,AAPL,Apple Inc.,Analyst_1972122,Analyst,1.19
+fq1-2020,AAPL,Apple Inc.,Gregg Thurman,Analyst,1.19
+fq2-2020,AAPL,Apple Inc.,AAPL Reported Earnings,Generic,0.64
+fq2-2020,AAPL,Apple Inc.,Estimize Consensus,Generic,0.58
+fq2-2020,AAPL,Apple Inc.,Estimize Mean,Generic,0.62
+fq2-2020,AAPL,Apple Inc.,Wall Street Consensus,Generic,0.56
+fq2-2020,AAPL,Apple Inc.,crespov,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_5385162,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_5614671,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_4592242,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_4452969,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_2741491,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_7368202,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_1189654,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_530056,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_4142124,Analyst,0.64
+fq2-2020,AAPL,Apple Inc.,Analyst_1787247,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_7439408,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_7971658,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,BCEAGLE74,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Cwill,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,riccardo_m,Analyst,0.65
+fq2-2020,AAPL,Apple Inc.,Analyst_788834,Analyst,0.65
+fq2-2020,AAPL,Apple Inc.,Analyst_8160889,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_8645565,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_6532806,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,rs_thadani,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Bramha,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,LA_Engineer,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Kimbo,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Marco Rossi,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_4232083,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_195118,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_1486360,Analyst,0.63
+fq2-2020,AAPL,Apple Inc.,Analyst_3913400,Analyst,0.65
+fq2-2020,AAPL,Apple Inc.,Analyst_3973262,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,AAPL Reported Earnings,Generic,0.65
+fq3-2020,AAPL,Apple Inc.,Estimize Consensus,Generic,0.53
+fq3-2020,AAPL,Apple Inc.,Estimize Mean,Generic,0.54
+fq3-2020,AAPL,Apple Inc.,Wall Street Consensus,Generic,0.51
+fq3-2020,AAPL,Apple Inc.,kyleevanmurphy,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,Analyst_7344258,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,GrinderCapital,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,Analyst_8501733,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,Analyst_7243537,Analyst,0.64
+fq3-2020,AAPL,Apple Inc.,Analyst_3598297,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,jimmypsu35,Analyst,0.65
+fq3-2020,AAPL,Apple Inc.,Jocelyn Lopez,Analyst,0.64
+fq3-2020,AAPL,Apple Inc.,Analyst_5727836,Analyst,0.64
+fq3-2020,AAPL,Apple Inc.,sajjad,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,Analyst_2680948,Analyst,0.66
+fq3-2020,AAPL,Apple Inc.,skrrrreeeeeeee,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,mowerbob,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,Analyst_2995157,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,DrOctogone,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,Analyst_2805367,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,Analyst_3219570,Analyst,0.63
+fq3-2020,AAPL,Apple Inc.,Relte,Analyst,0.62
+fq3-2020,AAPL,Apple Inc.,HASAN OGUZ,Analyst,0.62
+fq3-2020,AAPL,Apple Inc.,sugarfysh,Analyst,0.62
+fq3-2020,AAPL,Apple Inc.,Analyst_4246828,Analyst,0.62
+fq3-2020,AAPL,Apple Inc.,uberdaddy,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Analyst_3243841,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Analyst_9402829,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Zacking1982,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Analyst_4703258,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Analyst_2348576,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Analyst_8423513,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,PJH,Analyst,0.61
+fq3-2020,AAPL,Apple Inc.,Analyst_8766584,Analyst,0.61
+fq4-2020,AAPL,Apple Inc.,AAPL Reported Earnings,Generic,0.73
+fq4-2020,AAPL,Apple Inc.,Estimize Consensus,Generic,0.76
+fq4-2020,AAPL,Apple Inc.,Estimize Mean,Generic,0.76
+fq4-2020,AAPL,Apple Inc.,Wall Street Consensus,Generic,0.71
+fq4-2020,AAPL,Apple Inc.,Academy4daWise,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Gerrit,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_7639841,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_4525166,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_6825371,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,skull2003,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_6362830,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_3209473,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_4288044,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_727375,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,bwolf3,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_1242753,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_4426482,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_4642668,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_6405856,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Strontain,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,SDinow,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_6673540,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_5248193,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,AAFED,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_3991360,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_3466341,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_6490946,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_4209670,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_4641260,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Analyst_3670895,Analyst,0.73
+fq4-2020,AAPL,Apple Inc.,Baraujo22,Analyst,0.72
+fq4-2020,AAPL,Apple Inc.,chiron09,Analyst,0.74
+fq4-2020,AAPL,Apple Inc.,Louie Cale,Analyst,0.74
+fq4-2020,AAPL,Apple Inc.,Charlotte Walker,Analyst,0.72
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAWW Reported Earnings,Generic,1.15
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Consensus,Generic,0.08
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Mean,Generic,0.08
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Wall Street Consensus,Generic,0.05
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_2777191,Analyst,0.5
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Bill,Analyst,0.1
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PM,Analyst,0.09
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_5795851,Analyst,0.08
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Ben Jen,Analyst,0.07
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Rob Ford,Analyst,0.07
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,New_Moon,Analyst,0.07
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_8075381,Analyst,0.06
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PCLA,Analyst,0.06
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Frederick Tremblay,Analyst,0.06
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Zilvinas Speteliunas,Analyst,0.06
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_8367894,Analyst,0.04
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Kevin Sterling,Analyst,0.02
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Ram,Analyst,0.02
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAFED,Analyst,0.01
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,dalton,Analyst,0.01
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Scott Hendricks,Analyst,0
+fq1-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_9771433,Analyst,3
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAWW Reported Earnings,Generic,4.71
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Consensus,Generic,2.05
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Mean,Generic,1.67
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Wall Street Consensus,Generic,2.13
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,dalton,Analyst,2.34
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PCLA,Analyst,2.2
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Zilvinas Speteliunas,Analyst,2.2
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PM,Analyst,2.14
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Ram,Analyst,2.1
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAFED,Analyst,2
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,larrylai,Analyst,1.99
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_2777191,Analyst,1.9
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Rob Ford,Analyst,1.9
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Medic2525,Analyst,1.87
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Bill,Analyst,1.81
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,omni,Analyst,1.13
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Sentinel,Analyst,1.09
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Kevin Sterling,Analyst,0.3
+fq2-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Frederick Tremblay,Analyst,0.06
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAWW Reported Earnings,Generic,2.84
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Consensus,Generic,3.08
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Mean,Generic,2.78
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Wall Street Consensus,Generic,2.4
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PCLA,Analyst,2.78
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Rob Ford,Analyst,2.75
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Bill,Analyst,2.64
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PM,Analyst,3.16
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Ben Jen,Analyst,2.5
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_9860930,Analyst,2.46
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,larrylai,Analyst,2.42
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Analyst_5795851,Analyst,2.42
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAFED,Analyst,2.41
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Dominantstock,Analyst,2.35
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Zilvinas Speteliunas,Analyst,3.4
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Scott Hendricks,Analyst,3.42
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,dalton,Analyst,3.53
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Hardeep,Analyst,4.87
+fq3-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Kevin Sterling,Analyst,0.61
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAWW Reported Earnings,Generic,4.83
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Consensus,Generic,3.79
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Estimize Mean,Generic,3.63
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Wall Street Consensus,Generic,3.62
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Scott Hendricks,Analyst,4.11
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Rob Ford,Analyst,3.8
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Zilvinas Speteliunas,Analyst,3.79
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Bill,Analyst,3.76
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,dalton,Analyst,3.68
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,PM,Analyst,3.67
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,AAFED,Analyst,3.65
+fq4-2020,AAWW,Atlas Air Worldwide Holdings Inc.,Kevin Sterling,Analyst,2.57
+fq1-2020,AXON,"Axon Enterprise, Inc.",AXON Reported Earnings,Generic,0.4
+fq1-2020,AXON,"Axon Enterprise, Inc.",Estimize Consensus,Generic,0.21
+fq1-2020,AXON,"Axon Enterprise, Inc.",Estimize Mean,Generic,0.22
+fq1-2020,AXON,"Axon Enterprise, Inc.",Wall Street Consensus,Generic,0.18
+fq1-2020,AXON,"Axon Enterprise, Inc.",Ducsun,Analyst,0.38
+fq1-2020,AXON,"Axon Enterprise, Inc.",Analyst_7826317,Analyst,0.31
+fq1-2020,AXON,"Axon Enterprise, Inc.",robert brand,Analyst,0.28
+fq1-2020,AXON,"Axon Enterprise, Inc.",djh,Analyst,0.25
+fq1-2020,AXON,"Axon Enterprise, Inc.",KH932806,Analyst,0.21
+fq1-2020,AXON,"Axon Enterprise, Inc.",Andrew Uerkwitz,Analyst,0.21
+fq1-2020,AXON,"Axon Enterprise, Inc.",Analyst_783524,Analyst,0.21
+fq1-2020,AXON,"Axon Enterprise, Inc.",Bill,Analyst,0.2
+fq1-2020,AXON,"Axon Enterprise, Inc.",kerry burrell,Analyst,0.2
+fq1-2020,AXON,"Axon Enterprise, Inc.",Scott Berg,Analyst,0.19
+fq1-2020,AXON,"Axon Enterprise, Inc.",Frederick Tremblay,Analyst,0.19
+fq1-2020,AXON,"Axon Enterprise, Inc.",Ben Jen,Analyst,0.19
+fq1-2020,AXON,"Axon Enterprise, Inc.",Bigorangedave,Analyst,0.19
+fq1-2020,AXON,"Axon Enterprise, Inc.",GregTripple,Analyst,0.19
+fq1-2020,AXON,"Axon Enterprise, Inc.",Analyst_3180966,Analyst,0.18
+fq1-2020,AXON,"Axon Enterprise, Inc.",Analyst_5599441,Analyst,0.18
+fq2-2020,AXON,"Axon Enterprise, Inc.",AXON Reported Earnings,Generic,-0.01
+fq2-2020,AXON,"Axon Enterprise, Inc.",Estimize Consensus,Generic,0.21
+fq2-2020,AXON,"Axon Enterprise, Inc.",Estimize Mean,Generic,0.22
+fq2-2020,AXON,"Axon Enterprise, Inc.",Wall Street Consensus,Generic,0.16
+fq2-2020,AXON,"Axon Enterprise, Inc.",Andrew Uerkwitz,Analyst,0.13
+fq2-2020,AXON,"Axon Enterprise, Inc.",Analyst_6459845,Analyst,0.16
+fq2-2020,AXON,"Axon Enterprise, Inc.",Analyst_5426945,Analyst,0.16
+fq2-2020,AXON,"Axon Enterprise, Inc.",Scott Berg,Analyst,0.19
+fq2-2020,AXON,"Axon Enterprise, Inc.",kobv,Analyst,0.19
+fq2-2020,AXON,"Axon Enterprise, Inc.",Bill,Analyst,0.19
+fq2-2020,AXON,"Axon Enterprise, Inc.",Medic2525,Analyst,0.19
+fq2-2020,AXON,"Axon Enterprise, Inc.",Analyst_7826317,Analyst,0.19
+fq2-2020,AXON,"Axon Enterprise, Inc.",GregTripple,Analyst,0.2
+fq2-2020,AXON,"Axon Enterprise, Inc.",Ron,Analyst,0.2
+fq2-2020,AXON,"Axon Enterprise, Inc.",Analyst_279874,Analyst,0.2
+fq2-2020,AXON,"Axon Enterprise, Inc.",Sentinel,Analyst,0.22
+fq2-2020,AXON,"Axon Enterprise, Inc.",robert brand,Analyst,0.22
+fq2-2020,AXON,"Axon Enterprise, Inc.",KH932806,Analyst,0.23
+fq2-2020,AXON,"Axon Enterprise, Inc.",MarkMessierFan,Analyst,0.25
+fq2-2020,AXON,"Axon Enterprise, Inc.",Ducsun,Analyst,0.4
+fq2-2020,AXON,"Axon Enterprise, Inc.",RensPuts,Analyst,0.4
+fq3-2020,AXON,"Axon Enterprise, Inc.",AXON Reported Earnings,Generic,0.4
+fq3-2020,AXON,"Axon Enterprise, Inc.",Estimize Consensus,Generic,0.23
+fq3-2020,AXON,"Axon Enterprise, Inc.",Estimize Mean,Generic,0.23
+fq3-2020,AXON,"Axon Enterprise, Inc.",Wall Street Consensus,Generic,0.2
+fq3-2020,AXON,"Axon Enterprise, Inc.",GregTripple,Analyst,0.3
+fq3-2020,AXON,"Axon Enterprise, Inc.",djh,Analyst,0.3
+fq3-2020,AXON,"Axon Enterprise, Inc.",Ron,Analyst,0.3
+fq3-2020,AXON,"Axon Enterprise, Inc.",robert brand,Analyst,0.24
+fq3-2020,AXON,"Axon Enterprise, Inc.",KH932806,Analyst,0.23
+fq3-2020,AXON,"Axon Enterprise, Inc.",Ducsun,Analyst,0.22
+fq3-2020,AXON,"Axon Enterprise, Inc.",Bill,Analyst,0.22
+fq3-2020,AXON,"Axon Enterprise, Inc.",Ben Jen,Analyst,0.22
+fq3-2020,AXON,"Axon Enterprise, Inc.",Analyst_4321238,Analyst,0.21
+fq3-2020,AXON,"Axon Enterprise, Inc.",bdc32,Analyst,0.21
+fq3-2020,AXON,"Axon Enterprise, Inc.",Scott Berg,Analyst,0.2
+fq3-2020,AXON,"Axon Enterprise, Inc.",Analyst_7826317,Analyst,0.2
+fq3-2020,AXON,"Axon Enterprise, Inc.",Andrew Uerkwitz,Analyst,0.16
+fq3-2020,AXON,"Axon Enterprise, Inc.",Bigorangedave,Analyst,0.14
+fq4-2020,AXON,"Axon Enterprise, Inc.",AXON Reported Earnings,Generic,1
+fq4-2020,AXON,"Axon Enterprise, Inc.",Estimize Consensus,Generic,0.39
+fq4-2020,AXON,"Axon Enterprise, Inc.",Estimize Mean,Generic,0.38
+fq4-2020,AXON,"Axon Enterprise, Inc.",Wall Street Consensus,Generic,0.36
+fq4-2020,AXON,"Axon Enterprise, Inc.",GregTripple,Analyst,0.45
+fq4-2020,AXON,"Axon Enterprise, Inc.",robert brand,Analyst,0.45
+fq4-2020,AXON,"Axon Enterprise, Inc.",KH932806,Analyst,0.43
+fq4-2020,AXON,"Axon Enterprise, Inc.",Ducsun,Analyst,0.43
+fq4-2020,AXON,"Axon Enterprise, Inc.",djh,Analyst,0.42
+fq4-2020,AXON,"Axon Enterprise, Inc.",Bigorangedave,Analyst,0.42
+fq4-2020,AXON,"Axon Enterprise, Inc.",Analyst_4671258,Analyst,0.41
+fq4-2020,AXON,"Axon Enterprise, Inc.",Jen_F,Analyst,0.41
+fq4-2020,AXON,"Axon Enterprise, Inc.",Seandc37796,Analyst,0.4
+fq4-2020,AXON,"Axon Enterprise, Inc.",Bill,Analyst,0.39
+fq4-2020,AXON,"Axon Enterprise, Inc.",Scott Berg,Analyst,0.38
+fq4-2020,AXON,"Axon Enterprise, Inc.",bdc32,Analyst,0.38
+fq4-2020,AXON,"Axon Enterprise, Inc.",Analyst_1449431,Analyst,0.36
+fq4-2020,AXON,"Axon Enterprise, Inc.",Andrew Uerkwitz,Analyst,0.26
+fq4-2020,AXON,"Axon Enterprise, Inc.",MarkMessierFan,Analyst,0.17
+fq1-2020,ABBV,AbbVie Inc.,ABBV Reported Earnings,Generic,2.42
+fq1-2020,ABBV,AbbVie Inc.,ABBV Guidance,Generic,2.29
+fq1-2020,ABBV,AbbVie Inc.,Estimize Consensus,Generic,2.27
+fq1-2020,ABBV,AbbVie Inc.,Estimize Mean,Generic,2.25
+fq1-2020,ABBV,AbbVie Inc.,Wall Street Consensus,Generic,2.25
+fq1-2020,ABBV,AbbVie Inc.,Nobby,Analyst,2.45
+fq1-2020,ABBV,AbbVie Inc.,Analyst_Holly,Analyst,2.34
+fq1-2020,ABBV,AbbVie Inc.,Armour65,Analyst,2.32
+fq1-2020,ABBV,AbbVie Inc.,rpajam,Analyst,2.32
+fq1-2020,ABBV,AbbVie Inc.,robertoagodinez,Analyst,2.31
+fq1-2020,ABBV,AbbVie Inc.,Analyst_831609,Analyst,2.3
+fq1-2020,ABBV,AbbVie Inc.,Helsou,Analyst,2.29
+fq1-2020,ABBV,AbbVie Inc.,Analyst_2777191,Analyst,2.29
+fq1-2020,ABBV,AbbVie Inc.,Analyst_7906962,Analyst,2.28
+fq1-2020,ABBV,AbbVie Inc.,Opskie,Analyst,2.28
+fq1-2020,ABBV,AbbVie Inc.,Knute,Analyst,2.28
+fq1-2020,ABBV,AbbVie Inc.,Ben Jen,Analyst,2.28
+fq1-2020,ABBV,AbbVie Inc.,Scott P. Cunningham,Analyst,2.27
+fq1-2020,ABBV,AbbVie Inc.,Bigmar,Analyst,2.27
+fq1-2020,ABBV,AbbVie Inc.,Cwill,Analyst,2.27
+fq1-2020,ABBV,AbbVie Inc.,Options4Life,Analyst,2.27
+fq1-2020,ABBV,AbbVie Inc.,kerry burrell,Analyst,2.27
+fq1-2020,ABBV,AbbVie Inc.,Bill,Analyst,2.27
+fq1-2020,ABBV,AbbVie Inc.,Analyst_2861660,Analyst,2.26
+fq1-2020,ABBV,AbbVie Inc.,Time_Seller,Analyst,2.26
+fq1-2020,ABBV,AbbVie Inc.,Frederick Tremblay,Analyst,2.26
+fq1-2020,ABBV,AbbVie Inc.,Analyst_5039344,Analyst,2.25
+fq1-2020,ABBV,AbbVie Inc.,Analyst_6079653,Analyst,2.25
+fq1-2020,ABBV,AbbVie Inc.,Analyst_5626156,Analyst,2.24
+fq1-2020,ABBV,AbbVie Inc.,PCLA,Analyst,2.24
+fq1-2020,ABBV,AbbVie Inc.,JABOM_AM,Analyst,2.23
+fq1-2020,ABBV,AbbVie Inc.,RWDKPD,Analyst,2.22
+fq1-2020,ABBV,AbbVie Inc.,Analyst_4615816,Analyst,2.22
+fq1-2020,ABBV,AbbVie Inc.,BirdT,Analyst,2.22
+fq1-2020,ABBV,AbbVie Inc.,Drogness,Analyst,2.19
+fq2-2020,ABBV,AbbVie Inc.,ABBV Reported Earnings,Generic,2.34
+fq2-2020,ABBV,AbbVie Inc.,ABBV Guidance,Generic,2.13
+fq2-2020,ABBV,AbbVie Inc.,Estimize Consensus,Generic,2.29
+fq2-2020,ABBV,AbbVie Inc.,Estimize Mean,Generic,2.29
+fq2-2020,ABBV,AbbVie Inc.,Wall Street Consensus,Generic,2.2
+fq2-2020,ABBV,AbbVie Inc.,LA_Engineer,Analyst,2.34
+fq2-2020,ABBV,AbbVie Inc.,GregTripple,Analyst,2.35
+fq2-2020,ABBV,AbbVie Inc.,ztg1993,Analyst,2.35
+fq2-2020,ABBV,AbbVie Inc.,Snpman,Analyst,2.35
+fq2-2020,ABBV,AbbVie Inc.,rpajam,Analyst,2.36
+fq2-2020,ABBV,AbbVie Inc.,Knute,Analyst,2.31
+fq2-2020,ABBV,AbbVie Inc.,Analyst_5569766,Analyst,2.39
+fq2-2020,ABBV,AbbVie Inc.,Cwill,Analyst,2.39
+fq2-2020,ABBV,AbbVie Inc.,Analyst_8367894,Analyst,2.28
+fq2-2020,ABBV,AbbVie Inc.,Burdman1000,Analyst,2.28
+fq2-2020,ABBV,AbbVie Inc.,kerry burrell,Analyst,2.28
+fq2-2020,ABBV,AbbVie Inc.,Analyst_6476509,Analyst,2.27
+fq2-2020,ABBV,AbbVie Inc.,DF_5082802,Analyst,2.26
+fq2-2020,ABBV,AbbVie Inc.,Analyst_8113162,Analyst,2.26
+fq2-2020,ABBV,AbbVie Inc.,Medic2525,Analyst,2.26
+fq2-2020,ABBV,AbbVie Inc.,Christopher Smith,Analyst,2.25
+fq2-2020,ABBV,AbbVie Inc.,Ben Jen,Analyst,2.24
+fq2-2020,ABBV,AbbVie Inc.,Analyst_6662580,Analyst,2.23
+fq2-2020,ABBV,AbbVie Inc.,Analyst_7009256,Analyst,2.23
+fq2-2020,ABBV,AbbVie Inc.,Time_Seller,Analyst,2.23
+fq2-2020,ABBV,AbbVie Inc.,Analyst_2360728,Analyst,2.23
+fq2-2020,ABBV,AbbVie Inc.,Drogness,Analyst,2.45
+fq2-2020,ABBV,AbbVie Inc.,Analyst_6452210,Analyst,2.45
+fq2-2020,ABBV,AbbVie Inc.,kobv,Analyst,2.22
+fq2-2020,ABBV,AbbVie Inc.,Analyst_Holly,Analyst,2.22
+fq2-2020,ABBV,AbbVie Inc.,Manolito,Analyst,2.21
+fq2-2020,ABBV,AbbVie Inc.,Analyst_3670895,Analyst,2.21
+fq2-2020,ABBV,AbbVie Inc.,Ron,Analyst,2.21
+fq2-2020,ABBV,AbbVie Inc.,contract21,Analyst,2.21
+fq2-2020,ABBV,AbbVie Inc.,Bill,Analyst,2.21
+fq3-2020,ABBV,AbbVie Inc.,ABBV Reported Earnings,Generic,2.83
+fq3-2020,ABBV,AbbVie Inc.,Estimize Consensus,Generic,2.78
+fq3-2020,ABBV,AbbVie Inc.,Estimize Mean,Generic,2.74
+fq3-2020,ABBV,AbbVie Inc.,Wall Street Consensus,Generic,2.76
+fq3-2020,ABBV,AbbVie Inc.,rpajam,Analyst,2.84
+fq3-2020,ABBV,AbbVie Inc.,Bob Ya,Analyst,2.82
+fq3-2020,ABBV,AbbVie Inc.,kerry burrell,Analyst,2.81
+fq3-2020,ABBV,AbbVie Inc.,Snpman,Analyst,2.81
+fq3-2020,ABBV,AbbVie Inc.,Jen_F,Analyst,2.8
+fq3-2020,ABBV,AbbVie Inc.,Knute,Analyst,2.8
+fq3-2020,ABBV,AbbVie Inc.,DF_5082802,Analyst,2.8
+fq3-2020,ABBV,AbbVie Inc.,Analyst_6143572,Analyst,2.8
+fq3-2020,ABBV,AbbVie Inc.,Ben Jen,Analyst,2.8
+fq3-2020,ABBV,AbbVie Inc.,Ron,Analyst,2.79
+fq3-2020,ABBV,AbbVie Inc.,eduard_naumov,Analyst,2.79
+fq3-2020,ABBV,AbbVie Inc.,JABOM_AM,Analyst,2.79
+fq3-2020,ABBV,AbbVie Inc.,Analyst_8367894,Analyst,2.78
+fq3-2020,ABBV,AbbVie Inc.,Bill,Analyst,2.78
+fq3-2020,ABBV,AbbVie Inc.,Analyst_7183355,Analyst,2.77
+fq3-2020,ABBV,AbbVie Inc.,IT_Champion,Analyst,2.9
+fq3-2020,ABBV,AbbVie Inc.,Analyst_1561047,Analyst,2.9
+fq3-2020,ABBV,AbbVie Inc.,LA_Engineer,Analyst,2.9
+fq3-2020,ABBV,AbbVie Inc.,Star,Analyst,2.76
+fq3-2020,ABBV,AbbVie Inc.,Analyst_1516839,Analyst,2.76
+fq3-2020,ABBV,AbbVie Inc.,Gregg Gilbert,Analyst,2.76
+fq3-2020,ABBV,AbbVie Inc.,Analyst_2088276,Analyst,2.74
+fq3-2020,ABBV,AbbVie Inc.,PCLA,Analyst,2.74
+fq3-2020,ABBV,AbbVie Inc.,Analyst_Holly,Analyst,2.71
+fq3-2020,ABBV,AbbVie Inc.,Analyst_3162050,Analyst,2.71
+fq3-2020,ABBV,AbbVie Inc.,Analyst_3719042,Analyst,2.71
+fq3-2020,ABBV,AbbVie Inc.,coby255,Analyst,2.7
+fq3-2020,ABBV,AbbVie Inc.,Christopher Smith,Analyst,2.69
+fq3-2020,ABBV,AbbVie Inc.,Analyst_2861660,Analyst,2.69
+fq3-2020,ABBV,AbbVie Inc.,Julian_01090807,Analyst,2.69
+fq4-2020,ABBV,AbbVie Inc.,ABBV Reported Earnings,Generic,2.92
+fq4-2020,ABBV,AbbVie Inc.,Estimize Consensus,Generic,2.92
+fq4-2020,ABBV,AbbVie Inc.,Estimize Mean,Generic,2.91
+fq4-2020,ABBV,AbbVie Inc.,Wall Street Consensus,Generic,2.85
+fq4-2020,ABBV,AbbVie Inc.,DF_5082802,Analyst,2.91
+fq4-2020,ABBV,AbbVie Inc.,Cwill,Analyst,2.91
+fq4-2020,ABBV,AbbVie Inc.,Gary,Analyst,2.91
+fq4-2020,ABBV,AbbVie Inc.,Analyst_9665942,Analyst,2.93
+fq4-2020,ABBV,AbbVie Inc.,Drogness,Analyst,2.93
+fq4-2020,ABBV,AbbVie Inc.,obdarenik,Analyst,2.9
+fq4-2020,ABBV,AbbVie Inc.,coby255,Analyst,2.9
+fq4-2020,ABBV,AbbVie Inc.,Analyst_Holly,Analyst,2.94
+fq4-2020,ABBV,AbbVie Inc.,reachmaqsood,Analyst,2.9
+fq4-2020,ABBV,AbbVie Inc.,Analyst_4911374,Analyst,2.89
+fq4-2020,ABBV,AbbVie Inc.,Vts,Analyst,2.89
+fq4-2020,ABBV,AbbVie Inc.,Christopher Smith,Analyst,2.95
+fq4-2020,ABBV,AbbVie Inc.,Analyst_2861660,Analyst,2.95
+fq4-2020,ABBV,AbbVie Inc.,eduard_naumov,Analyst,2.95
+fq4-2020,ABBV,AbbVie Inc.,Knute,Analyst,2.95
+fq4-2020,ABBV,AbbVie Inc.,buffoon,Analyst,2.88
+fq4-2020,ABBV,AbbVie Inc.,Bill,Analyst,2.88
+fq4-2020,ABBV,AbbVie Inc.,SmitandCo,Analyst,2.88
+fq4-2020,ABBV,AbbVie Inc.,Ben Jen,Analyst,2.87
+fq4-2020,ABBV,AbbVie Inc.,rpajam,Analyst,2.98
+fq4-2020,ABBV,AbbVie Inc.,Analyst_9627817,Analyst,2.85
+fq4-2020,ABBV,AbbVie Inc.,Gregg Gilbert,Analyst,2.84
+fq4-2020,ABBV,AbbVie Inc.,Schomet_271828,Analyst,3
+fq4-2020,ABBV,AbbVie Inc.,LA_Engineer,Analyst,3.01
+fq4-2020,ABBV,AbbVie Inc.,kerry burrell,Analyst,3.01
+fq4-2020,ABBV,AbbVie Inc.,Analyst_3670895,Analyst,2.8
+fq4-2020,ABBV,AbbVie Inc.,Snpman,Analyst,3.05
+fq4-2020,ABBV,AbbVie Inc.,Analyst_1561047,Analyst,3.05
+fq4-2020,ABBV,AbbVie Inc.,Analyst_5569766,Analyst,2.4
+fq1-2020,ABC,AmerisourceBergen Corporation,ABC Reported Earnings,Generic,1.76
+fq1-2020,ABC,AmerisourceBergen Corporation,Estimize Consensus,Generic,1.74
+fq1-2020,ABC,AmerisourceBergen Corporation,Estimize Mean,Generic,1.73
+fq1-2020,ABC,AmerisourceBergen Corporation,Wall Street Consensus,Generic,1.67
+fq1-2020,ABC,AmerisourceBergen Corporation,Analyst_umbi,Analyst,1.75
+fq1-2020,ABC,AmerisourceBergen Corporation,Medic2525,Analyst,1.75
+fq1-2020,ABC,AmerisourceBergen Corporation,Frederick Tremblay,Analyst,1.73
+fq1-2020,ABC,AmerisourceBergen Corporation,Bill,Analyst,1.71
+fq1-2020,ABC,AmerisourceBergen Corporation,Sentinel,Analyst,1.69
+fq1-2020,ABC,AmerisourceBergen Corporation,Analyst_1425427,Analyst,1.68
+fq1-2020,ABC,AmerisourceBergen Corporation,RWDKPD,Analyst,1.68
+fq1-2020,ABC,AmerisourceBergen Corporation,Bob S.,Analyst,1.67
+fq1-2020,ABC,AmerisourceBergen Corporation,Proximilar AI,Analyst,1.87
+fq2-2020,ABC,AmerisourceBergen Corporation,ABC Reported Earnings,Generic,2.4
+fq2-2020,ABC,AmerisourceBergen Corporation,Estimize Consensus,Generic,2.3
+fq2-2020,ABC,AmerisourceBergen Corporation,Estimize Mean,Generic,2.31
+fq2-2020,ABC,AmerisourceBergen Corporation,Wall Street Consensus,Generic,2.27
+fq2-2020,ABC,AmerisourceBergen Corporation,Vitaly,Analyst,2.36
+fq2-2020,ABC,AmerisourceBergen Corporation,Frederick Tremblay,Analyst,2.31
+fq2-2020,ABC,AmerisourceBergen Corporation,Bill,Analyst,2.29
+fq2-2020,ABC,AmerisourceBergen Corporation,RWDKPD,Analyst,2.28
+fq3-2020,ABC,AmerisourceBergen Corporation,ABC Reported Earnings,Generic,1.85
+fq3-2020,ABC,AmerisourceBergen Corporation,Estimize Consensus,Generic,1.7
+fq3-2020,ABC,AmerisourceBergen Corporation,Estimize Mean,Generic,1.73
+fq3-2020,ABC,AmerisourceBergen Corporation,Wall Street Consensus,Generic,1.58
+fq3-2020,ABC,AmerisourceBergen Corporation,Analyst_9749378,Analyst,1.77
+fq3-2020,ABC,AmerisourceBergen Corporation,Sentinel,Analyst,1.73
+fq3-2020,ABC,AmerisourceBergen Corporation,Bill,Analyst,1.72
+fq3-2020,ABC,AmerisourceBergen Corporation,Medic2525,Analyst,1.69
+fq4-2020,ABC,AmerisourceBergen Corporation,ABC Reported Earnings,Generic,1.89
+fq4-2020,ABC,AmerisourceBergen Corporation,Estimize Mean,Generic,-
+fq4-2020,ABC,AmerisourceBergen Corporation,Wall Street Consensus,Generic,1.85
+fq4-2020,ABC,AmerisourceBergen Corporation,Bill,Analyst,1.9
+fq4-2020,ABC,AmerisourceBergen Corporation,Analyst_9615284,Analyst,1.8
+fq1-2020,ABEO,Abeona Therapeutics Inc.,ABEO Reported Earnings,Generic,-0.52
+fq1-2020,ABEO,Abeona Therapeutics Inc.,Estimize Consensus,Generic,-0.22
+fq1-2020,ABEO,Abeona Therapeutics Inc.,Estimize Mean,Generic,-0.25
+fq1-2020,ABEO,Abeona Therapeutics Inc.,Wall Street Consensus,Generic,-0.25
+fq1-2020,ABEO,Abeona Therapeutics Inc.,"Elemer Piros, Ph.D.",Analyst,-0.31
+fq1-2020,ABEO,Abeona Therapeutics Inc.,Kristen Kluska,Analyst,-0.24
+fq1-2020,ABEO,Abeona Therapeutics Inc.,Joon Lee,Analyst,-0.21
+fq2-2020,ABEO,Abeona Therapeutics Inc.,ABEO Reported Earnings,Generic,-0.14
+fq2-2020,ABEO,Abeona Therapeutics Inc.,Estimize Consensus,Generic,-0.22
+fq2-2020,ABEO,Abeona Therapeutics Inc.,Estimize Mean,Generic,-0.23
+fq2-2020,ABEO,Abeona Therapeutics Inc.,Wall Street Consensus,Generic,-0.17
+fq2-2020,ABEO,Abeona Therapeutics Inc.,Joon Lee,Analyst,-0.17
+fq2-2020,ABEO,Abeona Therapeutics Inc.,Kristen Kluska,Analyst,-0.17
+fq2-2020,ABEO,Abeona Therapeutics Inc.,Sentinel,Analyst,-0.26
+fq2-2020,ABEO,Abeona Therapeutics Inc.,"Elemer Piros, Ph.D.",Analyst,-0.31
+fq3-2020,ABEO,Abeona Therapeutics Inc.,ABEO Reported Earnings,Generic,-0.08
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Estimize Consensus,Generic,-0.16
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Estimize Mean,Generic,-0.18
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Wall Street Consensus,Generic,-0.14
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Bill,Analyst,-0.14
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Joon Lee,Analyst,-0.16
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Joon Lee,Analyst,-0.17
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Ben Jen,Analyst,-0.17
+fq3-2020,ABEO,Abeona Therapeutics Inc.,Kristen Kluska,Analyst,-0.18
+fq3-2020,ABEO,Abeona Therapeutics Inc.,"Elemer Piros, Ph.D.",Analyst,-0.24
+fq4-2020,ABEO,Abeona Therapeutics Inc.,ABEO Reported Earnings,Generic,-0.17
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Estimize Consensus,Generic,-0.08
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Estimize Mean,Generic,-0.15
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Wall Street Consensus,Generic,-0.1
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Joon Lee,Analyst,-0.17
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Joon Lee,Analyst,-0.16
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Kristen Kluska,Analyst,-0.12
+fq4-2020,ABEO,Abeona Therapeutics Inc.,"Elemer Piros, Ph.D.",Analyst,-0.24
+fq4-2020,ABEO,Abeona Therapeutics Inc.,Bill,Analyst,-0.08
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",ABG Reported Earnings,Generic,1.8
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Consensus,Generic,1.73
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Mean,Generic,1.69
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Wall Street Consensus,Generic,1.67
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Ben Jen,Analyst,1.75
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Bill,Analyst,1.72
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Analyst_2777191,Analyst,1.71
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Frederick Tremblay,Analyst,1.92
+fq1-2020,ABG,"Asbury Automotive Group, Inc.",Stephanie Benjamin,Analyst,1.35
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",ABG Reported Earnings,Generic,2.52
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Consensus,Generic,2.53
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Mean,Generic,1.84
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Wall Street Consensus,Generic,2.49
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Bill,Analyst,2.51
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Stephanie Benjamin,Analyst,2.5
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Medic2525,Analyst,2.55
+fq2-2020,ABG,"Asbury Automotive Group, Inc.",Sentinel,Analyst,-0.2
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",ABG Reported Earnings,Generic,4.08
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",ABG Guidance,Generic,4.04
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Consensus,Generic,3.99
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Mean,Generic,3.83
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Wall Street Consensus,Generic,3.94
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Ben Jen,Analyst,4.05
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Stephanie Benjamin,Analyst,4.04
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Bill,Analyst,4.01
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Glenn Chin,Analyst,4
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",jean_acciari,Analyst,4
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Analyst_8113162,Analyst,3.77
+fq3-2020,ABG,"Asbury Automotive Group, Inc.",Stephanie Benjamin,Analyst,2.92
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",ABG Reported Earnings,Generic,4.44
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Consensus,Generic,4.21
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Estimize Mean,Generic,4.06
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Wall Street Consensus,Generic,4.13
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Glenn Chin,Analyst,4.37
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Ben Jen,Analyst,4.25
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Bill,Analyst,4.18
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Stephanie Benjamin,Analyst,4.15
+fq4-2020,ABG,"Asbury Automotive Group, Inc.",Stephanie Benjamin,Analyst,3.35
+fq1-2020,ABM,ABM Industries Inc.,ABM Reported Earnings,Generic,0.39
+fq1-2020,ABM,ABM Industries Inc.,Estimize Consensus,Generic,0.32
+fq1-2020,ABM,ABM Industries Inc.,Estimize Mean,Generic,0.32
+fq1-2020,ABM,ABM Industries Inc.,Wall Street Consensus,Generic,0.3
+fq1-2020,ABM,ABM Industries Inc.,Frederick Tremblay,Analyst,0.35
+fq1-2020,ABM,ABM Industries Inc.,Analyst_4454048,Analyst,0.34
+fq1-2020,ABM,ABM Industries Inc.,Analyst_783524,Analyst,0.33
+fq1-2020,ABM,ABM Industries Inc.,Bill,Analyst,0.32
+fq1-2020,ABM,ABM Industries Inc.,Analyst_4977438,Analyst,0.3
+fq1-2020,ABM,ABM Industries Inc.,Dem,Analyst,0.29
+fq2-2020,ABM,ABM Industries Inc.,ABM Reported Earnings,Generic,0.6
+fq2-2020,ABM,ABM Industries Inc.,Estimize Consensus,Generic,0.31
+fq2-2020,ABM,ABM Industries Inc.,Estimize Mean,Generic,0.31
+fq2-2020,ABM,ABM Industries Inc.,Wall Street Consensus,Generic,0.29
+fq2-2020,ABM,ABM Industries Inc.,omni,Analyst,0.33
+fq2-2020,ABM,ABM Industries Inc.,Sentinel,Analyst,0.31
+fq2-2020,ABM,ABM Industries Inc.,Bill,Analyst,0.31
+fq2-2020,ABM,ABM Industries Inc.,Ron,Analyst,0.3
+fq2-2020,ABM,ABM Industries Inc.,jean_acciari,Analyst,0.3
+fq3-2020,ABM,ABM Industries Inc.,ABM Reported Earnings,Generic,0.75
+fq3-2020,ABM,ABM Industries Inc.,Estimize Mean,Generic,0.44
+fq3-2020,ABM,ABM Industries Inc.,Wall Street Consensus,Generic,0.42
+fq3-2020,ABM,ABM Industries Inc.,Bill,Analyst,0.47
+fq3-2020,ABM,ABM Industries Inc.,Sentinel,Analyst,0.43
+fq3-2020,ABM,ABM Industries Inc.,Madmoni,Analyst,0.43
+fq4-2020,ABM,ABM Industries Inc.,ABM Reported Earnings,Generic,0.69
+fq4-2020,ABM,ABM Industries Inc.,Estimize Consensus,Generic,0.75
+fq4-2020,ABM,ABM Industries Inc.,Estimize Mean,Generic,0.75
+fq4-2020,ABM,ABM Industries Inc.,Wall Street Consensus,Generic,0.7
+fq4-2020,ABM,ABM Industries Inc.,Bill,Analyst,0.73
+fq4-2020,ABM,ABM Industries Inc.,Ron,Analyst,0.75
+fq4-2020,ABM,ABM Industries Inc.,jean_acciari,Analyst,0.77
+fq1-2020,ABMD,Abiomed Inc.,ABMD Reported Earnings,Generic,1
+fq1-2020,ABMD,Abiomed Inc.,Estimize Consensus,Generic,1.03
+fq1-2020,ABMD,Abiomed Inc.,Estimize Mean,Generic,1.08
+fq1-2020,ABMD,Abiomed Inc.,Wall Street Consensus,Generic,0.99
+fq1-2020,ABMD,Abiomed Inc.,Bruce Nudell,Analyst,1
+fq1-2020,ABMD,Abiomed Inc.,Sentinel,Analyst,1
+fq1-2020,ABMD,Abiomed Inc.,Analyst_664242,Analyst,1.01
+fq1-2020,ABMD,Abiomed Inc.,Mehrwert,Analyst,1.02
+fq1-2020,ABMD,Abiomed Inc.,Bill,Analyst,1.02
+fq1-2020,ABMD,Abiomed Inc.,Ram,Analyst,1.02
+fq1-2020,ABMD,Abiomed Inc.,Analyst_8740811,Analyst,1.03
+fq1-2020,ABMD,Abiomed Inc.,Frederick Tremblay,Analyst,1.05
+fq1-2020,ABMD,Abiomed Inc.,Analyst_4751723,Analyst,1.06
+fq1-2020,ABMD,Abiomed Inc.,Analyst_895856,Analyst,1.07
+fq1-2020,ABMD,Abiomed Inc.,Analyst_883247,Analyst,1.08
+fq1-2020,ABMD,Abiomed Inc.,Analyst_7465572,Analyst,1.08
+fq1-2020,ABMD,Abiomed Inc.,Analyst_5619771,Analyst,1.11
+fq1-2020,ABMD,Abiomed Inc.,Analyst_168584,Analyst,1.12
+fq1-2020,ABMD,Abiomed Inc.,Analyst_9524944,Analyst,1.14
+fq1-2020,ABMD,Abiomed Inc.,GregTripple,Analyst,1.15
+fq1-2020,ABMD,Abiomed Inc.,Analyst_12345,Analyst,1.15
+fq1-2020,ABMD,Abiomed Inc.,Analyst_3610920,Analyst,1.18
+fq1-2020,ABMD,Abiomed Inc.,TradeWinds,Analyst,1.19
+fq2-2020,ABMD,Abiomed Inc.,ABMD Reported Earnings,Generic,1.03
+fq2-2020,ABMD,Abiomed Inc.,Estimize Consensus,Generic,0.96
+fq2-2020,ABMD,Abiomed Inc.,Estimize Mean,Generic,0.98
+fq2-2020,ABMD,Abiomed Inc.,Wall Street Consensus,Generic,0.93
+fq2-2020,ABMD,Abiomed Inc.,Bruce Nudell,Analyst,1.04
+fq2-2020,ABMD,Abiomed Inc.,HelgeJohansson,Analyst,0.99
+fq2-2020,ABMD,Abiomed Inc.,Frederick Tremblay,Analyst,0.99
+fq2-2020,ABMD,Abiomed Inc.,Medic2525,Analyst,0.98
+fq2-2020,ABMD,Abiomed Inc.,Analyst_12345,Analyst,0.96
+fq2-2020,ABMD,Abiomed Inc.,Analyst_3610920,Analyst,1.11
+fq2-2020,ABMD,Abiomed Inc.,Analyst_883247,Analyst,0.95
+fq2-2020,ABMD,Abiomed Inc.,Bill,Analyst,0.95
+fq2-2020,ABMD,Abiomed Inc.,Analyst_9777880,Analyst,0.95
+fq2-2020,ABMD,Abiomed Inc.,Sentinel,Analyst,0.94
+fq2-2020,ABMD,Abiomed Inc.,SunRay,Analyst,0.93
+fq2-2020,ABMD,Abiomed Inc.,Analyst_397314,Analyst,0.92
+fq3-2020,ABMD,Abiomed Inc.,ABMD Reported Earnings,Generic,1.12
+fq3-2020,ABMD,Abiomed Inc.,Estimize Consensus,Generic,1.13
+fq3-2020,ABMD,Abiomed Inc.,Estimize Mean,Generic,1.15
+fq3-2020,ABMD,Abiomed Inc.,Wall Street Consensus,Generic,1.09
+fq3-2020,ABMD,Abiomed Inc.,Bill,Analyst,1.12
+fq3-2020,ABMD,Abiomed Inc.,Medic2525,Analyst,1.12
+fq3-2020,ABMD,Abiomed Inc.,Sentinel,Analyst,1.1
+fq3-2020,ABMD,Abiomed Inc.,Analyst_883247,Analyst,1.15
+fq3-2020,ABMD,Abiomed Inc.,SunRay,Analyst,1.16
+fq3-2020,ABMD,Abiomed Inc.,Frederick Tremblay,Analyst,1.16
+fq3-2020,ABMD,Abiomed Inc.,Dominantstock,Analyst,1.18
+fq3-2020,ABMD,Abiomed Inc.,Analyst_8669776,Analyst,1.06
+fq3-2020,ABMD,Abiomed Inc.,Bruce Nudell,Analyst,1.19
+fq3-2020,ABMD,Abiomed Inc.,Analyst_3610920,Analyst,1.27
+fq4-2020,ABMD,Abiomed Inc.,ABMD Reported Earnings,Generic,1
+fq4-2020,ABMD,Abiomed Inc.,Estimize Consensus,Generic,0.97
+fq4-2020,ABMD,Abiomed Inc.,Estimize Mean,Generic,1.05
+fq4-2020,ABMD,Abiomed Inc.,Wall Street Consensus,Generic,0.95
+fq4-2020,ABMD,Abiomed Inc.,Analyst_2777191,Analyst,0.99
+fq4-2020,ABMD,Abiomed Inc.,Analyst_883247,Analyst,0.98
+fq4-2020,ABMD,Abiomed Inc.,Bill,Analyst,0.98
+fq4-2020,ABMD,Abiomed Inc.,Analyst_3813420,Analyst,0.97
+fq4-2020,ABMD,Abiomed Inc.,rptrickey,Analyst,0.97
+fq4-2020,ABMD,Abiomed Inc.,Ben Jen,Analyst,0.97
+fq4-2020,ABMD,Abiomed Inc.,Analyst_12345,Analyst,1.05
+fq4-2020,ABMD,Abiomed Inc.,Frederick Tremblay,Analyst,1.06
+fq4-2020,ABMD,Abiomed Inc.,Vitaly,Analyst,1.09
+fq4-2020,ABMD,Abiomed Inc.,Analyst_1701321,Analyst,0.89
+fq4-2020,ABMD,Abiomed Inc.,Analyst_5644712,Analyst,0.85
+fq4-2020,ABMD,Abiomed Inc.,Bruce Nudell,Analyst,1.22
+fq4-2020,ABMD,Abiomed Inc.,SunRay,Analyst,1.25
+fq4-2020,ABMD,Abiomed Inc.,Dominantstock,Analyst,1.29
+fq1-2020,ABT,Abbott Laboratories,ABT Reported Earnings,Generic,0.65
+fq1-2020,ABT,Abbott Laboratories,ABT Guidance,Generic,0.7
+fq1-2020,ABT,Abbott Laboratories,Estimize Consensus,Generic,0.66
+fq1-2020,ABT,Abbott Laboratories,Estimize Mean,Generic,0.67
+fq1-2020,ABT,Abbott Laboratories,Wall Street Consensus,Generic,0.59
+fq1-2020,ABT,Abbott Laboratories,Bob Ya,Analyst,0.66
+fq1-2020,ABT,Abbott Laboratories,Analyst_783524,Analyst,0.64
+fq1-2020,ABT,Abbott Laboratories,Frederick Tremblay,Analyst,0.63
+fq1-2020,ABT,Abbott Laboratories,vpzhig,Analyst,0.63
+fq1-2020,ABT,Abbott Laboratories,serp,Analyst,0.62
+fq1-2020,ABT,Abbott Laboratories,rsreina,Analyst,0.68
+fq1-2020,ABT,Abbott Laboratories,Analyst_3909221,Analyst,0.62
+fq1-2020,ABT,Abbott Laboratories,Analyst_6108201,Analyst,0.61
+fq1-2020,ABT,Abbott Laboratories,mohacsizs,Analyst,0.7
+fq1-2020,ABT,Abbott Laboratories,Knute,Analyst,0.7
+fq1-2020,ABT,Abbott Laboratories,PCLA,Analyst,0.6
+fq1-2020,ABT,Abbott Laboratories,Bigmar,Analyst,0.71
+fq1-2020,ABT,Abbott Laboratories,Analyst_8564941,Analyst,0.71
+fq1-2020,ABT,Abbott Laboratories,Analyst_1501777,Analyst,0.72
+fq1-2020,ABT,Abbott Laboratories,Sentinel,Analyst,0.72
+fq1-2020,ABT,Abbott Laboratories,KG,Analyst,0.72
+fq1-2020,ABT,Abbott Laboratories,Ron,Analyst,0.72
+fq1-2020,ABT,Abbott Laboratories,Bill,Analyst,0.72
+fq1-2020,ABT,Abbott Laboratories,Ben Jen,Analyst,0.72
+fq1-2020,ABT,Abbott Laboratories,robertoagodinez,Analyst,0.73
+fq1-2020,ABT,Abbott Laboratories,LBK,Analyst,0.57
+fq1-2020,ABT,Abbott Laboratories,BirdT,Analyst,0.57
+fq1-2020,ABT,Abbott Laboratories,Analyst_8202295,Analyst,0.57
+fq1-2020,ABT,Abbott Laboratories,Analyst_501738,Analyst,0.75
+fq1-2020,ABT,Abbott Laboratories,Analyst_2777191,Analyst,0.75
+fq1-2020,ABT,Abbott Laboratories,Analyst_6825137,Analyst,0.76
+fq2-2020,ABT,Abbott Laboratories,ABT Reported Earnings,Generic,0.57
+fq2-2020,ABT,Abbott Laboratories,Estimize Consensus,Generic,0.44
+fq2-2020,ABT,Abbott Laboratories,Estimize Mean,Generic,0.48
+fq2-2020,ABT,Abbott Laboratories,Wall Street Consensus,Generic,0.42
+fq2-2020,ABT,Abbott Laboratories,Analyst_46690,Analyst,0.52
+fq2-2020,ABT,Abbott Laboratories,jean_acciari,Analyst,0.5
+fq2-2020,ABT,Abbott Laboratories,mousquines,Analyst,0.5
+fq2-2020,ABT,Abbott Laboratories,DF_5082802,Analyst,0.47
+fq2-2020,ABT,Abbott Laboratories,panda_w,Analyst,0.47
+fq2-2020,ABT,Abbott Laboratories,Medic2525,Analyst,0.46
+fq2-2020,ABT,Abbott Laboratories,KG,Analyst,0.45
+fq2-2020,ABT,Abbott Laboratories,David Shoko,Analyst,0.45
+fq2-2020,ABT,Abbott Laboratories,Analyst_8532270,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,kerry burrell,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,RmznKrkmz,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,serp,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,mojaveshadows,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,Analyst_8113162,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,Bill,Analyst,0.44
+fq2-2020,ABT,Abbott Laboratories,Sentinel,Analyst,0.43
+fq2-2020,ABT,Abbott Laboratories,PCLA,Analyst,0.43
+fq2-2020,ABT,Abbott Laboratories,Knute,Analyst,0.43
+fq2-2020,ABT,Abbott Laboratories,Ram,Analyst,0.43
+fq2-2020,ABT,Abbott Laboratories,Analyst_4785335,Analyst,0.42
+fq2-2020,ABT,Abbott Laboratories,Analyst_9988616,Analyst,0.42
+fq2-2020,ABT,Abbott Laboratories,Analyst_6740049,Analyst,0.41
+fq2-2020,ABT,Abbott Laboratories,SelectiveTrade,Analyst,0.41
+fq2-2020,ABT,Abbott Laboratories,Analyst_7999204,Analyst,0.4
+fq2-2020,ABT,Abbott Laboratories,BirdT,Analyst,0.37
+fq2-2020,ABT,Abbott Laboratories,Analyst_1501777,Analyst,0.9
+fq2-2020,ABT,Abbott Laboratories,Analyst_9656935,Analyst,0.99
+fq3-2020,ABT,Abbott Laboratories,ABT Reported Earnings,Generic,0.98
+fq3-2020,ABT,Abbott Laboratories,Estimize Consensus,Generic,0.93
+fq3-2020,ABT,Abbott Laboratories,Estimize Mean,Generic,0.93
+fq3-2020,ABT,Abbott Laboratories,Wall Street Consensus,Generic,0.91
+fq3-2020,ABT,Abbott Laboratories,Jen_F,Analyst,0.99
+fq3-2020,ABT,Abbott Laboratories,dalarcon00,Analyst,0.96
+fq3-2020,ABT,Abbott Laboratories,DF_5082802,Analyst,0.96
+fq3-2020,ABT,Abbott Laboratories,kerry burrell,Analyst,1
+fq3-2020,ABT,Abbott Laboratories,omni,Analyst,0.95
+fq3-2020,ABT,Abbott Laboratories,karowlinger,Analyst,0.95
+fq3-2020,ABT,Abbott Laboratories,Malette,Analyst,0.95
+fq3-2020,ABT,Abbott Laboratories,Analyst_1501777,Analyst,0.94
+fq3-2020,ABT,Abbott Laboratories,Analyst_8532270,Analyst,0.94
+fq3-2020,ABT,Abbott Laboratories,Knute,Analyst,0.94
+fq3-2020,ABT,Abbott Laboratories,Analyst_8113162,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,mousquines,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Analyst_8215805,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Helsou,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Ben Jen,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Ram,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Bill,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Analyst_1536505,Analyst,0.92
+fq3-2020,ABT,Abbott Laboratories,Nils1975,Analyst,1.04
+fq3-2020,ABT,Abbott Laboratories,Analyst_6020752,Analyst,0.91
+fq3-2020,ABT,Abbott Laboratories,MrKennethTong,Analyst,0.9
+fq3-2020,ABT,Abbott Laboratories,PCLA,Analyst,0.9
+fq3-2020,ABT,Abbott Laboratories,BirdT,Analyst,0.87
+fq3-2020,ABT,Abbott Laboratories,Medic2525,Analyst,0.87
+fq3-2020,ABT,Abbott Laboratories,Cwill,Analyst,0.82
+fq4-2020,ABT,Abbott Laboratories,ABT Reported Earnings,Generic,1.45
+fq4-2020,ABT,Abbott Laboratories,Estimize Consensus,Generic,1.36
+fq4-2020,ABT,Abbott Laboratories,Estimize Mean,Generic,1.36
+fq4-2020,ABT,Abbott Laboratories,Wall Street Consensus,Generic,1.35
+fq4-2020,ABT,Abbott Laboratories,Analyst_4911374,Analyst,1.43
+fq4-2020,ABT,Abbott Laboratories,DF_5082802,Analyst,1.42
+fq4-2020,ABT,Abbott Laboratories,hood16,Analyst,1.42
+fq4-2020,ABT,Abbott Laboratories,KG,Analyst,1.4
+fq4-2020,ABT,Abbott Laboratories,Knute,Analyst,1.4
+fq4-2020,ABT,Abbott Laboratories,kerry burrell,Analyst,1.4
+fq4-2020,ABT,Abbott Laboratories,dalarcon00,Analyst,1.39
+fq4-2020,ABT,Abbott Laboratories,Ben Jen,Analyst,1.39
+fq4-2020,ABT,Abbott Laboratories,panda_w,Analyst,1.38
+fq4-2020,ABT,Abbott Laboratories,Analyst_1536505,Analyst,1.38
+fq4-2020,ABT,Abbott Laboratories,Jen_F,Analyst,1.38
+fq4-2020,ABT,Abbott Laboratories,Bill,Analyst,1.37
+fq4-2020,ABT,Abbott Laboratories,Analyst_8532270,Analyst,1.36
+fq4-2020,ABT,Abbott Laboratories,Roberto Salto,Analyst,1.34
+fq4-2020,ABT,Abbott Laboratories,BirdT,Analyst,1.31
+fq4-2020,ABT,Abbott Laboratories,Nicolás Suarez,Analyst,1.26
+fq4-2020,ABT,Abbott Laboratories,Cwill,Analyst,1.17
+fq1-2020,ACA,"Arcosa, Inc.",ACA Reported Earnings,Generic,0.71
+fq1-2020,ACA,"Arcosa, Inc.",Estimize Mean,Generic,-
+fq2-2020,ACA,"Arcosa, Inc.",ACA Reported Earnings,Generic,0.73
+fq2-2020,ACA,"Arcosa, Inc.",Estimize Mean,Generic,-
+fq3-2020,ACA,"Arcosa, Inc.",ACA Reported Earnings,Generic,0.68
+fq3-2020,ACA,"Arcosa, Inc.",Estimize Mean,Generic,-
+fq3-2020,ACA,"Arcosa, Inc.",Wall Street Consensus,Generic,0.65
+fq4-2020,ACA,"Arcosa, Inc.",ACA Reported Earnings,Generic,0.33
+fq4-2020,ACA,"Arcosa, Inc.",Estimize Mean,Generic,-
+fq4-2020,ACA,"Arcosa, Inc.",Wall Street Consensus,Generic,0.42
+fq4-2020,ACA,"Arcosa, Inc.",Analyst_7705564,Analyst,0.41
+fq4-2020,ACA,"Arcosa, Inc.",Bill,Analyst,0.49
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",ACAD Reported Earnings,Generic,-0.57
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.46
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.47
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.48
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Jay Olson, CFA",Analyst,-0.59
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alan Carr,Analyst,-0.53
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Sumant Kulkarni,Analyst,-0.62
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Frederick Tremblay,Analyst,-0.5
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Bill,Analyst,-0.5
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Ivone,Analyst,-0.49
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_883247,Analyst,-0.48
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Ben Jen,Analyst,-0.47
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Fincrease,Analyst,-0.45
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_5310593,Analyst,-0.45
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Charles C. Duncan, Ph.D.",Analyst,-0.44
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alethia Young,Analyst,-0.44
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",hotstocks71,Analyst,-0.43
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_9211409,Analyst,-0.41
+fq1-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_3139399,Analyst,-0.26
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",ACAD Reported Earnings,Generic,-0.27
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.41
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.43
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.44
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",jean_acciari,Analyst,-0.3
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Medic2525,Analyst,-0.38
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alan Carr,Analyst,-0.4
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_2360728,Analyst,-0.4
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_4206782,Analyst,-0.41
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_2168543,Analyst,-0.41
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Sentinel,Analyst,-0.42
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Sumant Kulkarni,Analyst,-0.43
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_5324701,Analyst,-0.43
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Fincrease,Analyst,-0.43
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Jay Olson, CFA",Analyst,-0.44
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_4716369,Analyst,-0.44
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_3624807,Analyst,-0.44
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Bill,Analyst,-0.46
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alethia Young,Analyst,-0.48
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_1730230,Analyst,-0.51
+fq2-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Charles C. Duncan, Ph.D.",Analyst,-0.55
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",ACAD Reported Earnings,Generic,-0.54
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.34
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.35
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.38
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alethia Young,Analyst,-0.42
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Jay Olson, CFA",Analyst,-0.4
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alan Carr,Analyst,-0.39
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Sumant Kulkarni,Analyst,-0.37
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Bill,Analyst,-0.36
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Ben Jen,Analyst,-0.35
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Fincrease,Analyst,-0.35
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_8996466,Analyst,-0.34
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Charles C. Duncan, Ph.D.",Analyst,-0.32
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_8385448,Analyst,-0.3
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_6653911,Analyst,-0.29
+fq3-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Jen_F,Analyst,-0.25
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",ACAD Reported Earnings,Generic,-0.42
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.5
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.46
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.47
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_7658697,Analyst,-0.44
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alan Carr,Analyst,-0.46
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_698227,Analyst,-0.37
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Charles C. Duncan, Ph.D.",Analyst,-0.47
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Alethia Young,Analyst,-0.48
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Bill,Analyst,-0.48
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Analyst_6653911,Analyst,-0.35
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",Sumant Kulkarni,Analyst,-0.49
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.",JeffreyBeckham,Analyst,-0.5
+fq4-2020,ACAD,"ACADIA Pharmaceuticals, Inc.","Jay Olson, CFA",Analyst,-0.54
+fq1-2020,ACB,"Aurora Cannabis, Inc.",ACB Reported Earnings,Generic,0.01
+fq1-2020,ACB,"Aurora Cannabis, Inc.",Estimize Mean,Generic,-
+fq2-2020,ACB,"Aurora Cannabis, Inc.",ACB Reported Earnings,Generic,-0.19
+fq2-2020,ACB,"Aurora Cannabis, Inc.",Estimize Mean,Generic,-
+fq3-2020,ACB,"Aurora Cannabis, Inc.",ACB Reported Earnings,Generic,-1.02
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Estimize Consensus,Generic,-0.09
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Estimize Mean,Generic,-0.08
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Wall Street Consensus,Generic,-0.56
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Ben Jen,Analyst,-0.16
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Bill,Analyst,-0.09
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Analyst_3603117,Analyst,-0.08
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Frederick Tremblay,Analyst,-0.06
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Analyst_6992575,Analyst,-0.05
+fq3-2020,ACB,"Aurora Cannabis, Inc.",Analyst_8230762,Analyst,-0.05
+fq4-2020,ACB,"Aurora Cannabis, Inc.",ACB Reported Earnings,Generic,-0.23
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Estimize Consensus,Generic,-0.25
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Estimize Mean,Generic,-0.23
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Wall Street Consensus,Generic,-0.23
+fq4-2020,ACB,"Aurora Cannabis, Inc.",19krpm,Analyst,-0.23
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_8996466,Analyst,-0.22
+fq4-2020,ACB,"Aurora Cannabis, Inc.",robert brand,Analyst,-0.22
+fq4-2020,ACB,"Aurora Cannabis, Inc.",PCLA,Analyst,-0.24
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Ron,Analyst,-0.2
+fq4-2020,ACB,"Aurora Cannabis, Inc.",ChrisGtrader,Analyst,-0.2
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_48854,Analyst,-0.26
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Madmoni,Analyst,-0.26
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Bill,Analyst,-0.27
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_9529759,Analyst,-0.17
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_7713090,Analyst,-0.16
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_8443816,Analyst,-0.16
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_6193984,Analyst,-0.16
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_815376,Analyst,-0.16
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_2275307,Analyst,-0.3
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_5524406,Analyst,-0.3
+fq4-2020,ACB,"Aurora Cannabis, Inc.",economista100,Analyst,-0.3
+fq4-2020,ACB,"Aurora Cannabis, Inc.",HASAN OGUZ,Analyst,-0.3
+fq4-2020,ACB,"Aurora Cannabis, Inc.",trejas,Analyst,-0.3
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_8100417,Analyst,-0.14
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Sentinel,Analyst,-0.13
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Metal_Miltia,Analyst,-0.33
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_6992575,Analyst,-0.03
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Ben Jen,Analyst,-0.5
+fq4-2020,ACB,"Aurora Cannabis, Inc.",Analyst_4484216,Analyst,3
+fq1-2020,ACCO,ACCO Brands Corporation,ACCO Reported Earnings,Generic,0.07
+fq1-2020,ACCO,ACCO Brands Corporation,Estimize Consensus,Generic,0.09
+fq1-2020,ACCO,ACCO Brands Corporation,Estimize Mean,Generic,0.09
+fq1-2020,ACCO,ACCO Brands Corporation,Wall Street Consensus,Generic,0.09
+fq1-2020,ACCO,ACCO Brands Corporation,Analyst_2777191,Analyst,0.08
+fq1-2020,ACCO,ACCO Brands Corporation,Bill,Analyst,0.08
+fq1-2020,ACCO,ACCO Brands Corporation,Frederick Tremblay,Analyst,0.1
+fq1-2020,ACCO,ACCO Brands Corporation,Ben Jen,Analyst,0.1
+fq1-2020,ACCO,ACCO Brands Corporation,Analyst_527924,Analyst,0.04
+fq1-2020,ACCO,ACCO Brands Corporation,"William Chappell, Jr.",Analyst,0.11
+fq2-2020,ACCO,ACCO Brands Corporation,ACCO Reported Earnings,Generic,0.12
+fq2-2020,ACCO,ACCO Brands Corporation,ACCO Guidance,Generic,0.01
+fq2-2020,ACCO,ACCO Brands Corporation,Estimize Consensus,Generic,0.02
+fq2-2020,ACCO,ACCO Brands Corporation,Estimize Mean,Generic,0.03
+fq2-2020,ACCO,ACCO Brands Corporation,Wall Street Consensus,Generic,0
+fq2-2020,ACCO,ACCO Brands Corporation,Sentinel,Analyst,0.08
+fq2-2020,ACCO,ACCO Brands Corporation,Medic2525,Analyst,0.03
+fq2-2020,ACCO,ACCO Brands Corporation,Bill,Analyst,0.01
+fq2-2020,ACCO,ACCO Brands Corporation,"William Chappell, Jr.",Analyst,-0.01
+fq3-2020,ACCO,ACCO Brands Corporation,ACCO Reported Earnings,Generic,0.19
+fq3-2020,ACCO,ACCO Brands Corporation,Estimize Consensus,Generic,0.17
+fq3-2020,ACCO,ACCO Brands Corporation,Estimize Mean,Generic,0.16
+fq3-2020,ACCO,ACCO Brands Corporation,Wall Street Consensus,Generic,0.15
+fq3-2020,ACCO,ACCO Brands Corporation,Bill,Analyst,0.17
+fq3-2020,ACCO,ACCO Brands Corporation,Ben Jen,Analyst,0.17
+fq3-2020,ACCO,ACCO Brands Corporation,"William Chappell, Jr.",Analyst,0.15
+fq4-2020,ACCO,ACCO Brands Corporation,ACCO Reported Earnings,Generic,0.32
+fq4-2020,ACCO,ACCO Brands Corporation,ACCO Guidance,Generic,0.29
+fq4-2020,ACCO,ACCO Brands Corporation,Estimize Consensus,Generic,0.3
+fq4-2020,ACCO,ACCO Brands Corporation,Estimize Mean,Generic,0.33
+fq4-2020,ACCO,ACCO Brands Corporation,Wall Street Consensus,Generic,0.28
+fq4-2020,ACCO,ACCO Brands Corporation,Bill,Analyst,0.3
+fq4-2020,ACCO,ACCO Brands Corporation,Bill Chappell,Analyst,0.29
+fq4-2020,ACCO,ACCO Brands Corporation,"William Chappell, Jr.",Analyst,0.41
+fq1-2020,LULU,Lululemon Athletica Inc.,LULU Reported Earnings,Generic,0.22
+fq1-2020,LULU,Lululemon Athletica Inc.,Estimize Consensus,Generic,0.28
+fq1-2020,LULU,Lululemon Athletica Inc.,Estimize Mean,Generic,0.37
+fq1-2020,LULU,Lululemon Athletica Inc.,Wall Street Consensus,Generic,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Rasun,Analyst,0.22
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_6216740,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_530056,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_8278771,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_9872866,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_3930948,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_2400042,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,juice93,Analyst,0.23
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_5646744,Analyst,0.2
+fq1-2020,LULU,Lululemon Athletica Inc.,Quantkk,Analyst,0.2
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_9118472,Analyst,0.2
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_6348688,Analyst,0.2
+fq1-2020,LULU,Lululemon Athletica Inc.,morg444,Analyst,0.2
+fq1-2020,LULU,Lululemon Athletica Inc.,YR,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_9735960,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_9792569,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_3219570,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_8734385,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_2987095,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_7418197,Analyst,0.19
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_3451960,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Ben Jen,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_8453134,Analyst,0.25
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_7674211,Analyst,0.26
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_917890,Analyst,0.26
+fq1-2020,LULU,Lululemon Athletica Inc.,Scott Hendricks,Analyst,0.26
+fq1-2020,LULU,Lululemon Athletica Inc.,Barron Nguyen,Analyst,0.26
+fq1-2020,LULU,Lululemon Athletica Inc.,Shawn P. Cooney,Analyst,0.26
+fq1-2020,LULU,Lululemon Athletica Inc.,omni,Analyst,0.26
+fq1-2020,LULU,Lululemon Athletica Inc.,Analyst_334150,Analyst,0.26
+fq2-2020,LULU,Lululemon Athletica Inc.,LULU Reported Earnings,Generic,0.74
+fq2-2020,LULU,Lululemon Athletica Inc.,Estimize Consensus,Generic,0.61
+fq2-2020,LULU,Lululemon Athletica Inc.,Estimize Mean,Generic,0.64
+fq2-2020,LULU,Lululemon Athletica Inc.,Wall Street Consensus,Generic,0.56
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_3773230,Analyst,0.74
+fq2-2020,LULU,Lululemon Athletica Inc.,rpajam,Analyst,0.7
+fq2-2020,LULU,Lululemon Athletica Inc.,GregTripple,Analyst,0.7
+fq2-2020,LULU,Lululemon Athletica Inc.,Kkkllll,Analyst,0.7
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_7512474,Analyst,0.69
+fq2-2020,LULU,Lululemon Athletica Inc.,HappyDoge,Analyst,0.69
+fq2-2020,LULU,Lululemon Athletica Inc.,omni,Analyst,0.68
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_9491807,Analyst,0.68
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_195158,Analyst,0.67
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_2170520,Analyst,0.81
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_6348688,Analyst,0.66
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_783524,Analyst,0.66
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_3545686,Analyst,0.65
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_2420286,Analyst,0.65
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_9760541,Analyst,0.65
+fq2-2020,LULU,Lululemon Athletica Inc.,VincentLauria,Analyst,0.65
+fq2-2020,LULU,Lululemon Athletica Inc.,YR,Analyst,0.64
+fq2-2020,LULU,Lululemon Athletica Inc.,panda_w,Analyst,0.64
+fq2-2020,LULU,Lululemon Athletica Inc.,Tappa69,Analyst,0.63
+fq2-2020,LULU,Lululemon Athletica Inc.,likaihua,Analyst,0.63
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_8113162,Analyst,0.63
+fq2-2020,LULU,Lululemon Athletica Inc.,WolfmanWallSt,Analyst,0.63
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_8569416,Analyst,0.63
+fq2-2020,LULU,Lululemon Athletica Inc.,Mindaugas,Analyst,0.62
+fq2-2020,LULU,Lululemon Athletica Inc.,Jen_F,Analyst,0.62
+fq2-2020,LULU,Lululemon Athletica Inc.,dalton,Analyst,0.62
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_5039344,Analyst,0.61
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_7105015,Analyst,0.6
+fq2-2020,LULU,Lululemon Athletica Inc.,Analyst_3077815,Analyst,0.6
+fq2-2020,LULU,Lululemon Athletica Inc.,S. van der Heijden,Analyst,0.6
+fq3-2020,LULU,Lululemon Athletica Inc.,LULU Reported Earnings,Generic,1.16
+fq3-2020,LULU,Lululemon Athletica Inc.,Estimize Consensus,Generic,0.99
+fq3-2020,LULU,Lululemon Athletica Inc.,Estimize Mean,Generic,0.98
+fq3-2020,LULU,Lululemon Athletica Inc.,Wall Street Consensus,Generic,0.88
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_5521878,Analyst,1.13
+fq3-2020,LULU,Lululemon Athletica Inc.,Rick Patel,Analyst,1.12
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_3835950,Analyst,1.12
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_2304628,Analyst,1.2
+fq3-2020,LULU,Lululemon Athletica Inc.,Camilo Lyon,Analyst,1.1
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_7674211,Analyst,1.1
+fq3-2020,LULU,Lululemon Athletica Inc.,zspinek,Analyst,1.09
+fq3-2020,LULU,Lululemon Athletica Inc.,Joann,Analyst,1.23
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_438405,Analyst,1.23
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_3620278,Analyst,1.08
+fq3-2020,LULU,Lululemon Athletica Inc.,rachel_mccombs,Analyst,1.24
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_2849601,Analyst,1.24
+fq3-2020,LULU,Lululemon Athletica Inc.,John_Farrell,Analyst,1.24
+fq3-2020,LULU,Lululemon Athletica Inc.,Cwill,Analyst,1.07
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_5501246,Analyst,1.25
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_4330566,Analyst,1.25
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_1298857,Analyst,1.25
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_1077991,Analyst,1.25
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_2663710,Analyst,1.25
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_4601593,Analyst,1.25
+fq3-2020,LULU,Lululemon Athletica Inc.,robert brand,Analyst,1.04
+fq3-2020,LULU,Lululemon Athletica Inc.,Bill_Maurer,Analyst,1.04
+fq3-2020,LULU,Lululemon Athletica Inc.,dalton,Analyst,1.04
+fq3-2020,LULU,Lululemon Athletica Inc.,Zilvinas Speteliunas,Analyst,1.04
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_9491807,Analyst,1.02
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_2894824,Analyst,1.02
+fq3-2020,LULU,Lululemon Athletica Inc.,DF_5082802,Analyst,1.01
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_6783762,Analyst,1
+fq3-2020,LULU,Lululemon Athletica Inc.,Analyst_3714064,Analyst,1
+fq3-2020,LULU,Lululemon Athletica Inc.,Rob Ford,Analyst,1
+fq4-2020,LULU,Lululemon Athletica Inc.,LULU Reported Earnings,Generic,2.58
+fq4-2020,LULU,Lululemon Athletica Inc.,Estimize Consensus,Generic,2.56
+fq4-2020,LULU,Lululemon Athletica Inc.,Estimize Mean,Generic,2.48
+fq4-2020,LULU,Lululemon Athletica Inc.,Wall Street Consensus,Generic,2.48
+fq4-2020,LULU,Lululemon Athletica Inc.,ED_ETT_2109695,Analyst,2.58
+fq4-2020,LULU,Lululemon Athletica Inc.,rpajam,Analyst,2.58
+fq4-2020,LULU,Lululemon Athletica Inc.,PM,Analyst,2.59
+fq4-2020,LULU,Lululemon Athletica Inc.,DF_5082802,Analyst,2.59
+fq4-2020,LULU,Lululemon Athletica Inc.,kerry burrell,Analyst,2.57
+fq4-2020,LULU,Lululemon Athletica Inc.,Zilvinas Speteliunas,Analyst,2.6
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_508786,Analyst,2.6
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_9735960,Analyst,2.56
+fq4-2020,LULU,Lululemon Athletica Inc.,TBuckley,Analyst,2.6
+fq4-2020,LULU,Lululemon Athletica Inc.,MatiasManero,Analyst,2.6
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_7674211,Analyst,2.61
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_6783762,Analyst,2.55
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_7015682,Analyst,2.55
+fq4-2020,LULU,Lululemon Athletica Inc.,dalton,Analyst,2.55
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_8868583,Analyst,2.55
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_7794976,Analyst,2.54
+fq4-2020,LULU,Lululemon Athletica Inc.,Rob Ford,Analyst,2.54
+fq4-2020,LULU,Lululemon Athletica Inc.,Seandc37796,Analyst,2.54
+fq4-2020,LULU,Lululemon Athletica Inc.,JABOM_AM,Analyst,2.62
+fq4-2020,LULU,Lululemon Athletica Inc.,Philip Mascherino,Analyst,2.63
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_4853345,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_7105015,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,Jen_F,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,AAFED,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_5039344,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,Bill,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,omni,Analyst,2.53
+fq4-2020,LULU,Lululemon Athletica Inc.,Analyst_5991398,Analyst,2.52
+fq4-2020,LULU,Lululemon Athletica Inc.,MA221,Analyst,2.52
+fq4-2020,LULU,Lululemon Athletica Inc.,Bill_Maurer,Analyst,2.64
+fq1-2020,ACET,Aceto Corporation,ACET Reported Earnings,Generic,-0.59
+fq1-2020,ACET,Aceto Corporation,Estimize Consensus,Generic,0.07
+fq1-2020,ACET,Aceto Corporation,Estimize Mean,Generic,0.15
+fq1-2020,ACET,Aceto Corporation,Bill,Analyst,-0.15
+fq1-2020,ACET,Aceto Corporation,Josh Dulberger,Analyst,0.28
+fq1-2020,ACET,Aceto Corporation,bsears2386,Analyst,0.31
+fq2-2020,ACET,Aceto Corporation,ACET Reported Earnings,Generic,-0.59
+fq2-2020,ACET,Aceto Corporation,Estimize Consensus,Generic,0.07
+fq2-2020,ACET,Aceto Corporation,Estimize Mean,Generic,0.15
+fq2-2020,ACET,Aceto Corporation,Bill,Analyst,-0.15
+fq2-2020,ACET,Aceto Corporation,Josh Dulberger,Analyst,0.28
+fq2-2020,ACET,Aceto Corporation,bsears2386,Analyst,0.31
+fq3-2020,ACET,Aceto Corporation,ACET Reported Earnings,Generic,-0.59
+fq3-2020,ACET,Aceto Corporation,Estimize Consensus,Generic,0.07
+fq3-2020,ACET,Aceto Corporation,Estimize Mean,Generic,0.15
+fq3-2020,ACET,Aceto Corporation,Bill,Analyst,-0.15
+fq3-2020,ACET,Aceto Corporation,Josh Dulberger,Analyst,0.28
+fq3-2020,ACET,Aceto Corporation,bsears2386,Analyst,0.31
+fq4-2020,ACET,Aceto Corporation,ACET Reported Earnings,Generic,-0.59
+fq4-2020,ACET,Aceto Corporation,Estimize Consensus,Generic,0.07
+fq4-2020,ACET,Aceto Corporation,Estimize Mean,Generic,0.15
+fq4-2020,ACET,Aceto Corporation,Bill,Analyst,-0.15
+fq4-2020,ACET,Aceto Corporation,Josh Dulberger,Analyst,0.28
+fq4-2020,ACET,Aceto Corporation,bsears2386,Analyst,0.31
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",ACHC Reported Earnings,Generic,0.42
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",ACHC Guidance,Generic,0.4
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Consensus,Generic,0.39
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Mean,Generic,0.41
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Wall Street Consensus,Generic,0.38
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Frederick Tremblay,Analyst,0.4
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Ben Jen,Analyst,0.4
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Bill,Analyst,0.39
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Analyst_2777191,Analyst,0.37
+fq1-2020,ACHC,"Acadia Healthcare Company, Inc.",Analyst_1675311,Analyst,0.48
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",ACHC Reported Earnings,Generic,0.54
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Consensus,Generic,0.41
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Mean,Generic,0.41
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Wall Street Consensus,Generic,0.39
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Analyst_1675311,Analyst,0.49
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Medic2525,Analyst,0.41
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Bill,Analyst,0.4
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Sentinel,Analyst,0.38
+fq2-2020,ACHC,"Acadia Healthcare Company, Inc.",Analyst_8135238,Analyst,0.38
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",ACHC Reported Earnings,Generic,0.68
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Consensus,Generic,0.57
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Mean,Generic,0.55
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",Wall Street Consensus,Generic,0.54
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",Bill,Analyst,0.57
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",Ben Jen,Analyst,0.57
+fq3-2020,ACHC,"Acadia Healthcare Company, Inc.",Analyst_1675311,Analyst,0.5
+fq4-2020,ACHC,"Acadia Healthcare Company, Inc.",ACHC Reported Earnings,Generic,1.13
+fq4-2020,ACHC,"Acadia Healthcare Company, Inc.",ACHC Guidance,Generic,0.7
+fq4-2020,ACHC,"Acadia Healthcare Company, Inc.",Estimize Mean,Generic,-
+fq4-2020,ACHC,"Acadia Healthcare Company, Inc.",Wall Street Consensus,Generic,0.64
+fq4-2020,ACHC,"Acadia Healthcare Company, Inc.",Bill,Analyst,0.71
+fq1-2020,ACIA,"Acacia Communications, Inc.",ACIA Reported Earnings,Generic,0.54
+fq1-2020,ACIA,"Acacia Communications, Inc.",Estimize Consensus,Generic,0.4
+fq1-2020,ACIA,"Acacia Communications, Inc.",Estimize Mean,Generic,0.4
+fq1-2020,ACIA,"Acacia Communications, Inc.",Wall Street Consensus,Generic,0.38
+fq1-2020,ACIA,"Acacia Communications, Inc.",Dominantstock,Analyst,0.43
+fq1-2020,ACIA,"Acacia Communications, Inc.",Bill,Analyst,0.42
+fq1-2020,ACIA,"Acacia Communications, Inc.",Ben Jen,Analyst,0.4
+fq1-2020,ACIA,"Acacia Communications, Inc.",Zilvinas Speteliunas,Analyst,0.4
+fq1-2020,ACIA,"Acacia Communications, Inc.",Frederick Tremblay,Analyst,0.39
+fq1-2020,ACIA,"Acacia Communications, Inc.",Analyst_2777191,Analyst,0.38
+fq1-2020,ACIA,"Acacia Communications, Inc.",Alex Henderson,Analyst,0.35
+fq2-2020,ACIA,"Acacia Communications, Inc.",ACIA Reported Earnings,Generic,0.65
+fq2-2020,ACIA,"Acacia Communications, Inc.",Estimize Consensus,Generic,0.53
+fq2-2020,ACIA,"Acacia Communications, Inc.",Estimize Mean,Generic,0.49
+fq2-2020,ACIA,"Acacia Communications, Inc.",Wall Street Consensus,Generic,0.5
+fq2-2020,ACIA,"Acacia Communications, Inc.",Medic2525,Analyst,0.57
+fq2-2020,ACIA,"Acacia Communications, Inc.",Zilvinas Speteliunas,Analyst,0.52
+fq2-2020,ACIA,"Acacia Communications, Inc.",Sentinel,Analyst,0.49
+fq2-2020,ACIA,"Acacia Communications, Inc.",Dominantstock,Analyst,0.48
+fq2-2020,ACIA,"Acacia Communications, Inc.",Bill,Analyst,0.48
+fq2-2020,ACIA,"Acacia Communications, Inc.",Alex Henderson,Analyst,0.45
+fq2-2020,ACIA,"Acacia Communications, Inc.",Frederick Tremblay,Analyst,0.41
+fq3-2020,ACIA,"Acacia Communications, Inc.",ACIA Reported Earnings,Generic,0.78
+fq3-2020,ACIA,"Acacia Communications, Inc.",Estimize Consensus,Generic,0.63
+fq3-2020,ACIA,"Acacia Communications, Inc.",Estimize Mean,Generic,0.61
+fq3-2020,ACIA,"Acacia Communications, Inc.",Wall Street Consensus,Generic,0.58
+fq3-2020,ACIA,"Acacia Communications, Inc.",Bill_Maurer,Analyst,0.66
+fq3-2020,ACIA,"Acacia Communications, Inc.",Bill,Analyst,0.64
+fq3-2020,ACIA,"Acacia Communications, Inc.",Zilvinas Speteliunas,Analyst,0.63
+fq3-2020,ACIA,"Acacia Communications, Inc.",Ben Jen,Analyst,0.62
+fq3-2020,ACIA,"Acacia Communications, Inc.",Madmoni,Analyst,0.59
+fq3-2020,ACIA,"Acacia Communications, Inc.",Alex Henderson,Analyst,0.58
+fq3-2020,ACIA,"Acacia Communications, Inc.",Dominantstock,Analyst,0.54
+fq4-2020,ACIA,"Acacia Communications, Inc.",ACIA Reported Earnings,Generic,0.78
+fq4-2020,ACIA,"Acacia Communications, Inc.",Estimize Consensus,Generic,0.63
+fq4-2020,ACIA,"Acacia Communications, Inc.",Estimize Mean,Generic,0.61
+fq4-2020,ACIA,"Acacia Communications, Inc.",Wall Street Consensus,Generic,0.58
+fq4-2020,ACIA,"Acacia Communications, Inc.",Bill_Maurer,Analyst,0.66
+fq4-2020,ACIA,"Acacia Communications, Inc.",Bill,Analyst,0.64
+fq4-2020,ACIA,"Acacia Communications, Inc.",Zilvinas Speteliunas,Analyst,0.63
+fq4-2020,ACIA,"Acacia Communications, Inc.",Ben Jen,Analyst,0.62
+fq4-2020,ACIA,"Acacia Communications, Inc.",Madmoni,Analyst,0.59
+fq4-2020,ACIA,"Acacia Communications, Inc.",Alex Henderson,Analyst,0.58
+fq4-2020,ACIA,"Acacia Communications, Inc.",Dominantstock,Analyst,0.54
+fq1-2020,ACIW,"ACI Worldwide, Inc.",ACIW Reported Earnings,Generic,-0.21
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Estimize Consensus,Generic,0.07
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Estimize Mean,Generic,0.07
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Wall Street Consensus,Generic,0.08
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Zilvinas Speteliunas,Analyst,0.03
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Bill,Analyst,0.05
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Frederick Tremblay,Analyst,0.06
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Analyst_6060300,Analyst,0.08
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Analyst_67392,Analyst,0.09
+fq1-2020,ACIW,"ACI Worldwide, Inc.",Analyst_2639666,Analyst,0.11
+fq2-2020,ACIW,"ACI Worldwide, Inc.",ACIW Reported Earnings,Generic,0.28
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Estimize Consensus,Generic,0.08
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Estimize Mean,Generic,0.12
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Wall Street Consensus,Generic,0.15
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Sentinel,Analyst,0.31
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Bill,Analyst,0.09
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Medic2525,Analyst,0.09
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Zilvinas Speteliunas,Analyst,0.08
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Mayank Tandon,Analyst,0.07
+fq2-2020,ACIW,"ACI Worldwide, Inc.",Analyst_2968735,Analyst,0.05
+fq3-2020,ACIW,"ACI Worldwide, Inc.",ACIW Reported Earnings,Generic,0.34
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Estimize Consensus,Generic,0.48
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Estimize Mean,Generic,0.43
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Wall Street Consensus,Generic,0.41
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Mayank Tandon,Analyst,0.29
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Ben Jen,Analyst,0.47
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Bill,Analyst,0.48
+fq3-2020,ACIW,"ACI Worldwide, Inc.",Zilvinas Speteliunas,Analyst,0.48
+fq4-2020,ACIW,"ACI Worldwide, Inc.",ACIW Reported Earnings,Generic,0.8
+fq4-2020,ACIW,"ACI Worldwide, Inc.",Estimize Consensus,Generic,0.78
+fq4-2020,ACIW,"ACI Worldwide, Inc.",Estimize Mean,Generic,0.78
+fq4-2020,ACIW,"ACI Worldwide, Inc.",Wall Street Consensus,Generic,0.78
+fq4-2020,ACIW,"ACI Worldwide, Inc.",Zilvinas Speteliunas,Analyst,0.8
+fq4-2020,ACIW,"ACI Worldwide, Inc.",Mayank Tandon,Analyst,0.79
+fq4-2020,ACIW,"ACI Worldwide, Inc.",Bill,Analyst,0.76
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Reported Earnings,Generic,0.33
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Guidance,Generic,0.3
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Consensus,Generic,0.27
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Mean,Generic,0.27
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Wall Street Consensus,Generic,0.26
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",kobv,Analyst,0.3
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Analyst_2777191,Analyst,0.3
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Zilvinas Speteliunas,Analyst,0.3
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Ron,Analyst,0.23
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Frederick Tremblay,Analyst,0.23
+fq1-2020,ACLS,"Axcelis Technologies, Inc.",Bill,Analyst,0.23
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Reported Earnings,Generic,0.39
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Consensus,Generic,0.31
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Mean,Generic,0.31
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",Wall Street Consensus,Generic,0.29
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",jean_acciari,Analyst,0.34
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",Bill,Analyst,0.3
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",Zilvinas Speteliunas,Analyst,0.3
+fq2-2020,ACLS,"Axcelis Technologies, Inc.",Sentinel,Analyst,0.28
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Reported Earnings,Generic,0.32
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Guidance,Generic,0.24
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Consensus,Generic,0.29
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Mean,Generic,0.29
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Wall Street Consensus,Generic,0.24
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Vladimir Solodukhin,Analyst,0.33
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",jean_acciari,Analyst,0.3
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Bill,Analyst,0.29
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Zilvinas Speteliunas,Analyst,0.29
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Ben Jen,Analyst,0.29
+fq3-2020,ACLS,"Axcelis Technologies, Inc.",Madmoni,Analyst,0.25
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Reported Earnings,Generic,0.43
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",ACLS Guidance,Generic,0.32
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Consensus,Generic,0.34
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Estimize Mean,Generic,0.33
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Wall Street Consensus,Generic,0.32
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Bill,Analyst,0.36
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Zilvinas Speteliunas,Analyst,0.35
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",brandyperrell,Analyst,0.34
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Vladimir Solodukhin,Analyst,0.34
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Analyst_8113162,Analyst,0.34
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",N. Quinn Bolton,Analyst,0.32
+fq4-2020,ACLS,"Axcelis Technologies, Inc.",Analyst_1272680,Analyst,0.27
+fq1-2020,ACM,AECOM Technology Corporation,ACM Reported Earnings,Generic,0.46
+fq1-2020,ACM,AECOM Technology Corporation,Estimize Consensus,Generic,0.7
+fq1-2020,ACM,AECOM Technology Corporation,Estimize Mean,Generic,0.7
+fq1-2020,ACM,AECOM Technology Corporation,Wall Street Consensus,Generic,0.67
+fq1-2020,ACM,AECOM Technology Corporation,Bob S.,Analyst,0.67
+fq1-2020,ACM,AECOM Technology Corporation,Frederick Tremblay,Analyst,0.68
+fq1-2020,ACM,AECOM Technology Corporation,Bill,Analyst,0.69
+fq1-2020,ACM,AECOM Technology Corporation,Sentinel,Analyst,0.71
+fq1-2020,ACM,AECOM Technology Corporation,Medic2525,Analyst,0.71
+fq1-2020,ACM,AECOM Technology Corporation,Proximilar AI,Analyst,0.72
+fq2-2020,ACM,AECOM Technology Corporation,ACM Reported Earnings,Generic,0.55
+fq2-2020,ACM,AECOM Technology Corporation,Estimize Consensus,Generic,0.5
+fq2-2020,ACM,AECOM Technology Corporation,Estimize Mean,Generic,0.5
+fq2-2020,ACM,AECOM Technology Corporation,Wall Street Consensus,Generic,0.5
+fq2-2020,ACM,AECOM Technology Corporation,Frederick Tremblay,Analyst,0.54
+fq2-2020,ACM,AECOM Technology Corporation,Ben Jen,Analyst,0.51
+fq2-2020,ACM,AECOM Technology Corporation,Bill,Analyst,0.51
+fq2-2020,ACM,AECOM Technology Corporation,Analyst_9047766,Analyst,0.5
+fq2-2020,ACM,AECOM Technology Corporation,Analyst_2777191,Analyst,0.46
+fq3-2020,ACM,AECOM Technology Corporation,ACM Reported Earnings,Generic,0.55
+fq3-2020,ACM,AECOM Technology Corporation,Estimize Consensus,Generic,0.52
+fq3-2020,ACM,AECOM Technology Corporation,Estimize Mean,Generic,0.52
+fq3-2020,ACM,AECOM Technology Corporation,Wall Street Consensus,Generic,0.5
+fq3-2020,ACM,AECOM Technology Corporation,jean_acciari,Analyst,0.55
+fq3-2020,ACM,AECOM Technology Corporation,Sentinel,Analyst,0.52
+fq3-2020,ACM,AECOM Technology Corporation,Bill,Analyst,0.51
+fq3-2020,ACM,AECOM Technology Corporation,Medic2525,Analyst,0.51
+fq4-2020,ACM,AECOM Technology Corporation,ACM Reported Earnings,Generic,0.6
+fq4-2020,ACM,AECOM Technology Corporation,Estimize Consensus,Generic,0.59
+fq4-2020,ACM,AECOM Technology Corporation,Estimize Mean,Generic,0.59
+fq4-2020,ACM,AECOM Technology Corporation,Wall Street Consensus,Generic,0.57
+fq4-2020,ACM,AECOM Technology Corporation,Ron,Analyst,0.59
+fq4-2020,ACM,AECOM Technology Corporation,Bill,Analyst,0.59
+fq4-2020,ACM,AECOM Technology Corporation,Ben Jen,Analyst,0.58
+fq4-2020,ACM,AECOM Technology Corporation,Analyst_umbi,Analyst,0.63
+fq4-2020,ACM,AECOM Technology Corporation,Analyst_2290586,Analyst,0.56
+fq1-2020,ACN,Accenture plc,ACN Reported Earnings,Generic,2.09
+fq1-2020,ACN,Accenture plc,Estimize Consensus,Generic,2.04
+fq1-2020,ACN,Accenture plc,Estimize Mean,Generic,2.03
+fq1-2020,ACN,Accenture plc,Wall Street Consensus,Generic,2
+fq1-2020,ACN,Accenture plc,Analyst_269716,Analyst,2.09
+fq1-2020,ACN,Accenture plc,Analyst_Lemvigh,Analyst,2.09
+fq1-2020,ACN,Accenture plc,Ramsey El-Assal,Analyst,2.08
+fq1-2020,ACN,Accenture plc,Analyst_1872846,Analyst,2.08
+fq1-2020,ACN,Accenture plc,Analyst_5963436,Analyst,2.1
+fq1-2020,ACN,Accenture plc,dbarkalov,Analyst,2.1
+fq1-2020,ACN,Accenture plc,Proximilar AI,Analyst,2.1
+fq1-2020,ACN,Accenture plc,Mikel618,Analyst,2.06
+fq1-2020,ACN,Accenture plc,uncommonsense,Analyst,2.05
+fq1-2020,ACN,Accenture plc,Analyst_8532270,Analyst,2.05
+fq1-2020,ACN,Accenture plc,Tappa69,Analyst,2.05
+fq1-2020,ACN,Accenture plc,Analyst_umbi,Analyst,2.04
+fq1-2020,ACN,Accenture plc,Analyst_9676000,Analyst,2.04
+fq1-2020,ACN,Accenture plc,Frederick Tremblay,Analyst,2.03
+fq1-2020,ACN,Accenture plc,Bill,Analyst,2.03
+fq1-2020,ACN,Accenture plc,Zilvinas Speteliunas,Analyst,2.03
+fq1-2020,ACN,Accenture plc,PJH,Analyst,2.02
+fq1-2020,ACN,Accenture plc,Bothard,Analyst,2.01
+fq1-2020,ACN,Accenture plc,Sentinel,Analyst,2.01
+fq1-2020,ACN,Accenture plc,Frank Atkins,Analyst,2
+fq1-2020,ACN,Accenture plc,Analyst_4705359,Analyst,2
+fq1-2020,ACN,Accenture plc,Analyst_6414753,Analyst,2
+fq1-2020,ACN,Accenture plc,Bob S.,Analyst,2
+fq1-2020,ACN,Accenture plc,Joseph Foresi,Analyst,1.97
+fq1-2020,ACN,Accenture plc,BirdT,Analyst,1.96
+fq1-2020,ACN,Accenture plc,Torn010,Analyst,1.88
+fq2-2020,ACN,Accenture plc,ACN Reported Earnings,Generic,1.91
+fq2-2020,ACN,Accenture plc,Estimize Consensus,Generic,1.74
+fq2-2020,ACN,Accenture plc,Estimize Mean,Generic,1.76
+fq2-2020,ACN,Accenture plc,Wall Street Consensus,Generic,1.72
+fq2-2020,ACN,Accenture plc,Analyst_5963436,Analyst,1.87
+fq2-2020,ACN,Accenture plc,Cmelan,Analyst,1.84
+fq2-2020,ACN,Accenture plc,Analyst_1872846,Analyst,1.83
+fq2-2020,ACN,Accenture plc,Analyst_269716,Analyst,1.83
+fq2-2020,ACN,Accenture plc,Zilvinas Speteliunas,Analyst,1.78
+fq2-2020,ACN,Accenture plc,Bill,Analyst,1.77
+fq2-2020,ACN,Accenture plc,Frank Atkins,Analyst,1.76
+fq2-2020,ACN,Accenture plc,Frederick Tremblay,Analyst,1.76
+fq2-2020,ACN,Accenture plc,GregTripple,Analyst,1.75
+fq2-2020,ACN,Accenture plc,uncommonsense,Analyst,1.75
+fq2-2020,ACN,Accenture plc,Philip Mascherino,Analyst,1.75
+fq2-2020,ACN,Accenture plc,Analyst_8202295,Analyst,1.74
+fq2-2020,ACN,Accenture plc,Analyst_9676000,Analyst,1.74
+fq2-2020,ACN,Accenture plc,Sentinel,Analyst,1.73
+fq2-2020,ACN,Accenture plc,Analyst_8532270,Analyst,1.73
+fq2-2020,ACN,Accenture plc,Analyst_8260576,Analyst,1.68
+fq2-2020,ACN,Accenture plc,Joseph Foresi,Analyst,1.67
+fq3-2020,ACN,Accenture plc,ACN Reported Earnings,Generic,1.9
+fq3-2020,ACN,Accenture plc,Estimize Consensus,Generic,1.9
+fq3-2020,ACN,Accenture plc,Estimize Mean,Generic,1.93
+fq3-2020,ACN,Accenture plc,Wall Street Consensus,Generic,1.85
+fq3-2020,ACN,Accenture plc,Zilvinas Speteliunas,Analyst,1.9
+fq3-2020,ACN,Accenture plc,David Shoko,Analyst,1.9
+fq3-2020,ACN,Accenture plc,DF_5082802,Analyst,1.9
+fq3-2020,ACN,Accenture plc,Analyst_9676000,Analyst,1.9
+fq3-2020,ACN,Accenture plc,omni,Analyst,1.9
+fq3-2020,ACN,Accenture plc,uncommonsense,Analyst,1.91
+fq3-2020,ACN,Accenture plc,Analyst_46690,Analyst,1.91
+fq3-2020,ACN,Accenture plc,Analyst_4961180,Analyst,1.91
+fq3-2020,ACN,Accenture plc,Joseph Foresi,Analyst,1.88
+fq3-2020,ACN,Accenture plc,Alethia Young,Analyst,1.88
+fq3-2020,ACN,Accenture plc,serpyou,Analyst,1.88
+fq3-2020,ACN,Accenture plc,Tappa69,Analyst,1.92
+fq3-2020,ACN,Accenture plc,Helsou,Analyst,1.88
+fq3-2020,ACN,Accenture plc,Bill,Analyst,1.88
+fq3-2020,ACN,Accenture plc,Sentinel,Analyst,1.87
+fq3-2020,ACN,Accenture plc,Analyst_1536505,Analyst,1.94
+fq3-2020,ACN,Accenture plc,Analyst_8532270,Analyst,1.85
+fq3-2020,ACN,Accenture plc,Malette,Analyst,1.95
+fq3-2020,ACN,Accenture plc,Mikel618,Analyst,1.83
+fq3-2020,ACN,Accenture plc,Analyst_9765225,Analyst,1.8
+fq3-2020,ACN,Accenture plc,Analyst_269716,Analyst,2.07
+fq3-2020,ACN,Accenture plc,GregTripple,Analyst,2.1
+fq3-2020,ACN,Accenture plc,Frank Atkins,Analyst,2.15
+fq3-2020,ACN,Accenture plc,Analyst_5963436,Analyst,2.15
+fq4-2020,ACN,Accenture plc,ACN Reported Earnings,Generic,1.7
+fq4-2020,ACN,Accenture plc,Estimize Consensus,Generic,1.76
+fq4-2020,ACN,Accenture plc,Estimize Mean,Generic,1.77
+fq4-2020,ACN,Accenture plc,Wall Street Consensus,Generic,1.73
+fq4-2020,ACN,Accenture plc,Joseph Foresi,Analyst,1.72
+fq4-2020,ACN,Accenture plc,Alethia Young,Analyst,1.72
+fq4-2020,ACN,Accenture plc,Mikel618,Analyst,1.68
+fq4-2020,ACN,Accenture plc,Sentinel,Analyst,1.73
+fq4-2020,ACN,Accenture plc,Analyst_48854,Analyst,1.73
+fq4-2020,ACN,Accenture plc,Madmoni,Analyst,1.73
+fq4-2020,ACN,Accenture plc,Analyst_9284240,Analyst,1.73
+fq4-2020,ACN,Accenture plc,HASAN OGUZ,Analyst,1.73
+fq4-2020,ACN,Accenture plc,Analyst_8113162,Analyst,1.74
+fq4-2020,ACN,Accenture plc,Dr. John Liao.,Analyst,1.74
+fq4-2020,ACN,Accenture plc,PCLA,Analyst,1.74
+fq4-2020,ACN,Accenture plc,Analyst_8202295,Analyst,1.75
+fq4-2020,ACN,Accenture plc,serpyou,Analyst,1.75
+fq4-2020,ACN,Accenture plc,Analyst_4444249,Analyst,1.75
+fq4-2020,ACN,Accenture plc,Analyst_1533692,Analyst,1.65
+fq4-2020,ACN,Accenture plc,Analyst_7601443,Analyst,1.76
+fq4-2020,ACN,Accenture plc,Bill,Analyst,1.76
+fq4-2020,ACN,Accenture plc,Zilvinas Speteliunas,Analyst,1.77
+fq4-2020,ACN,Accenture plc,Analyst_9872866,Analyst,1.77
+fq4-2020,ACN,Accenture plc,Jen_F,Analyst,1.78
+fq4-2020,ACN,Accenture plc,DF_5082802,Analyst,1.78
+fq4-2020,ACN,Accenture plc,Analyst_9676000,Analyst,1.79
+fq4-2020,ACN,Accenture plc,uncommonsense,Analyst,1.81
+fq4-2020,ACN,Accenture plc,Metal_Miltia,Analyst,1.81
+fq4-2020,ACN,Accenture plc,Analyst_1689909,Analyst,1.85
+fq4-2020,ACN,Accenture plc,Aitor,Analyst,1.86
+fq4-2020,ACN,Accenture plc,GregTripple,Analyst,1.9
+fq4-2020,ACN,Accenture plc,Frank Atkins,Analyst,2.02
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",ACOR Reported Earnings,Generic,-3.06
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Consensus,Generic,-2.56
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Mean,Generic,-2.54
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Wall Street Consensus,Generic,-2.92
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Analyst_7007168,Analyst,-2.94
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Bill,Analyst,-2.76
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Ben Jen,Analyst,-2.7
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Analyst_2777191,Analyst,-2.4
+fq1-2020,ACOR,"Acorda Therapeutics, Inc.",Frederick Tremblay,Analyst,-1.92
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",ACOR Reported Earnings,Generic,-2.22
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Consensus,Generic,-3.26
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Mean,Generic,-3.1
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Wall Street Consensus,Generic,-3.4
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Analyst_7008127,Analyst,-2.64
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Sentinel,Analyst,-3.06
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Medic2525,Analyst,-3.12
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Bill,Analyst,-3.24
+fq2-2020,ACOR,"Acorda Therapeutics, Inc.",Analyst_8664810,Analyst,-3.42
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",ACOR Reported Earnings,Generic,0.3
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Consensus,Generic,-2.32
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Mean,Generic,-2.36
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Wall Street Consensus,Generic,-2.65
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Analyst_1055332,Analyst,-1.86
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Ben Jen,Analyst,-2.1
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Bill,Analyst,-2.34
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Analyst_8800295,Analyst,-2.64
+fq3-2020,ACOR,"Acorda Therapeutics, Inc.",Medic2525,Analyst,-2.88
+fq4-2020,ACOR,"Acorda Therapeutics, Inc.",ACOR Reported Earnings,Generic,-9.82
+fq4-2020,ACOR,"Acorda Therapeutics, Inc.",Estimize Mean,Generic,-
+fq4-2020,ACOR,"Acorda Therapeutics, Inc.",Wall Street Consensus,Generic,-2.57
+fq4-2020,ACOR,"Acorda Therapeutics, Inc.",Conkatonk,Analyst,-2.05
+fq4-2020,ACOR,"Acorda Therapeutics, Inc.",Bill,Analyst,-1.93
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",ACRX Reported Earnings,Generic,-0.2
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.15
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.15
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.17
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_5899779,Analyst,-0.17
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.","Brandon Folkes, CFA",Analyst,-0.16
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Louise Chen,Analyst,-0.16
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Ben Jen,Analyst,-0.16
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Bill,Analyst,-0.15
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_3959621,Analyst,-0.14
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Frederick Tremblay,Analyst,-0.13
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_2244460,Analyst,-0.12
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",BerndEL,Analyst,-0.12
+fq1-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_2063735,Analyst,-0.46
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",ACRX Reported Earnings,Generic,-0.08
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.11
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.12
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.13
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_3959621,Analyst,-0.12
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Bill,Analyst,-0.12
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Medic2525,Analyst,-0.13
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Sentinel,Analyst,-0.14
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_5899779,Analyst,-0.15
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_8561617,Analyst,0.01
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.","Brandon Folkes, CFA",Analyst,-0.17
+fq2-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Louise Chen,Analyst,-0.17
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",ACRX Reported Earnings,Generic,-0.1
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.06
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.08
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.08
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.","Brandon Folkes, CFA",Analyst,-0.1
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Louise Chen,Analyst,-0.1
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_2175432,Analyst,-0.1
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_3959621,Analyst,-0.12
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_5240051,Analyst,-0.08
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Ben Jen,Analyst,-0.07
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_5899779,Analyst,-0.14
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",TylerDurham,Analyst,-0.06
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Bill,Analyst,-0.06
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_7063302,Analyst,-0.05
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_464751,Analyst,-0.04
+fq3-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_1506397,Analyst,0.02
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",ACRX Reported Earnings,Generic,-0.1
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.08
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.1
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.1
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Bill,Analyst,-0.09
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.","Brandon Folkes, CFA",Analyst,-0.12
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Louise Chen,Analyst,-0.12
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",Analyst_3306764,Analyst,-0.08
+fq4-2020,ACRX,"AcelRx Pharmaceuticals, Inc.",braddddd,Analyst,-0.08
+fq1-2020,ACTG,Acacia Research Corporation,ACTG Reported Earnings,Generic,-0.24
+fq1-2020,ACTG,Acacia Research Corporation,Estimize Mean,Generic,-
+fq1-2020,ACTG,Acacia Research Corporation,Bill,Analyst,-0.09
+fq1-2020,ACTG,Acacia Research Corporation,Analyst_2777191,Analyst,-0.02
+fq2-2020,ACTG,Acacia Research Corporation,ACTG Reported Earnings,Generic,-0.1
+fq2-2020,ACTG,Acacia Research Corporation,Estimize Consensus,Generic,-0.05
+fq2-2020,ACTG,Acacia Research Corporation,Estimize Mean,Generic,-0.05
+fq2-2020,ACTG,Acacia Research Corporation,Wall Street Consensus,Generic,-0.02
+fq2-2020,ACTG,Acacia Research Corporation,Ben Jen,Analyst,-0.08
+fq2-2020,ACTG,Acacia Research Corporation,Bill,Analyst,-0.05
+fq2-2020,ACTG,Acacia Research Corporation,tigerzhang2092,Analyst,-0.02
+fq3-2020,ACTG,Acacia Research Corporation,ACTG Reported Earnings,Generic,-0.13
+fq3-2020,ACTG,Acacia Research Corporation,Estimize Consensus,Generic,-0.03
+fq3-2020,ACTG,Acacia Research Corporation,Estimize Mean,Generic,-0.03
+fq3-2020,ACTG,Acacia Research Corporation,Wall Street Consensus,Generic,-0.02
+fq3-2020,ACTG,Acacia Research Corporation,Ben Jen,Analyst,-0.05
+fq3-2020,ACTG,Acacia Research Corporation,Bill,Analyst,-0.04
+fq3-2020,ACTG,Acacia Research Corporation,karowlinger,Analyst,0
+fq4-2020,ACTG,Acacia Research Corporation,ACTG Reported Earnings,Generic,-0.46
+fq4-2020,ACTG,Acacia Research Corporation,Estimize Consensus,Generic,-0.06
+fq4-2020,ACTG,Acacia Research Corporation,Estimize Mean,Generic,-0.05
+fq4-2020,ACTG,Acacia Research Corporation,Wall Street Consensus,Generic,-0.01
+fq4-2020,ACTG,Acacia Research Corporation,Conkatonk,Analyst,-0.07
+fq4-2020,ACTG,Acacia Research Corporation,Ben Jen,Analyst,-0.05
+fq4-2020,ACTG,Acacia Research Corporation,Bill,Analyst,-0.04
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,ADAP Reported Earnings,Generic,-0.04
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Consensus,Generic,-0.14
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Mean,Generic,-0.16
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,Wall Street Consensus,Generic,-0.23
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,Ben Jen,Analyst,-0.05
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,Frederick Tremblay,Analyst,-0.13
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,Bill,Analyst,-0.16
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,omni,Analyst,-0.19
+fq1-2020,ADAP,Adaptimmune Therapeutics plc,"Tony Butler, Ph.D.",Analyst,-0.26
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,ADAP Reported Earnings,Generic,-0.04
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Consensus,Generic,-0.18
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Mean,Generic,-0.27
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Wall Street Consensus,Generic,-0.24
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Bill,Analyst,-0.18
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,"Tony Butler, Ph.D.",Analyst,-0.23
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Billy4563,Analyst,-0.26
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Sentinel,Analyst,-0.27
+fq2-2020,ADAP,Adaptimmune Therapeutics plc,Analyst_3294079,Analyst,-0.4
+fq3-2020,ADAP,Adaptimmune Therapeutics plc,ADAP Reported Earnings,Generic,-0.04
+fq3-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Mean,Generic,-
+fq3-2020,ADAP,Adaptimmune Therapeutics plc,Wall Street Consensus,Generic,-0.25
+fq3-2020,ADAP,Adaptimmune Therapeutics plc,Bill,Analyst,-0.1
+fq3-2020,ADAP,Adaptimmune Therapeutics plc,"Tony Butler, Ph.D.",Analyst,-0.29
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,ADAP Reported Earnings,Generic,-0.04
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Consensus,Generic,-0.1
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,Estimize Mean,Generic,-0.16
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,Wall Street Consensus,Generic,-0.23
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,Bill,Analyst,-0.1
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,croissant,Analyst,-0.1
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,"Tony Butler, Ph.D.",Analyst,-0.19
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,Analyst_588103,Analyst,-0.2
+fq4-2020,ADAP,Adaptimmune Therapeutics plc,Analyst_8020299,Analyst,-0.23
+fq1-2020,ADBE,Adobe Systems Inc.,ADBE Reported Earnings,Generic,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,ADBE Guidance,Generic,2.23
+fq1-2020,ADBE,Adobe Systems Inc.,Estimize Consensus,Generic,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Estimize Mean,Generic,2.25
+fq1-2020,ADBE,Adobe Systems Inc.,Wall Street Consensus,Generic,2.23
+fq1-2020,ADBE,Adobe Systems Inc.,Sam0808,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Redhawk,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Aram Balian,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_530056,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Tappa69,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Ron,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Zilvinas Speteliunas,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,R,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Bill,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,AAFED,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,omni,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,New_Moon,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,SM_Georg,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,Bill_Maurer,Analyst,2.27
+fq1-2020,ADBE,Adobe Systems Inc.,amullen,Analyst,2.28
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_PP_7797,Analyst,2.28
+fq1-2020,ADBE,Adobe Systems Inc.,francescozunino,Analyst,2.28
+fq1-2020,ADBE,Adobe Systems Inc.,kerry burrell,Analyst,2.28
+fq1-2020,ADBE,Adobe Systems Inc.,robert brand,Analyst,2.28
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_5039344,Analyst,2.28
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_3215877,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_9402829,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,PJH,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Neil_Martin,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,larrylai,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Anglosaxon,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Vitaly,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_883247,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Rob Ford,Analyst,2.26
+fq1-2020,ADBE,Adobe Systems Inc.,Analyst_9749378,Analyst,2.25
+fq2-2020,ADBE,Adobe Systems Inc.,ADBE Reported Earnings,Generic,2.45
+fq2-2020,ADBE,Adobe Systems Inc.,ADBE Guidance,Generic,2.35
+fq2-2020,ADBE,Adobe Systems Inc.,Estimize Consensus,Generic,2.36
+fq2-2020,ADBE,Adobe Systems Inc.,Estimize Mean,Generic,2.35
+fq2-2020,ADBE,Adobe Systems Inc.,Wall Street Consensus,Generic,2.32
+fq2-2020,ADBE,Adobe Systems Inc.,David Shoko,Analyst,2.45
+fq2-2020,ADBE,Adobe Systems Inc.,omni,Analyst,2.44
+fq2-2020,ADBE,Adobe Systems Inc.,Graybill John,Analyst,2.41
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_1059398,Analyst,2.41
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_3519937,Analyst,2.41
+fq2-2020,ADBE,Adobe Systems Inc.,Cyclist,Analyst,2.5
+fq2-2020,ADBE,Adobe Systems Inc.,eaojnr,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,amullen,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_9101240,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,am,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,jean_acciari,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,sas2206,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_3262210,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_3290108,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,WonterC,Analyst,2.4
+fq2-2020,ADBE,Adobe Systems Inc.,Stratify,Analyst,2.39
+fq2-2020,ADBE,Adobe Systems Inc.,djh,Analyst,2.39
+fq2-2020,ADBE,Adobe Systems Inc.,rpajam,Analyst,2.39
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_6661262,Analyst,2.39
+fq2-2020,ADBE,Adobe Systems Inc.,Wolfman of Wall Street,Analyst,2.39
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_1141772,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_5897436,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,francescozunino,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Jinny,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_5039344,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Phil_C,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,darshilpatel34,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_2828756,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Bigorangedave,Analyst,2.38
+fq2-2020,ADBE,Adobe Systems Inc.,Analyst_3159502,Analyst,2.38
+fq3-2020,ADBE,Adobe Systems Inc.,ADBE Reported Earnings,Generic,2.57
+fq3-2020,ADBE,Adobe Systems Inc.,ADBE Guidance,Generic,2.4
+fq3-2020,ADBE,Adobe Systems Inc.,Estimize Consensus,Generic,2.47
+fq3-2020,ADBE,Adobe Systems Inc.,Estimize Mean,Generic,2.46
+fq3-2020,ADBE,Adobe Systems Inc.,Wall Street Consensus,Generic,2.41
+fq3-2020,ADBE,Adobe Systems Inc.,Graybill John,Analyst,2.56
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_572030,Analyst,2.56
+fq3-2020,ADBE,Adobe Systems Inc.,WolfmanWallSt,Analyst,2.56
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_1145073,Analyst,2.56
+fq3-2020,ADBE,Adobe Systems Inc.,Marco Rossi,Analyst,2.58
+fq3-2020,ADBE,Adobe Systems Inc.,amullen,Analyst,2.55
+fq3-2020,ADBE,Adobe Systems Inc.,Jen_F,Analyst,2.55
+fq3-2020,ADBE,Adobe Systems Inc.,TheRod,Analyst,2.59
+fq3-2020,ADBE,Adobe Systems Inc.,DF_5082802,Analyst,2.6
+fq3-2020,ADBE,Adobe Systems Inc.,sas2206,Analyst,2.6
+fq3-2020,ADBE,Adobe Systems Inc.,Anglosaxon,Analyst,2.53
+fq3-2020,ADBE,Adobe Systems Inc.,Neil_Martin,Analyst,2.53
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_8039196,Analyst,2.53
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_6661262,Analyst,2.53
+fq3-2020,ADBE,Adobe Systems Inc.,rpajam,Analyst,2.52
+fq3-2020,ADBE,Adobe Systems Inc.,Bob Ya,Analyst,2.52
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_6300678,Analyst,2.52
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_7978660,Analyst,2.52
+fq3-2020,ADBE,Adobe Systems Inc.,Phil_C,Analyst,2.51
+fq3-2020,ADBE,Adobe Systems Inc.,GregTripple,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,Bob Katz,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_8548690,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,badguesser,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_1390165,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,jean_acciari,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,DebtCliff,Analyst,2.5
+fq3-2020,ADBE,Adobe Systems Inc.,sugarfysh,Analyst,2.49
+fq3-2020,ADBE,Adobe Systems Inc.,Analyst_3317790,Analyst,2.49
+fq3-2020,ADBE,Adobe Systems Inc.,mdainvest,Analyst,2.49
+fq3-2020,ADBE,Adobe Systems Inc.,Bill,Analyst,2.49
+fq4-2020,ADBE,Adobe Systems Inc.,ADBE Reported Earnings,Generic,2.81
+fq4-2020,ADBE,Adobe Systems Inc.,ADBE Guidance,Generic,2.64
+fq4-2020,ADBE,Adobe Systems Inc.,Estimize Consensus,Generic,2.71
+fq4-2020,ADBE,Adobe Systems Inc.,Estimize Mean,Generic,2.7
+fq4-2020,ADBE,Adobe Systems Inc.,Wall Street Consensus,Generic,2.66
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_R2D2,Analyst,2.82
+fq4-2020,ADBE,Adobe Systems Inc.,Zilvinas Speteliunas,Analyst,2.82
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_3159502,Analyst,2.82
+fq4-2020,ADBE,Adobe Systems Inc.,sas2206,Analyst,2.8
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_7978660,Analyst,2.8
+fq4-2020,ADBE,Adobe Systems Inc.,R,Analyst,2.8
+fq4-2020,ADBE,Adobe Systems Inc.,robert brand,Analyst,2.79
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_1390165,Analyst,2.79
+fq4-2020,ADBE,Adobe Systems Inc.,Rob Ford,Analyst,2.79
+fq4-2020,ADBE,Adobe Systems Inc.,francescozunino,Analyst,2.78
+fq4-2020,ADBE,Adobe Systems Inc.,Bob Ya,Analyst,2.78
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_3952261,Analyst,2.77
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_5039344,Analyst,2.77
+fq4-2020,ADBE,Adobe Systems Inc.,Neil_Martin,Analyst,2.77
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_414042,Analyst,2.77
+fq4-2020,ADBE,Adobe Systems Inc.,jfffrmm,Analyst,2.77
+fq4-2020,ADBE,Adobe Systems Inc.,Graybill John,Analyst,2.76
+fq4-2020,ADBE,Adobe Systems Inc.,larrylai,Analyst,2.76
+fq4-2020,ADBE,Adobe Systems Inc.,Scott Hendricks,Analyst,2.76
+fq4-2020,ADBE,Adobe Systems Inc.,DF_5082802,Analyst,2.76
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_9138660,Analyst,2.76
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_9676000,Analyst,2.76
+fq4-2020,ADBE,Adobe Systems Inc.,amullen,Analyst,2.75
+fq4-2020,ADBE,Adobe Systems Inc.,rpajam,Analyst,2.75
+fq4-2020,ADBE,Adobe Systems Inc.,Marco Rossi,Analyst,2.75
+fq4-2020,ADBE,Adobe Systems Inc.,Calvin_S,Analyst,2.75
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_8542529,Analyst,2.75
+fq4-2020,ADBE,Adobe Systems Inc.,serpyou,Analyst,2.75
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_6143517,Analyst,2.74
+fq4-2020,ADBE,Adobe Systems Inc.,Analyst_508786,Analyst,2.74
+fq1-2020,ADI,Analog Devices Inc.,ADI Reported Earnings,Generic,1.03
+fq1-2020,ADI,Analog Devices Inc.,ADI Guidance,Generic,1
+fq1-2020,ADI,Analog Devices Inc.,Estimize Consensus,Generic,1.04
+fq1-2020,ADI,Analog Devices Inc.,Estimize Mean,Generic,1.1
+fq1-2020,ADI,Analog Devices Inc.,Wall Street Consensus,Generic,1
+fq1-2020,ADI,Analog Devices Inc.,Bill,Analyst,1.03
+fq1-2020,ADI,Analog Devices Inc.,serp,Analyst,1.03
+fq1-2020,ADI,Analog Devices Inc.,robert brand,Analyst,1.03
+fq1-2020,ADI,Analog Devices Inc.,Zilvinas Speteliunas,Analyst,1.04
+fq1-2020,ADI,Analog Devices Inc.,Medic2525,Analyst,1.04
+fq1-2020,ADI,Analog Devices Inc.,Grexoplasm,Analyst,1.05
+fq1-2020,ADI,Analog Devices Inc.,Frederick Tremblay,Analyst,1.01
+fq1-2020,ADI,Analog Devices Inc.,Proximilar AI,Analyst,1.05
+fq1-2020,ADI,Analog Devices Inc.,Analyst_3715541,Analyst,1.01
+fq1-2020,ADI,Analog Devices Inc.,Tom Telford,Analyst,1.06
+fq1-2020,ADI,Analog Devices Inc.,Jagator904,Analyst,1.06
+fq1-2020,ADI,Analog Devices Inc.,William Stein,Analyst,0.99
+fq1-2020,ADI,Analog Devices Inc.,Rick Schafer,Analyst,1.08
+fq1-2020,ADI,Analog Devices Inc.,Analyst_3930159,Analyst,1.12
+fq1-2020,ADI,Analog Devices Inc.,Sentinel,Analyst,1.17
+fq1-2020,ADI,Analog Devices Inc.,Analyst_1892539,Analyst,1.24
+fq1-2020,ADI,Analog Devices Inc.,GregTripple,Analyst,1.4
+fq1-2020,ADI,Analog Devices Inc.,Mark Lipacis,Analyst,1.46
+fq2-2020,ADI,Analog Devices Inc.,ADI Reported Earnings,Generic,1.08
+fq2-2020,ADI,Analog Devices Inc.,ADI Guidance,Generic,1.1
+fq2-2020,ADI,Analog Devices Inc.,Estimize Consensus,Generic,1.06
+fq2-2020,ADI,Analog Devices Inc.,Estimize Mean,Generic,1.12
+fq2-2020,ADI,Analog Devices Inc.,Wall Street Consensus,Generic,1.04
+fq2-2020,ADI,Analog Devices Inc.,Frederick Tremblay,Analyst,1.08
+fq2-2020,ADI,Analog Devices Inc.,Ben Jen,Analyst,1.07
+fq2-2020,ADI,Analog Devices Inc.,Vladimir Solodukhin,Analyst,1.09
+fq2-2020,ADI,Analog Devices Inc.,Zilvinas Speteliunas,Analyst,1.07
+fq2-2020,ADI,Analog Devices Inc.,omni,Analyst,1.07
+fq2-2020,ADI,Analog Devices Inc.,Bill,Analyst,1.07
+fq2-2020,ADI,Analog Devices Inc.,William Stein,Analyst,1.1
+fq2-2020,ADI,Analog Devices Inc.,Rick Schafer,Analyst,1.1
+fq2-2020,ADI,Analog Devices Inc.,robert brand,Analyst,1.06
+fq2-2020,ADI,Analog Devices Inc.,WincoreCapital,Analyst,1.1
+fq2-2020,ADI,Analog Devices Inc.,David Shoko,Analyst,1.1
+fq2-2020,ADI,Analog Devices Inc.,Sentinel,Analyst,1.05
+fq2-2020,ADI,Analog Devices Inc.,Analyst_783524,Analyst,0.93
+fq2-2020,ADI,Analog Devices Inc.,Analyst_1892539,Analyst,1.32
+fq2-2020,ADI,Analog Devices Inc.,Mark Lipacis,Analyst,1.53
+fq3-2020,ADI,Analog Devices Inc.,ADI Reported Earnings,Generic,1.35
+fq3-2020,ADI,Analog Devices Inc.,ADI Guidance,Generic,1.33
+fq3-2020,ADI,Analog Devices Inc.,Estimize Consensus,Generic,1.31
+fq3-2020,ADI,Analog Devices Inc.,Estimize Mean,Generic,1.32
+fq3-2020,ADI,Analog Devices Inc.,Wall Street Consensus,Generic,1.3
+fq3-2020,ADI,Analog Devices Inc.,DF_5082802,Analyst,1.35
+fq3-2020,ADI,Analog Devices Inc.,Malette,Analyst,1.35
+fq3-2020,ADI,Analog Devices Inc.,Jen_F,Analyst,1.34
+fq3-2020,ADI,Analog Devices Inc.,William Stein,Analyst,1.33
+fq3-2020,ADI,Analog Devices Inc.,Grexoplasm,Analyst,1.33
+fq3-2020,ADI,Analog Devices Inc.,Jagator904,Analyst,1.33
+fq3-2020,ADI,Analog Devices Inc.,robert brand,Analyst,1.33
+fq3-2020,ADI,Analog Devices Inc.,Analyst_8113162,Analyst,1.33
+fq3-2020,ADI,Analog Devices Inc.,Analyst_4206782,Analyst,1.32
+fq3-2020,ADI,Analog Devices Inc.,Vladimir Solodukhin,Analyst,1.31
+fq3-2020,ADI,Analog Devices Inc.,Bill,Analyst,1.31
+fq3-2020,ADI,Analog Devices Inc.,Zilvinas Speteliunas,Analyst,1.31
+fq3-2020,ADI,Analog Devices Inc.,Analyst_237311,Analyst,1.3
+fq3-2020,ADI,Analog Devices Inc.,Madmoni,Analyst,1.3
+fq3-2020,ADI,Analog Devices Inc.,Rick Schafer,Analyst,1.43
+fq3-2020,ADI,Analog Devices Inc.,aarongil,Analyst,1.22
+fq3-2020,ADI,Analog Devices Inc.,Rob,Analyst,1.2
+fq3-2020,ADI,Analog Devices Inc.,Mark Lipacis,Analyst,1.57
+fq3-2020,ADI,Analog Devices Inc.,Sentinel,Analyst,1.04
+fq4-2020,ADI,Analog Devices Inc.,ADI Reported Earnings,Generic,1.44
+fq4-2020,ADI,Analog Devices Inc.,ADI Guidance,Generic,1.32
+fq4-2020,ADI,Analog Devices Inc.,Estimize Consensus,Generic,1.35
+fq4-2020,ADI,Analog Devices Inc.,Estimize Mean,Generic,1.35
+fq4-2020,ADI,Analog Devices Inc.,Wall Street Consensus,Generic,1.33
+fq4-2020,ADI,Analog Devices Inc.,Rick Schafer,Analyst,1.42
+fq4-2020,ADI,Analog Devices Inc.,robert brand,Analyst,1.38
+fq4-2020,ADI,Analog Devices Inc.,William Stein,Analyst,1.36
+fq4-2020,ADI,Analog Devices Inc.,Vladimir Solodukhin,Analyst,1.36
+fq4-2020,ADI,Analog Devices Inc.,Bill,Analyst,1.35
+fq4-2020,ADI,Analog Devices Inc.,Zilvinas Speteliunas,Analyst,1.35
+fq4-2020,ADI,Analog Devices Inc.,Madmoni,Analyst,1.34
+fq4-2020,ADI,Analog Devices Inc.,Analyst_8500090,Analyst,1.34
+fq4-2020,ADI,Analog Devices Inc.,William Stein,Analyst,1.32
+fq4-2020,ADI,Analog Devices Inc.,Analyst_6127515,Analyst,1.3
+fq1-2020,ADM,Archer Daniels Midland Company,ADM Reported Earnings,Generic,0.64
+fq1-2020,ADM,Archer Daniels Midland Company,Estimize Consensus,Generic,0.62
+fq1-2020,ADM,Archer Daniels Midland Company,Estimize Mean,Generic,0.63
+fq1-2020,ADM,Archer Daniels Midland Company,Wall Street Consensus,Generic,0.55
+fq1-2020,ADM,Archer Daniels Midland Company,PCLA,Analyst,0.62
+fq1-2020,ADM,Archer Daniels Midland Company,Zilvinas Speteliunas,Analyst,0.62
+fq1-2020,ADM,Archer Daniels Midland Company,Bill,Analyst,0.6
+fq1-2020,ADM,Archer Daniels Midland Company,Ben Jen,Analyst,0.6
+fq1-2020,ADM,Archer Daniels Midland Company,Buck_718700,Analyst,0.59
+fq1-2020,ADM,Archer Daniels Midland Company,Frederick Tremblay,Analyst,0.59
+fq1-2020,ADM,Archer Daniels Midland Company,New_Moon,Analyst,0.59
+fq1-2020,ADM,Archer Daniels Midland Company,Rob Ford,Analyst,0.59
+fq1-2020,ADM,Archer Daniels Midland Company,PM,Analyst,0.7
+fq1-2020,ADM,Archer Daniels Midland Company,Ram,Analyst,0.58
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_8532270,Analyst,0.57
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_5795851,Analyst,0.57
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_7332604,Analyst,0.56
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_2278908,Analyst,0.56
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_8075381,Analyst,0.56
+fq1-2020,ADM,Archer Daniels Midland Company,Scalper55,Analyst,0.54
+fq1-2020,ADM,Archer Daniels Midland Company,Ron,Analyst,0.75
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_2777191,Analyst,0.75
+fq1-2020,ADM,Archer Daniels Midland Company,dalton,Analyst,0.77
+fq1-2020,ADM,Archer Daniels Midland Company,HappyDoge,Analyst,0.8
+fq1-2020,ADM,Archer Daniels Midland Company,Neil_Martin,Analyst,0.82
+fq1-2020,ADM,Archer Daniels Midland Company,maggieb,Analyst,0.9
+fq1-2020,ADM,Archer Daniels Midland Company,AAFED,Analyst,0.28
+fq1-2020,ADM,Archer Daniels Midland Company,Analyst_1633019,Analyst,0.25
+fq1-2020,ADM,Archer Daniels Midland Company,Vladimir Solodukhin,Analyst,1.04
+fq2-2020,ADM,Archer Daniels Midland Company,ADM Reported Earnings,Generic,0.85
+fq2-2020,ADM,Archer Daniels Midland Company,Estimize Consensus,Generic,0.54
+fq2-2020,ADM,Archer Daniels Midland Company,Estimize Mean,Generic,0.58
+fq2-2020,ADM,Archer Daniels Midland Company,Wall Street Consensus,Generic,0.51
+fq2-2020,ADM,Archer Daniels Midland Company,Buck_718700,Analyst,0.81
+fq2-2020,ADM,Archer Daniels Midland Company,PM,Analyst,0.94
+fq2-2020,ADM,Archer Daniels Midland Company,Rob Ford,Analyst,0.62
+fq2-2020,ADM,Archer Daniels Midland Company,Zilvinas Speteliunas,Analyst,0.6
+fq2-2020,ADM,Archer Daniels Midland Company,dalton,Analyst,0.58
+fq2-2020,ADM,Archer Daniels Midland Company,Jagator904,Analyst,0.57
+fq2-2020,ADM,Archer Daniels Midland Company,Analyst_2777191,Analyst,0.55
+fq2-2020,ADM,Archer Daniels Midland Company,AAFED,Analyst,0.54
+fq2-2020,ADM,Archer Daniels Midland Company,Neil_Martin,Analyst,0.53
+fq2-2020,ADM,Archer Daniels Midland Company,Analyst_5795851,Analyst,0.53
+fq2-2020,ADM,Archer Daniels Midland Company,Bill,Analyst,0.53
+fq2-2020,ADM,Archer Daniels Midland Company,Medic2525,Analyst,0.53
+fq2-2020,ADM,Archer Daniels Midland Company,PCLA,Analyst,0.52
+fq2-2020,ADM,Archer Daniels Midland Company,Analyst_8532270,Analyst,0.52
+fq2-2020,ADM,Archer Daniels Midland Company,Sentinel,Analyst,0.51
+fq2-2020,ADM,Archer Daniels Midland Company,tigerzhang2092,Analyst,0.51
+fq2-2020,ADM,Archer Daniels Midland Company,Ram,Analyst,0.5
+fq2-2020,ADM,Archer Daniels Midland Company,"Eric Larson, CFA",Analyst,0.46
+fq3-2020,ADM,Archer Daniels Midland Company,ADM Reported Earnings,Generic,0.89
+fq3-2020,ADM,Archer Daniels Midland Company,Estimize Consensus,Generic,0.78
+fq3-2020,ADM,Archer Daniels Midland Company,Estimize Mean,Generic,0.76
+fq3-2020,ADM,Archer Daniels Midland Company,Wall Street Consensus,Generic,0.71
+fq3-2020,ADM,Archer Daniels Midland Company,Buck_718700,Analyst,0.88
+fq3-2020,ADM,Archer Daniels Midland Company,Neil_Martin,Analyst,0.91
+fq3-2020,ADM,Archer Daniels Midland Company,Options_Farmer,Analyst,0.92
+fq3-2020,ADM,Archer Daniels Midland Company,Rob Ford,Analyst,0.81
+fq3-2020,ADM,Archer Daniels Midland Company,dalton,Analyst,0.8
+fq3-2020,ADM,Archer Daniels Midland Company,Scott Hendricks,Analyst,0.79
+fq3-2020,ADM,Archer Daniels Midland Company,Bill,Analyst,0.79
+fq3-2020,ADM,Archer Daniels Midland Company,PM,Analyst,0.79
+fq3-2020,ADM,Archer Daniels Midland Company,Tony Zhang,Analyst,0.78
+fq3-2020,ADM,Archer Daniels Midland Company,Zilvinas Speteliunas,Analyst,0.78
+fq3-2020,ADM,Archer Daniels Midland Company,Ben Jen,Analyst,0.77
+fq3-2020,ADM,Archer Daniels Midland Company,Don Pagach,Analyst,0.77
+fq3-2020,ADM,Archer Daniels Midland Company,Aitvaras,Analyst,0.76
+fq3-2020,ADM,Archer Daniels Midland Company,jfffrmm,Analyst,0.76
+fq3-2020,ADM,Archer Daniels Midland Company,Analyst_3358941,Analyst,0.75
+fq3-2020,ADM,Archer Daniels Midland Company,Analyst_8532270,Analyst,0.75
+fq3-2020,ADM,Archer Daniels Midland Company,Eric,Analyst,0.75
+fq3-2020,ADM,Archer Daniels Midland Company,PCLA,Analyst,0.75
+fq3-2020,ADM,Archer Daniels Midland Company,Ram,Analyst,0.74
+fq3-2020,ADM,Archer Daniels Midland Company,AAFED,Analyst,0.74
+fq3-2020,ADM,Archer Daniels Midland Company,"Eric Larson, CFA",Analyst,0.65
+fq3-2020,ADM,Archer Daniels Midland Company,Analyst_904287,Analyst,0.38
+fq4-2020,ADM,Archer Daniels Midland Company,ADM Reported Earnings,Generic,1.21
+fq4-2020,ADM,Archer Daniels Midland Company,Estimize Consensus,Generic,1.17
+fq4-2020,ADM,Archer Daniels Midland Company,Estimize Mean,Generic,1.15
+fq4-2020,ADM,Archer Daniels Midland Company,Wall Street Consensus,Generic,1.1
+fq4-2020,ADM,Archer Daniels Midland Company,Rob Ford,Analyst,1.2
+fq4-2020,ADM,Archer Daniels Midland Company,jfffrmm,Analyst,1.23
+fq4-2020,ADM,Archer Daniels Midland Company,Medic2525,Analyst,1.24
+fq4-2020,ADM,Archer Daniels Midland Company,Buck_718700,Analyst,1.17
+fq4-2020,ADM,Archer Daniels Midland Company,Zilvinas Speteliunas,Analyst,1.16
+fq4-2020,ADM,Archer Daniels Midland Company,PM,Analyst,1.15
+fq4-2020,ADM,Archer Daniels Midland Company,Gdonaldson,Analyst,1.14
+fq4-2020,ADM,Archer Daniels Midland Company,Ram,Analyst,1.14
+fq4-2020,ADM,Archer Daniels Midland Company,Bill,Analyst,1.13
+fq4-2020,ADM,Archer Daniels Midland Company,"Eric Larson, CFA",Analyst,1.12
+fq4-2020,ADM,Archer Daniels Midland Company,dalton,Analyst,1.32
+fq4-2020,ADM,Archer Daniels Midland Company,Analyst_8532270,Analyst,1.09
+fq4-2020,ADM,Archer Daniels Midland Company,Neil_Martin,Analyst,1.08
+fq4-2020,ADM,Archer Daniels Midland Company,Eric,Analyst,1.05
+fq4-2020,ADM,Archer Daniels Midland Company,AAFED,Analyst,1.01
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",ADMS Reported Earnings,Generic,-0.59
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.77
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.77
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.77
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Analyst_9038106,Analyst,-0.73
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Frederick Tremblay,Analyst,-0.76
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Bill,Analyst,-0.78
+fq1-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Serge Belanger,Analyst,-0.82
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",ADMS Reported Earnings,Generic,-0.37
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.58
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.62
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.61
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Bill,Analyst,-0.58
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Sentinel,Analyst,-0.61
+fq2-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Serge Belanger,Analyst,-0.66
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",ADMS Reported Earnings,Generic,-0.42
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.44
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.47
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.48
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Bill,Analyst,-0.43
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Ben Jen,Analyst,-0.43
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",M2MIGLIO,Analyst,-0.47
+fq3-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Serge Belanger,Analyst,-0.53
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",ADMS Reported Earnings,Generic,-0.64
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Consensus,Generic,-0.48
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Estimize Mean,Generic,-0.48
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Wall Street Consensus,Generic,-0.52
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Analyst_1222808,Analyst,-0.51
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Bill,Analyst,-0.47
+fq4-2020,ADMS,"Adamas Pharmaceuticals, Inc.",Serge Belanger,Analyst,-0.46
+fq1-2020,ADP,"Automatic Data Processing, Inc.",ADP Reported Earnings,Generic,1.34
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Estimize Consensus,Generic,1.36
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Estimize Mean,Generic,1.36
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Wall Street Consensus,Generic,1.33
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Grexoplasm,Analyst,1.34
+fq1-2020,ADP,"Automatic Data Processing, Inc.",rsreina,Analyst,1.34
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Cwill,Analyst,1.35
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Sentinel,Analyst,1.33
+fq1-2020,ADP,"Automatic Data Processing, Inc.",kartikncr,Analyst,1.33
+fq1-2020,ADP,"Automatic Data Processing, Inc.",racerguy22,Analyst,1.35
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Analyst_9958202,Analyst,1.35
+fq1-2020,ADP,"Automatic Data Processing, Inc.",JBBOEVE,Analyst,1.33
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Frederick Tremblay,Analyst,1.36
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Shawn P. Cooney,Analyst,1.36
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Analyst_9676000,Analyst,1.36
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Bill,Analyst,1.37
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Zilvinas Speteliunas,Analyst,1.37
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Samad Samana,Analyst,1.38
+fq1-2020,ADP,"Automatic Data Processing, Inc.",Medic2525,Analyst,1.41
+fq2-2020,ADP,"Automatic Data Processing, Inc.",ADP Reported Earnings,Generic,1.52
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Estimize Consensus,Generic,1.47
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Estimize Mean,Generic,1.46
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Wall Street Consensus,Generic,1.46
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Proximilar AI,Analyst,1.51
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Zilvinas Speteliunas,Analyst,1.51
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Shawn P. Cooney,Analyst,1.48
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Sentinel,Analyst,1.47
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Cwill,Analyst,1.47
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Frederick Tremblay,Analyst,1.47
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Medic2525,Analyst,1.47
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Bill,Analyst,1.46
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Analyst_9676000,Analyst,1.46
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Bob S.,Analyst,1.45
+fq2-2020,ADP,"Automatic Data Processing, Inc.",JBBOEVE,Analyst,1.45
+fq2-2020,ADP,"Automatic Data Processing, Inc.",rsreina,Analyst,1.45
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Ram,Analyst,1.45
+fq2-2020,ADP,"Automatic Data Processing, Inc.",kartikncr,Analyst,1.44
+fq2-2020,ADP,"Automatic Data Processing, Inc.",Samad Samana,Analyst,1.42
+fq2-2020,ADP,"Automatic Data Processing, Inc.",blk_swan_trdng,Analyst,1.42
+fq3-2020,ADP,"Automatic Data Processing, Inc.",ADP Reported Earnings,Generic,1.92
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Estimize Consensus,Generic,1.93
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Estimize Mean,Generic,1.93
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Wall Street Consensus,Generic,1.91
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Bill,Analyst,1.92
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Samad Samana,Analyst,1.91
+fq3-2020,ADP,"Automatic Data Processing, Inc.",serpyou,Analyst,1.93
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Analyst_783524,Analyst,1.93
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Zilvinas Speteliunas,Analyst,1.93
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Analyst_9676000,Analyst,1.91
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Cwill,Analyst,1.94
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Frederick Tremblay,Analyst,1.95
+fq3-2020,ADP,"Automatic Data Processing, Inc.",kartikncr,Analyst,1.96
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Thund3r,Analyst,1.96
+fq3-2020,ADP,"Automatic Data Processing, Inc.",Analyst_2777191,Analyst,1.88
+fq3-2020,ADP,"Automatic Data Processing, Inc.",David Shoko,Analyst,1.98
+fq4-2020,ADP,"Automatic Data Processing, Inc.",ADP Reported Earnings,Generic,1.14
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Estimize Consensus,Generic,1
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Estimize Mean,Generic,1.05
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Wall Street Consensus,Generic,0.96
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Grexoplasm,Analyst,1.08
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Cwill,Analyst,1.03
+fq4-2020,ADP,"Automatic Data Processing, Inc.",arjunav,Analyst,1.03
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Thund3r,Analyst,1.26
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Analyst_9676000,Analyst,1.01
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Bill,Analyst,1.01
+fq4-2020,ADP,"Automatic Data Processing, Inc.",serpyou,Analyst,1
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Zilvinas Speteliunas,Analyst,1
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Analyst_3670895,Analyst,0.98
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Medic2525,Analyst,0.98
+fq4-2020,ADP,"Automatic Data Processing, Inc.",kartikncr,Analyst,0.97
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Sentinel,Analyst,0.97
+fq4-2020,ADP,"Automatic Data Processing, Inc.",tigerzhang2092,Analyst,0.96
+fq4-2020,ADP,"Automatic Data Processing, Inc.",Samad Samana,Analyst,1.41
+fq1-2020,ADS,Alliance Data Systems Corporation,ADS Reported Earnings,Generic,0.75
+fq1-2020,ADS,Alliance Data Systems Corporation,Estimize Consensus,Generic,2.78
+fq1-2020,ADS,Alliance Data Systems Corporation,Estimize Mean,Generic,3.84
+fq1-2020,ADS,Alliance Data Systems Corporation,Wall Street Consensus,Generic,2.72
+fq1-2020,ADS,Alliance Data Systems Corporation,TVOAT_,Analyst,0
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_4615307,Analyst,1.58
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_2777191,Analyst,2.6
+fq1-2020,ADS,Alliance Data Systems Corporation,PCLA,Analyst,2.69
+fq1-2020,ADS,Alliance Data Systems Corporation,Bill,Analyst,2.75
+fq1-2020,ADS,Alliance Data Systems Corporation,Ben Jen,Analyst,2.75
+fq1-2020,ADS,Alliance Data Systems Corporation,Zilvinas Speteliunas,Analyst,2.75
+fq1-2020,ADS,Alliance Data Systems Corporation,PM,Analyst,2.78
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_8075381,Analyst,3.1
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_7227115,Analyst,3.11
+fq1-2020,ADS,Alliance Data Systems Corporation,New_Moon,Analyst,3.41
+fq1-2020,ADS,Alliance Data Systems Corporation,Buck_635051,Analyst,4
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_8583071,Analyst,4.05
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_5795851,Analyst,4.31
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_2278908,Analyst,4.5
+fq1-2020,ADS,Alliance Data Systems Corporation,Frederick Tremblay,Analyst,4.55
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_2493281,Analyst,4.69
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_8367894,Analyst,4.69
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_9689671,Analyst,4.7
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_1732232,Analyst,4.75
+fq1-2020,ADS,Alliance Data Systems Corporation,Buck_554386,Analyst,4.83
+fq1-2020,ADS,Alliance Data Systems Corporation,Lath,Analyst,4.87
+fq1-2020,ADS,Alliance Data Systems Corporation,AAFED,Analyst,4.95
+fq1-2020,ADS,Alliance Data Systems Corporation,Analyst_8626722,Analyst,5.14
+fq1-2020,ADS,Alliance Data Systems Corporation,Andrew Jeffrey,Analyst,5.26
+fq1-2020,ADS,Alliance Data Systems Corporation,"Dominick Gabriele, CFA",Analyst,7.96
+fq2-2020,ADS,Alliance Data Systems Corporation,ADS Reported Earnings,Generic,1.86
+fq2-2020,ADS,Alliance Data Systems Corporation,Estimize Consensus,Generic,1.08
+fq2-2020,ADS,Alliance Data Systems Corporation,Estimize Mean,Generic,1.73
+fq2-2020,ADS,Alliance Data Systems Corporation,Wall Street Consensus,Generic,1.08
+fq2-2020,ADS,Alliance Data Systems Corporation,Sentinel,Analyst,1.78
+fq2-2020,ADS,Alliance Data Systems Corporation,AAFED,Analyst,1.54
+fq2-2020,ADS,Alliance Data Systems Corporation,Ron,Analyst,1.35
+fq2-2020,ADS,Alliance Data Systems Corporation,larrylai,Analyst,1.32
+fq2-2020,ADS,Alliance Data Systems Corporation,PCLA,Analyst,1.31
+fq2-2020,ADS,Alliance Data Systems Corporation,Analyst_2777191,Analyst,1.3
+fq2-2020,ADS,Alliance Data Systems Corporation,Ram,Analyst,1.3
+fq2-2020,ADS,Alliance Data Systems Corporation,Rob Ford,Analyst,1.21
+fq2-2020,ADS,Alliance Data Systems Corporation,Bill,Analyst,1.2
+fq2-2020,ADS,Alliance Data Systems Corporation,PM,Analyst,1.19
+fq2-2020,ADS,Alliance Data Systems Corporation,Zilvinas Speteliunas,Analyst,1.18
+fq2-2020,ADS,Alliance Data Systems Corporation,SelectiveTrade,Analyst,1.17
+fq2-2020,ADS,Alliance Data Systems Corporation,Analyst_8075381,Analyst,1.16
+fq2-2020,ADS,Alliance Data Systems Corporation,dalton,Analyst,1.14
+fq2-2020,ADS,Alliance Data Systems Corporation,Analyst_368401,Analyst,1.1
+fq2-2020,ADS,Alliance Data Systems Corporation,tigerzhang2092,Analyst,1.08
+fq2-2020,ADS,Alliance Data Systems Corporation,Ben Jen,Analyst,1.01
+fq2-2020,ADS,Alliance Data Systems Corporation,Eric,Analyst,1
+fq2-2020,ADS,Alliance Data Systems Corporation,Scott Hendricks,Analyst,0.79
+fq2-2020,ADS,Alliance Data Systems Corporation,"Dominick Gabriele, CFA",Analyst,0.67
+fq2-2020,ADS,Alliance Data Systems Corporation,Analyst_8583071,Analyst,3.43
+fq2-2020,ADS,Alliance Data Systems Corporation,Buck_635051,Analyst,3.51
+fq2-2020,ADS,Alliance Data Systems Corporation,TVOAT_,Analyst,0.1
+fq2-2020,ADS,Alliance Data Systems Corporation,Medic2525,Analyst,-0.18
+fq2-2020,ADS,Alliance Data Systems Corporation,Andrew Jeffrey,Analyst,-0.51
+fq2-2020,ADS,Alliance Data Systems Corporation,Analyst_9689671,Analyst,4.71
+fq2-2020,ADS,Alliance Data Systems Corporation,Buck_554386,Analyst,4.91
+fq2-2020,ADS,Alliance Data Systems Corporation,Lath,Analyst,5.01
+fq2-2020,ADS,Alliance Data Systems Corporation,Analyst_8626722,Analyst,5.25
+fq3-2020,ADS,Alliance Data Systems Corporation,ADS Reported Earnings,Generic,3.45
+fq3-2020,ADS,Alliance Data Systems Corporation,Estimize Consensus,Generic,2.33
+fq3-2020,ADS,Alliance Data Systems Corporation,Estimize Mean,Generic,2.65
+fq3-2020,ADS,Alliance Data Systems Corporation,Wall Street Consensus,Generic,2.25
+fq3-2020,ADS,Alliance Data Systems Corporation,Analyst_8583071,Analyst,3.74
+fq3-2020,ADS,Alliance Data Systems Corporation,"Dominick Gabriele, CFA",Analyst,2.75
+fq3-2020,ADS,Alliance Data Systems Corporation,Eric,Analyst,2.6
+fq3-2020,ADS,Alliance Data Systems Corporation,omni,Analyst,2.54
+fq3-2020,ADS,Alliance Data Systems Corporation,Ben Jen,Analyst,2.5
+fq3-2020,ADS,Alliance Data Systems Corporation,Analyst_1729238,Analyst,2.48
+fq3-2020,ADS,Alliance Data Systems Corporation,Michael Young,Analyst,2.36
+fq3-2020,ADS,Alliance Data Systems Corporation,Rob Ford,Analyst,2.35
+fq3-2020,ADS,Alliance Data Systems Corporation,Zilvinas Speteliunas,Analyst,2.34
+fq3-2020,ADS,Alliance Data Systems Corporation,PM,Analyst,2.34
+fq3-2020,ADS,Alliance Data Systems Corporation,Bill,Analyst,2.33
+fq3-2020,ADS,Alliance Data Systems Corporation,AAFED,Analyst,2.33
+fq3-2020,ADS,Alliance Data Systems Corporation,Ram,Analyst,2.29
+fq3-2020,ADS,Alliance Data Systems Corporation,PCLA,Analyst,2.27
+fq3-2020,ADS,Alliance Data Systems Corporation,dalton,Analyst,2.27
+fq3-2020,ADS,Alliance Data Systems Corporation,jfffrmm,Analyst,2.21
+fq3-2020,ADS,Alliance Data Systems Corporation,Analyst_2088276,Analyst,2.11
+fq3-2020,ADS,Alliance Data Systems Corporation,larrylai,Analyst,2.07
+fq3-2020,ADS,Alliance Data Systems Corporation,TVOAT_,Analyst,2
+fq3-2020,ADS,Alliance Data Systems Corporation,Scott Hendricks,Analyst,1.97
+fq3-2020,ADS,Alliance Data Systems Corporation,Analyst_5795851,Analyst,1.9
+fq3-2020,ADS,Alliance Data Systems Corporation,Analyst_9689671,Analyst,5.01
+fq3-2020,ADS,Alliance Data Systems Corporation,Andrew Jeffrey,Analyst,1.86
+fq3-2020,ADS,Alliance Data Systems Corporation,Mindaugas,Analyst,1.65
+fq3-2020,ADS,Alliance Data Systems Corporation,Buck_635051,Analyst,5.32
+fq3-2020,ADS,Alliance Data Systems Corporation,Buck_554386,Analyst,5.35
+fq4-2020,ADS,Alliance Data Systems Corporation,ADS Reported Earnings,Generic,3.31
+fq4-2020,ADS,Alliance Data Systems Corporation,Estimize Consensus,Generic,2.77
+fq4-2020,ADS,Alliance Data Systems Corporation,Estimize Mean,Generic,2.98
+fq4-2020,ADS,Alliance Data Systems Corporation,Wall Street Consensus,Generic,2.41
+fq4-2020,ADS,Alliance Data Systems Corporation,Analyst_8583071,Analyst,3.54
+fq4-2020,ADS,Alliance Data Systems Corporation,TVOAT_,Analyst,3
+fq4-2020,ADS,Alliance Data Systems Corporation,Ben Jen,Analyst,3
+fq4-2020,ADS,Alliance Data Systems Corporation,Scott Hendricks,Analyst,2.98
+fq4-2020,ADS,Alliance Data Systems Corporation,Bill,Analyst,2.97
+fq4-2020,ADS,Alliance Data Systems Corporation,Rob Ford,Analyst,2.95
+fq4-2020,ADS,Alliance Data Systems Corporation,PM,Analyst,2.78
+fq4-2020,ADS,Alliance Data Systems Corporation,Medic2525,Analyst,2.77
+fq4-2020,ADS,Alliance Data Systems Corporation,Zilvinas Speteliunas,Analyst,2.77
+fq4-2020,ADS,Alliance Data Systems Corporation,AAFED,Analyst,2.7
+fq4-2020,ADS,Alliance Data Systems Corporation,dalton,Analyst,2.69
+fq4-2020,ADS,Alliance Data Systems Corporation,Eric,Analyst,2.65
+fq4-2020,ADS,Alliance Data Systems Corporation,Ram,Analyst,2.65
+fq4-2020,ADS,Alliance Data Systems Corporation,jfffrmm,Analyst,2.61
+fq4-2020,ADS,Alliance Data Systems Corporation,kerry burrell,Analyst,2.6
+fq4-2020,ADS,Alliance Data Systems Corporation,Michael Young,Analyst,2.54
+fq4-2020,ADS,Alliance Data Systems Corporation,Analyst_5477899,Analyst,2.51
+fq4-2020,ADS,Alliance Data Systems Corporation,"Dominick Gabriele, CFA",Analyst,1.47
+fq4-2020,ADS,Alliance Data Systems Corporation,Andrew Jeffrey,Analyst,1.44
+fq4-2020,ADS,Alliance Data Systems Corporation,Buck_554386,Analyst,5.63
+fq4-2020,ADS,Alliance Data Systems Corporation,Buck_635051,Analyst,6.3
+fq1-2020,ADSK,"Autodesk, Inc.",ADSK Reported Earnings,Generic,0.45
+fq1-2020,ADSK,"Autodesk, Inc.",ADSK Guidance,Generic,0.46
+fq1-2020,ADSK,"Autodesk, Inc.",Estimize Consensus,Generic,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",Estimize Mean,Generic,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Wall Street Consensus,Generic,0.47
+fq1-2020,ADSK,"Autodesk, Inc.","Koji Ikeda, CFA",Analyst,0.46
+fq1-2020,ADSK,"Autodesk, Inc.",Jay Vleeschhouwer,Analyst,0.46
+fq1-2020,ADSK,"Autodesk, Inc.",Analyst_7497946,Analyst,0.47
+fq1-2020,ADSK,"Autodesk, Inc.",Bob S.,Analyst,0.47
+fq1-2020,ADSK,"Autodesk, Inc.",kyleevanmurphy,Analyst,0.47
+fq1-2020,ADSK,"Autodesk, Inc.",Analyst_3715541,Analyst,0.47
+fq1-2020,ADSK,"Autodesk, Inc.","Richard Davis, CFA",Analyst,0.48
+fq1-2020,ADSK,"Autodesk, Inc.",Analyst_4782130,Analyst,0.48
+fq1-2020,ADSK,"Autodesk, Inc.",Dr_Meso,Analyst,0.48
+fq1-2020,ADSK,"Autodesk, Inc.",Frederick Tremblay,Analyst,0.48
+fq1-2020,ADSK,"Autodesk, Inc.",Medic2525,Analyst,0.48
+fq1-2020,ADSK,"Autodesk, Inc.",serpyou,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",contract21,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",Analyst_1447098,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",serp,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",Wx_Torn,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",Giuseppe Calì,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",Zilvinas Speteliunas,Analyst,0.49
+fq1-2020,ADSK,"Autodesk, Inc.",Sentinel,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Analyst_2056102,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Dolwhale,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Mehrwert,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Bill,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Tom Telford,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Analyst_508786,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Kartik,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",defjam,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",PM,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Sean Udall,Analyst,0.5
+fq1-2020,ADSK,"Autodesk, Inc.",Jacob Hess,Analyst,0.5
+fq2-2020,ADSK,"Autodesk, Inc.",ADSK Reported Earnings,Generic,0.65
+fq2-2020,ADSK,"Autodesk, Inc.",ADSK Guidance,Generic,0.61
+fq2-2020,ADSK,"Autodesk, Inc.",Estimize Consensus,Generic,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Estimize Mean,Generic,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",Wall Street Consensus,Generic,0.61
+fq2-2020,ADSK,"Autodesk, Inc.",Dolwhale,Analyst,0.65
+fq2-2020,ADSK,"Autodesk, Inc.",kyleevanmurphy,Analyst,0.65
+fq2-2020,ADSK,"Autodesk, Inc.",Analyst_4859493,Analyst,0.65
+fq2-2020,ADSK,"Autodesk, Inc.",progg24,Analyst,0.66
+fq2-2020,ADSK,"Autodesk, Inc.",Tom Telford,Analyst,0.64
+fq2-2020,ADSK,"Autodesk, Inc.",Wx_Torn,Analyst,0.64
+fq2-2020,ADSK,"Autodesk, Inc.",Bill,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",serpyou,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",Zilvinas Speteliunas,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",Analyst_8863501,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",tiagojgoncalves,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",Shawn P. Cooney,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",serp,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",Analyst_4586900,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",Analyst_8740811,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.",loopie,Analyst,0.63
+fq2-2020,ADSK,"Autodesk, Inc.","Richard Davis, CFA",Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Jay Vleeschhouwer,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Analyst_7681100,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Sentinel,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",HelgeJohansson,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",SmoShow,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Analyst_6637952,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Ron,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",JBBOEVE,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Frederick Tremblay,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",jfffrmm,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",mfme,Analyst,0.62
+fq2-2020,ADSK,"Autodesk, Inc.",Bob S.,Analyst,0.61
+fq2-2020,ADSK,"Autodesk, Inc.",PM,Analyst,0.61
+fq3-2020,ADSK,"Autodesk, Inc.",ADSK Reported Earnings,Generic,0.78
+fq3-2020,ADSK,"Autodesk, Inc.",ADSK Guidance,Generic,0.72
+fq3-2020,ADSK,"Autodesk, Inc.",Estimize Consensus,Generic,0.74
+fq3-2020,ADSK,"Autodesk, Inc.",Estimize Mean,Generic,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",Wall Street Consensus,Generic,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Bill,Analyst,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",Zilvinas Speteliunas,Analyst,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",Tom Telford,Analyst,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",PM,Analyst,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",Shawn P. Cooney,Analyst,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",fightraccoon,Analyst,0.75
+fq3-2020,ADSK,"Autodesk, Inc.",Sentinel,Analyst,0.74
+fq3-2020,ADSK,"Autodesk, Inc.",Frederick Tremblay,Analyst,0.74
+fq3-2020,ADSK,"Autodesk, Inc.",progg24,Analyst,0.74
+fq3-2020,ADSK,"Autodesk, Inc.",Analyst_2144393,Analyst,0.74
+fq3-2020,ADSK,"Autodesk, Inc.",gcreddy,Analyst,0.74
+fq3-2020,ADSK,"Autodesk, Inc.",Richard Davis Jr.,Analyst,0.83
+fq3-2020,ADSK,"Autodesk, Inc.",1daymillionaire,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Analyst_1991888,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Analyst_7217844,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Proximilar AI,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Analyst_1844295,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Siget,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Bob S.,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",Ron,Analyst,0.73
+fq3-2020,ADSK,"Autodesk, Inc.",GregTripple,Analyst,0.84
+fq3-2020,ADSK,"Autodesk, Inc.",kyleevanmurphy,Analyst,0.84
+fq3-2020,ADSK,"Autodesk, Inc.","Richard Davis, CFA",Analyst,0.72
+fq3-2020,ADSK,"Autodesk, Inc.","Koji Ikeda, CFA",Analyst,0.72
+fq3-2020,ADSK,"Autodesk, Inc.",Jay Vleeschhouwer,Analyst,0.71
+fq3-2020,ADSK,"Autodesk, Inc.",Analyst_9851480,Analyst,0.69
+fq3-2020,ADSK,"Autodesk, Inc.",Analyst_2357155,Analyst,0.34
+fq4-2020,ADSK,"Autodesk, Inc.",ADSK Reported Earnings,Generic,0.92
+fq4-2020,ADSK,"Autodesk, Inc.",ADSK Guidance,Generic,0.89
+fq4-2020,ADSK,"Autodesk, Inc.",Estimize Consensus,Generic,0.93
+fq4-2020,ADSK,"Autodesk, Inc.",Estimize Mean,Generic,0.93
+fq4-2020,ADSK,"Autodesk, Inc.",Wall Street Consensus,Generic,0.89
+fq4-2020,ADSK,"Autodesk, Inc.",Tom Telford,Analyst,0.92
+fq4-2020,ADSK,"Autodesk, Inc.",WonterC,Analyst,0.92
+fq4-2020,ADSK,"Autodesk, Inc.",Analyst_1844295,Analyst,0.93
+fq4-2020,ADSK,"Autodesk, Inc.",Shawn P. Cooney,Analyst,0.93
+fq4-2020,ADSK,"Autodesk, Inc.",guentherj,Analyst,0.91
+fq4-2020,ADSK,"Autodesk, Inc.",Analyst_1450657,Analyst,0.91
+fq4-2020,ADSK,"Autodesk, Inc.",Frederick Tremblay,Analyst,0.93
+fq4-2020,ADSK,"Autodesk, Inc.",serpyou,Analyst,0.91
+fq4-2020,ADSK,"Autodesk, Inc.",PM,Analyst,0.93
+fq4-2020,ADSK,"Autodesk, Inc.",progg24,Analyst,0.94
+fq4-2020,ADSK,"Autodesk, Inc.",Bill,Analyst,0.94
+fq4-2020,ADSK,"Autodesk, Inc.",Bill_Maurer,Analyst,0.94
+fq4-2020,ADSK,"Autodesk, Inc.",Jay Vleeschhouwer,Analyst,0.9
+fq4-2020,ADSK,"Autodesk, Inc.",mattstockpicker,Analyst,0.9
+fq4-2020,ADSK,"Autodesk, Inc.",Analyst_783524,Analyst,0.9
+fq4-2020,ADSK,"Autodesk, Inc.",serp,Analyst,0.95
+fq4-2020,ADSK,"Autodesk, Inc.",Zilvinas Speteliunas,Analyst,0.95
+fq4-2020,ADSK,"Autodesk, Inc.","Richard Davis, CFA",Analyst,0.89
+fq4-2020,ADSK,"Autodesk, Inc.","Koji Ikeda, CFA",Analyst,0.88
+fq4-2020,ADSK,"Autodesk, Inc.",Brian Schwartz,Analyst,0.88
+fq4-2020,ADSK,"Autodesk, Inc.",kyleevanmurphy,Analyst,1.05
+fq4-2020,ADSK,"Autodesk, Inc.",Richard Davis Jr.,Analyst,1.06
+fq1-2020,ADSW,"Advanced Disposal Services, Inc.",ADSW Reported Earnings,Generic,0.04
+fq1-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Mean,Generic,-
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",ADSW Reported Earnings,Generic,0.19
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Consensus,Generic,0.01
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Mean,Generic,0
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",Wall Street Consensus,Generic,0
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",Medic2525,Analyst,0.02
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",Bill,Analyst,0.01
+fq2-2020,ADSW,"Advanced Disposal Services, Inc.",Noah Kaye,Analyst,-0.04
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",ADSW Reported Earnings,Generic,0.19
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Consensus,Generic,0.01
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Mean,Generic,0
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",Wall Street Consensus,Generic,0
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",Medic2525,Analyst,0.02
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",Bill,Analyst,0.01
+fq3-2020,ADSW,"Advanced Disposal Services, Inc.",Noah Kaye,Analyst,-0.04
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",ADSW Reported Earnings,Generic,0.19
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Consensus,Generic,0.01
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",Estimize Mean,Generic,0
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",Wall Street Consensus,Generic,0
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",Medic2525,Analyst,0.02
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",Bill,Analyst,0.01
+fq4-2020,ADSW,"Advanced Disposal Services, Inc.",Noah Kaye,Analyst,-0.04
+fq1-2020,ADTN,ADTRAN Inc.,ADTN Reported Earnings,Generic,-0.05
+fq1-2020,ADTN,ADTRAN Inc.,Estimize Consensus,Generic,-0.08
+fq1-2020,ADTN,ADTRAN Inc.,Estimize Mean,Generic,-0.08
+fq1-2020,ADTN,ADTRAN Inc.,Wall Street Consensus,Generic,-0.1
+fq1-2020,ADTN,ADTRAN Inc.,Ron,Analyst,-0.06
+fq1-2020,ADTN,ADTRAN Inc.,Ben Jen,Analyst,-0.08
+fq1-2020,ADTN,ADTRAN Inc.,Zilvinas Speteliunas,Analyst,-0.08
+fq1-2020,ADTN,ADTRAN Inc.,George Notter,Analyst,-0.02
+fq1-2020,ADTN,ADTRAN Inc.,Frederick Tremblay,Analyst,-0.09
+fq1-2020,ADTN,ADTRAN Inc.,Bill,Analyst,-0.09
+fq1-2020,ADTN,ADTRAN Inc.,Richard Valera,Analyst,-0.1
+fq1-2020,ADTN,ADTRAN Inc.,Analyst_JPMac,Analyst,-0.11
+fq2-2020,ADTN,ADTRAN Inc.,ADTN Reported Earnings,Generic,0.04
+fq2-2020,ADTN,ADTRAN Inc.,Estimize Consensus,Generic,0.03
+fq2-2020,ADTN,ADTRAN Inc.,Estimize Mean,Generic,0.04
+fq2-2020,ADTN,ADTRAN Inc.,Wall Street Consensus,Generic,0.01
+fq2-2020,ADTN,ADTRAN Inc.,Sentinel,Analyst,0.04
+fq2-2020,ADTN,ADTRAN Inc.,julvoy,Analyst,0.03
+fq2-2020,ADTN,ADTRAN Inc.,Medic2525,Analyst,0.05
+fq2-2020,ADTN,ADTRAN Inc.,kobv,Analyst,0.02
+fq2-2020,ADTN,ADTRAN Inc.,Madmoni,Analyst,0.02
+fq2-2020,ADTN,ADTRAN Inc.,Bill,Analyst,0.02
+fq2-2020,ADTN,ADTRAN Inc.,Zilvinas Speteliunas,Analyst,0.02
+fq2-2020,ADTN,ADTRAN Inc.,SelectiveTrade,Analyst,0.01
+fq2-2020,ADTN,ADTRAN Inc.,Analyst_JPMac,Analyst,0.07
+fq2-2020,ADTN,ADTRAN Inc.,Richard Valera,Analyst,0
+fq2-2020,ADTN,ADTRAN Inc.,George Notter,Analyst,0.12
+fq3-2020,ADTN,ADTRAN Inc.,ADTN Reported Earnings,Generic,0.16
+fq3-2020,ADTN,ADTRAN Inc.,Estimize Consensus,Generic,0.1
+fq3-2020,ADTN,ADTRAN Inc.,Estimize Mean,Generic,0.11
+fq3-2020,ADTN,ADTRAN Inc.,Wall Street Consensus,Generic,0.08
+fq3-2020,ADTN,ADTRAN Inc.,George Notter,Analyst,0.2
+fq3-2020,ADTN,ADTRAN Inc.,Analyst_JPMac,Analyst,0.11
+fq3-2020,ADTN,ADTRAN Inc.,Bill,Analyst,0.1
+fq3-2020,ADTN,ADTRAN Inc.,Zilvinas Speteliunas,Analyst,0.1
+fq3-2020,ADTN,ADTRAN Inc.,Ben Jen,Analyst,0.1
+fq3-2020,ADTN,ADTRAN Inc.,Madmoni,Analyst,0.09
+fq3-2020,ADTN,ADTRAN Inc.,Richard Valera,Analyst,0.07
+fq4-2020,ADTN,ADTRAN Inc.,ADTN Reported Earnings,Generic,0.11
+fq4-2020,ADTN,ADTRAN Inc.,Estimize Consensus,Generic,0.09
+fq4-2020,ADTN,ADTRAN Inc.,Estimize Mean,Generic,0.09
+fq4-2020,ADTN,ADTRAN Inc.,Wall Street Consensus,Generic,0.07
+fq4-2020,ADTN,ADTRAN Inc.,Jen_F,Analyst,0.11
+fq4-2020,ADTN,ADTRAN Inc.,DF_5082802,Analyst,0.12
+fq4-2020,ADTN,ADTRAN Inc.,Richard Valera,Analyst,0.09
+fq4-2020,ADTN,ADTRAN Inc.,Ben Jen,Analyst,0.09
+fq4-2020,ADTN,ADTRAN Inc.,Analyst_JPMac,Analyst,0.09
+fq4-2020,ADTN,ADTRAN Inc.,Zilvinas Speteliunas,Analyst,0.09
+fq4-2020,ADTN,ADTRAN Inc.,Analyst_8237749,Analyst,0.08
+fq4-2020,ADTN,ADTRAN Inc.,Bill,Analyst,0.08
+fq1-2020,ADUS,Addus HomeCare Corporation,ADUS Reported Earnings,Generic,0.77
+fq1-2020,ADUS,Addus HomeCare Corporation,Estimize Consensus,Generic,0.62
+fq1-2020,ADUS,Addus HomeCare Corporation,Estimize Mean,Generic,0.62
+fq1-2020,ADUS,Addus HomeCare Corporation,Wall Street Consensus,Generic,0.6
+fq1-2020,ADUS,Addus HomeCare Corporation,Michael Wiederhorn,Analyst,0.63
+fq1-2020,ADUS,Addus HomeCare Corporation,Brian Tanquilut,Analyst,0.62
+fq1-2020,ADUS,Addus HomeCare Corporation,Frederick Tremblay,Analyst,0.62
+fq2-2020,ADUS,Addus HomeCare Corporation,ADUS Reported Earnings,Generic,0.73
+fq2-2020,ADUS,Addus HomeCare Corporation,Estimize Consensus,Generic,0.51
+fq2-2020,ADUS,Addus HomeCare Corporation,Estimize Mean,Generic,0.53
+fq2-2020,ADUS,Addus HomeCare Corporation,Wall Street Consensus,Generic,0.48
+fq2-2020,ADUS,Addus HomeCare Corporation,Brian Tanquilut,Analyst,0.72
+fq2-2020,ADUS,Addus HomeCare Corporation,Bill,Analyst,0.51
+fq2-2020,ADUS,Addus HomeCare Corporation,Medic2525,Analyst,0.51
+fq2-2020,ADUS,Addus HomeCare Corporation,Michael Wiederhorn,Analyst,0.5
+fq2-2020,ADUS,Addus HomeCare Corporation,Sentinel,Analyst,0.47
+fq2-2020,ADUS,Addus HomeCare Corporation,Analyst_2672649,Analyst,0.46
+fq3-2020,ADUS,Addus HomeCare Corporation,ADUS Reported Earnings,Generic,0.76
+fq3-2020,ADUS,Addus HomeCare Corporation,Estimize Consensus,Generic,0.66
+fq3-2020,ADUS,Addus HomeCare Corporation,Estimize Mean,Generic,0.67
+fq3-2020,ADUS,Addus HomeCare Corporation,Wall Street Consensus,Generic,0.64
+fq3-2020,ADUS,Addus HomeCare Corporation,Brian Tanquilut,Analyst,0.75
+fq3-2020,ADUS,Addus HomeCare Corporation,Michael Wiederhorn,Analyst,0.7
+fq3-2020,ADUS,Addus HomeCare Corporation,Bill,Analyst,0.66
+fq3-2020,ADUS,Addus HomeCare Corporation,Ben Jen,Analyst,0.66
+fq3-2020,ADUS,Addus HomeCare Corporation,Madmoni,Analyst,0.65
+fq3-2020,ADUS,Addus HomeCare Corporation,mowerbob,Analyst,0.6
+fq4-2020,ADUS,Addus HomeCare Corporation,ADUS Reported Earnings,Generic,0.82
+fq4-2020,ADUS,Addus HomeCare Corporation,Estimize Consensus,Generic,0.78
+fq4-2020,ADUS,Addus HomeCare Corporation,Estimize Mean,Generic,0.75
+fq4-2020,ADUS,Addus HomeCare Corporation,Wall Street Consensus,Generic,0.74
+fq4-2020,ADUS,Addus HomeCare Corporation,Bill,Analyst,0.78
+fq4-2020,ADUS,Addus HomeCare Corporation,Brian Tanquilut,Analyst,0.76
+fq4-2020,ADUS,Addus HomeCare Corporation,Michael Wiederhorn,Analyst,0.74
+fq4-2020,ADUS,Addus HomeCare Corporation,mowerbob,Analyst,0.7
+fq1-2020,AEE,Ameren Corporation,AEE Reported Earnings,Generic,0.59
+fq1-2020,AEE,Ameren Corporation,Estimize Consensus,Generic,0.74
+fq1-2020,AEE,Ameren Corporation,Estimize Mean,Generic,0.77
+fq1-2020,AEE,Ameren Corporation,Wall Street Consensus,Generic,0.7
+fq1-2020,AEE,Ameren Corporation,Ben Jen,Analyst,0.73
+fq1-2020,AEE,Ameren Corporation,Bill,Analyst,0.74
+fq1-2020,AEE,Ameren Corporation,Frederick Tremblay,Analyst,0.78
+fq1-2020,AEE,Ameren Corporation,Ali Agha,Analyst,0.82
+fq2-2020,AEE,Ameren Corporation,AEE Reported Earnings,Generic,0.98
+fq2-2020,AEE,Ameren Corporation,Estimize Consensus,Generic,0.87
+fq2-2020,AEE,Ameren Corporation,Estimize Mean,Generic,0.84
+fq2-2020,AEE,Ameren Corporation,Wall Street Consensus,Generic,0.89
+fq2-2020,AEE,Ameren Corporation,David Shoko,Analyst,0.89
+fq2-2020,AEE,Ameren Corporation,Bill,Analyst,0.87
+fq2-2020,AEE,Ameren Corporation,Sentinel,Analyst,0.83
+fq2-2020,AEE,Ameren Corporation,Ali Agha,Analyst,0.75
+fq3-2020,AEE,Ameren Corporation,AEE Reported Earnings,Generic,1.47
+fq3-2020,AEE,Ameren Corporation,Estimize Mean,Generic,-
+fq3-2020,AEE,Ameren Corporation,Wall Street Consensus,Generic,1.47
+fq3-2020,AEE,Ameren Corporation,Bill,Analyst,1.49
+fq3-2020,AEE,Ameren Corporation,Ali Agha,Analyst,1.54
+fq4-2020,AEE,Ameren Corporation,AEE Reported Earnings,Generic,0.46
+fq4-2020,AEE,Ameren Corporation,Estimize Consensus,Generic,0.45
+fq4-2020,AEE,Ameren Corporation,Estimize Mean,Generic,0.4
+fq4-2020,AEE,Ameren Corporation,Wall Street Consensus,Generic,0.42
+fq4-2020,AEE,Ameren Corporation,Bill,Analyst,0.46
+fq4-2020,AEE,Ameren Corporation,Kyan,Analyst,0.45
+fq4-2020,AEE,Ameren Corporation,Ali Agha,Analyst,0.29
+fq1-2020,AEGN,Aegion Corporation,AEGN Reported Earnings,Generic,0.06
+fq1-2020,AEGN,Aegion Corporation,Estimize Consensus,Generic,0.03
+fq1-2020,AEGN,Aegion Corporation,Estimize Mean,Generic,0.03
+fq1-2020,AEGN,Aegion Corporation,Wall Street Consensus,Generic,0.03
+fq1-2020,AEGN,Aegion Corporation,Bill,Analyst,0.04
+fq1-2020,AEGN,Aegion Corporation,Frederick Tremblay,Analyst,0.04
+fq1-2020,AEGN,Aegion Corporation,Ben Jen,Analyst,0.02
+fq1-2020,AEGN,Aegion Corporation,Analyst_2777191,Analyst,0.02
+fq2-2020,AEGN,Aegion Corporation,AEGN Reported Earnings,Generic,0.25
+fq2-2020,AEGN,Aegion Corporation,AEGN Guidance,Generic,0.25
+fq2-2020,AEGN,Aegion Corporation,Estimize Consensus,Generic,0.2
+fq2-2020,AEGN,Aegion Corporation,Estimize Mean,Generic,0.2
+fq2-2020,AEGN,Aegion Corporation,Wall Street Consensus,Generic,0.21
+fq2-2020,AEGN,Aegion Corporation,Medic2525,Analyst,0.22
+fq2-2020,AEGN,Aegion Corporation,Bill,Analyst,0.2
+fq2-2020,AEGN,Aegion Corporation,Sentinel,Analyst,0.19
+fq2-2020,AEGN,Aegion Corporation,mcone16,Analyst,0.19
+fq3-2020,AEGN,Aegion Corporation,AEGN Reported Earnings,Generic,0.32
+fq3-2020,AEGN,Aegion Corporation,Estimize Mean,Generic,-
+fq3-2020,AEGN,Aegion Corporation,Wall Street Consensus,Generic,0.28
+fq3-2020,AEGN,Aegion Corporation,Ben Jen,Analyst,0.3
+fq3-2020,AEGN,Aegion Corporation,Bill,Analyst,0.3
+fq4-2020,AEGN,Aegion Corporation,AEGN Reported Earnings,Generic,0.31
+fq4-2020,AEGN,Aegion Corporation,Estimize Mean,Generic,-
+fq4-2020,AEGN,Aegion Corporation,Wall Street Consensus,Generic,0.28
+fq4-2020,AEGN,Aegion Corporation,Bill,Analyst,0.3
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Reported Earnings,Generic,0.91
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Guidance,Generic,0.7
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Consensus,Generic,0.7
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Mean,Generic,0.74
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Wall Street Consensus,Generic,0.65
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Dominantstock,Analyst,0.85
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Ron,Analyst,0.8
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Aram Balian,Analyst,0.78
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Bill,Analyst,0.71
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Frederick Tremblay,Analyst,0.7
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Ben Jen,Analyst,0.7
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",Zilvinas Speteliunas,Analyst,0.7
+fq1-2020,AEIS,"Advanced Energy Industries, Inc.",N. Quinn Bolton,Analyst,0.68
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Reported Earnings,Generic,1.18
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Guidance,Generic,0.8
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Consensus,Generic,0.87
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Mean,Generic,0.84
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Wall Street Consensus,Generic,0.81
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Medic2525,Analyst,0.91
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Dominantstock,Analyst,0.84
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Bill,Analyst,0.84
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Zilvinas Speteliunas,Analyst,0.84
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",Sentinel,Analyst,0.82
+fq2-2020,AEIS,"Advanced Energy Industries, Inc.",N. Quinn Bolton,Analyst,0.8
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Reported Earnings,Generic,1.66
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Guidance,Generic,1.15
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Consensus,Generic,1.2
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Mean,Generic,1.15
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Wall Street Consensus,Generic,1.16
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Ben Jen,Analyst,1.24
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Vladimir Solodukhin,Analyst,1.2
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Zilvinas Speteliunas,Analyst,1.19
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Bill,Analyst,1.18
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",N. Quinn Bolton,Analyst,1.15
+fq3-2020,AEIS,"Advanced Energy Industries, Inc.",Dominantstock,Analyst,0.95
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Reported Earnings,Generic,1.49
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",AEIS Guidance,Generic,1.3
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Consensus,Generic,1.43
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Estimize Mean,Generic,1.33
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Wall Street Consensus,Generic,1.35
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Bill,Analyst,1.45
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Zilvinas Speteliunas,Analyst,1.45
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Damian,Analyst,1.42
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Bob Katz,Analyst,1.38
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",N. Quinn Bolton,Analyst,1.3
+fq4-2020,AEIS,"Advanced Energy Industries, Inc.",Dominantstock,Analyst,0.98
+fq1-2020,AEL,American Equity Investment Life Holding Co.,AEL Reported Earnings,Generic,1.67
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Estimize Consensus,Generic,1.21
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Estimize Mean,Generic,1.22
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Wall Street Consensus,Generic,1.15
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Frederick Tremblay,Analyst,1.25
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Mark Hughes,Analyst,1.24
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Justice2313,Analyst,1.23
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Bill,Analyst,1.2
+fq1-2020,AEL,American Equity Investment Life Holding Co.,Ben Jen,Analyst,1.18
+fq2-2020,AEL,American Equity Investment Life Holding Co.,AEL Reported Earnings,Generic,1.01
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Estimize Consensus,Generic,1.28
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Estimize Mean,Generic,1.2
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Wall Street Consensus,Generic,1.16
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Sentinel,Analyst,1.12
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Mark Hughes,Analyst,1.14
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Analyst_1188239,Analyst,1.23
+fq2-2020,AEL,American Equity Investment Life Holding Co.,Bill,Analyst,1.29
+fq3-2020,AEL,American Equity Investment Life Holding Co.,AEL Reported Earnings,Generic,0.99
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Estimize Consensus,Generic,1.12
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Estimize Mean,Generic,1.11
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Wall Street Consensus,Generic,1.03
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Mark Hughes,Analyst,1.05
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Ben Jen,Analyst,1.1
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Bill,Analyst,1.13
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Justice2313,Analyst,1.13
+fq3-2020,AEL,American Equity Investment Life Holding Co.,Mark Hughes,Analyst,1.14
+fq4-2020,AEL,American Equity Investment Life Holding Co.,AEL Reported Earnings,Generic,0.77
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Estimize Consensus,Generic,1
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Estimize Mean,Generic,1.06
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Wall Street Consensus,Generic,0.97
+fq4-2020,AEL,American Equity Investment Life Holding Co.,DF_5082802,Analyst,0.93
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Bill,Analyst,0.98
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Mark Hughes,Analyst,1.01
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Mark Hughes,Analyst,1.14
+fq4-2020,AEL,American Equity Investment Life Holding Co.,Justice2313,Analyst,1.23
+fq1-2020,AEM,Agnico Eagle Mines Ltd.,AEM Reported Earnings,Generic,0.23
+fq1-2020,AEM,Agnico Eagle Mines Ltd.,Estimize Mean,Generic,-
+fq2-2020,AEM,Agnico Eagle Mines Ltd.,AEM Reported Earnings,Generic,0.18
+fq2-2020,AEM,Agnico Eagle Mines Ltd.,Estimize Mean,Generic,-
+fq2-2020,AEM,Agnico Eagle Mines Ltd.,Wall Street Consensus,Generic,0.15
+fq2-2020,AEM,Agnico Eagle Mines Ltd.,Bill,Analyst,0.16
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,AEM Reported Earnings,Generic,0.78
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Estimize Consensus,Generic,0.73
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Estimize Mean,Generic,0.69
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Wall Street Consensus,Generic,0.67
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Analyst_3343247,Analyst,0.76
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Ben Jen,Analyst,0.74
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Bill,Analyst,0.68
+fq3-2020,AEM,Agnico Eagle Mines Ltd.,Analyst_5347534,Analyst,0.58
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,AEM Reported Earnings,Generic,0.67
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,Estimize Consensus,Generic,0.7
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,Estimize Mean,Generic,0.71
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,Wall Street Consensus,Generic,0.65
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,Bill,Analyst,0.68
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,defjam,Analyst,0.72
+fq4-2020,AEM,Agnico Eagle Mines Ltd.,Analyst_3343247,Analyst,0.74
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",AEO Reported Earnings,Generic,-0.84
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",AEO Guidance,Generic,0.21
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Consensus,Generic,-0.21
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Mean,Generic,-0.13
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Wall Street Consensus,Generic,-0.3
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_749089,Analyst,-0.28
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_783524,Analyst,-0.26
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",vovakm,Analyst,-0.23
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_908965,Analyst,-0.23
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Dana Telsey,Analyst,-0.23
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_1487203,Analyst,-0.22
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Sentinel,Analyst,-0.21
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_7330640,Analyst,-0.2
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Frederick Tremblay,Analyst,-0.2
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Bobalooga,Analyst,-0.15
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Bill,Analyst,-0.11
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Ben Jen,Analyst,-0.1
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Ron,Analyst,-0.09
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_8825513,Analyst,0.27
+fq1-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_868802,Analyst,0.29
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",AEO Reported Earnings,Generic,-0.03
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Consensus,Generic,-0.19
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Mean,Generic,-0.15
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Wall Street Consensus,Generic,-0.18
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_9536868,Analyst,0
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Sentinel,Analyst,-0.11
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_1487203,Analyst,-0.12
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",vovakm,Analyst,-0.13
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Madmoni,Analyst,-0.16
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_4875280,Analyst,-0.17
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_4444249,Analyst,-0.17
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",JohnLestimize,Analyst,-0.2
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Dana Telsey,Analyst,-0.27
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Ben Jen,Analyst,-0.3
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Bill,Analyst,-0.34
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_5536675,Analyst,-0.35
+fq2-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_8825513,Analyst,0.36
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",AEO Reported Earnings,Generic,0.35
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Consensus,Generic,0.36
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Mean,Generic,0.35
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Wall Street Consensus,Generic,0.34
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_1487203,Analyst,0.35
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Madmoni,Analyst,0.35
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Ben Jen,Analyst,0.34
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_6127515,Analyst,0.36
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Dana Telsey,Analyst,0.33
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",Bill,Analyst,0.33
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",jean_acciari,Analyst,0.38
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",jakeg100,Analyst,0.38
+fq3-2020,AEO,"American Eagle Outfitters, Inc.",vovakm,Analyst,0.3
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",AEO Reported Earnings,Generic,0.39
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Consensus,Generic,0.37
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Estimize Mean,Generic,0.35
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Wall Street Consensus,Generic,0.36
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Dana Telsey,Analyst,0.39
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Bill,Analyst,0.38
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_7285469,Analyst,0.38
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Medic2525,Analyst,0.36
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Ben Jen,Analyst,0.33
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",Analyst_1487203,Analyst,0.3
+fq4-2020,AEO,"American Eagle Outfitters, Inc.",vovakm,Analyst,0.3

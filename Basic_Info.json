@@ -1,0 +1,1802 @@
+{
+    "0": {
+        "quarter": "fq1-2020",
+        "Ticker": "A",
+        "Company Name": "Agilent Technologies Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Life Sciences Tools & Services",
+        "Number of Followers": "249",
+        "Number of Analysts": "429"
+    },
+    "1": {
+        "quarter": "fq2-2020",
+        "Ticker": "A",
+        "Company Name": "Agilent Technologies Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Life Sciences Tools & Services",
+        "Number of Followers": "249",
+        "Number of Analysts": "429"
+    },
+    "2": {
+        "quarter": "fq3-2020",
+        "Ticker": "A",
+        "Company Name": "Agilent Technologies Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Life Sciences Tools & Services",
+        "Number of Followers": "249",
+        "Number of Analysts": "429"
+    },
+    "3": {
+        "quarter": "fq4-2020",
+        "Ticker": "A",
+        "Company Name": "Agilent Technologies Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Life Sciences Tools & Services",
+        "Number of Followers": "249",
+        "Number of Analysts": "429"
+    },
+    "4": {
+        "quarter": "fq1-2020",
+        "Ticker": "AA",
+        "Company Name": "Alcoa Corp.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "167",
+        "Number of Analysts": "257"
+    },
+    "5": {
+        "quarter": "fq2-2020",
+        "Ticker": "AA",
+        "Company Name": "Alcoa Corp.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "167",
+        "Number of Analysts": "257"
+    },
+    "6": {
+        "quarter": "fq3-2020",
+        "Ticker": "AA",
+        "Company Name": "Alcoa Corp.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "167",
+        "Number of Analysts": "257"
+    },
+    "7": {
+        "quarter": "fq4-2020",
+        "Ticker": "AA",
+        "Company Name": "Alcoa Corp.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "167",
+        "Number of Analysts": "257"
+    },
+    "8": {
+        "quarter": "fq1-2020",
+        "Ticker": "AACH",
+        "Company Name": "AAC Holdings, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "33"
+    },
+    "9": {
+        "quarter": "fq2-2020",
+        "Ticker": "AACH",
+        "Company Name": "AAC Holdings, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "33"
+    },
+    "10": {
+        "quarter": "fq3-2020",
+        "Ticker": "AACH",
+        "Company Name": "AAC Holdings, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "33"
+    },
+    "11": {
+        "quarter": "fq4-2020",
+        "Ticker": "AACH",
+        "Company Name": "AAC Holdings, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "33"
+    },
+    "12": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAL",
+        "Company Name": "American Airlines Group Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Airlines",
+        "Number of Followers": "618",
+        "Number of Analysts": "589"
+    },
+    "13": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAL",
+        "Company Name": "American Airlines Group Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Airlines",
+        "Number of Followers": "618",
+        "Number of Analysts": "589"
+    },
+    "14": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAL",
+        "Company Name": "American Airlines Group Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Airlines",
+        "Number of Followers": "618",
+        "Number of Analysts": "589"
+    },
+    "15": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAL",
+        "Company Name": "American Airlines Group Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Airlines",
+        "Number of Followers": "618",
+        "Number of Analysts": "589"
+    },
+    "16": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAN",
+        "Company Name": "Aaron's, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "114"
+    },
+    "17": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAN",
+        "Company Name": "Aaron's, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "114"
+    },
+    "18": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAN",
+        "Company Name": "Aaron's, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "114"
+    },
+    "19": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAN",
+        "Company Name": "Aaron's, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "114"
+    },
+    "20": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAOI",
+        "Company Name": "Applied Optoelectronics, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "196",
+        "Number of Analysts": "333"
+    },
+    "21": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAOI",
+        "Company Name": "Applied Optoelectronics, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "196",
+        "Number of Analysts": "333"
+    },
+    "22": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAOI",
+        "Company Name": "Applied Optoelectronics, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "196",
+        "Number of Analysts": "333"
+    },
+    "23": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAOI",
+        "Company Name": "Applied Optoelectronics, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "196",
+        "Number of Analysts": "333"
+    },
+    "24": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAON",
+        "Company Name": "AAON Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Building Products",
+        "Number of Followers": "15",
+        "Number of Analysts": "23"
+    },
+    "25": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAON",
+        "Company Name": "AAON Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Building Products",
+        "Number of Followers": "15",
+        "Number of Analysts": "23"
+    },
+    "26": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAON",
+        "Company Name": "AAON Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Building Products",
+        "Number of Followers": "15",
+        "Number of Analysts": "23"
+    },
+    "27": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAON",
+        "Company Name": "AAON Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Building Products",
+        "Number of Followers": "15",
+        "Number of Analysts": "23"
+    },
+    "28": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAP",
+        "Company Name": "Advance Auto Parts Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "195",
+        "Number of Analysts": "276"
+    },
+    "29": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAP",
+        "Company Name": "Advance Auto Parts Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "195",
+        "Number of Analysts": "276"
+    },
+    "30": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAP",
+        "Company Name": "Advance Auto Parts Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "195",
+        "Number of Analysts": "276"
+    },
+    "31": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAP",
+        "Company Name": "Advance Auto Parts Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "195",
+        "Number of Analysts": "276"
+    },
+    "32": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAPL",
+        "Company Name": "Apple Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Computers & Peripherals",
+        "Number of Followers": "36,673",
+        "Number of Analysts": "11,648"
+    },
+    "33": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAPL",
+        "Company Name": "Apple Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Computers & Peripherals",
+        "Number of Followers": "36,673",
+        "Number of Analysts": "11,648"
+    },
+    "34": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAPL",
+        "Company Name": "Apple Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Computers & Peripherals",
+        "Number of Followers": "36,673",
+        "Number of Analysts": "11,648"
+    },
+    "35": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAPL",
+        "Company Name": "Apple Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Computers & Peripherals",
+        "Number of Followers": "36,673",
+        "Number of Analysts": "11,648"
+    },
+    "36": {
+        "quarter": "fq1-2020",
+        "Ticker": "AAWW",
+        "Company Name": "Atlas Air Worldwide Holdings Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Air Freight & Logistics",
+        "Number of Followers": "56",
+        "Number of Analysts": "126"
+    },
+    "37": {
+        "quarter": "fq2-2020",
+        "Ticker": "AAWW",
+        "Company Name": "Atlas Air Worldwide Holdings Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Air Freight & Logistics",
+        "Number of Followers": "56",
+        "Number of Analysts": "126"
+    },
+    "38": {
+        "quarter": "fq3-2020",
+        "Ticker": "AAWW",
+        "Company Name": "Atlas Air Worldwide Holdings Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Air Freight & Logistics",
+        "Number of Followers": "56",
+        "Number of Analysts": "126"
+    },
+    "39": {
+        "quarter": "fq4-2020",
+        "Ticker": "AAWW",
+        "Company Name": "Atlas Air Worldwide Holdings Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Air Freight & Logistics",
+        "Number of Followers": "56",
+        "Number of Analysts": "126"
+    },
+    "40": {
+        "quarter": "fq1-2020",
+        "Ticker": "AXON",
+        "Company Name": "Axon Enterprise, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Aerospace & Defense",
+        "Number of Followers": "168",
+        "Number of Analysts": "281"
+    },
+    "41": {
+        "quarter": "fq2-2020",
+        "Ticker": "AXON",
+        "Company Name": "Axon Enterprise, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Aerospace & Defense",
+        "Number of Followers": "168",
+        "Number of Analysts": "281"
+    },
+    "42": {
+        "quarter": "fq3-2020",
+        "Ticker": "AXON",
+        "Company Name": "Axon Enterprise, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Aerospace & Defense",
+        "Number of Followers": "168",
+        "Number of Analysts": "281"
+    },
+    "43": {
+        "quarter": "fq4-2020",
+        "Ticker": "AXON",
+        "Company Name": "Axon Enterprise, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Aerospace & Defense",
+        "Number of Followers": "168",
+        "Number of Analysts": "281"
+    },
+    "44": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABBV",
+        "Company Name": "AbbVie Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "650",
+        "Number of Analysts": "526"
+    },
+    "45": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABBV",
+        "Company Name": "AbbVie Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "650",
+        "Number of Analysts": "526"
+    },
+    "46": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABBV",
+        "Company Name": "AbbVie Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "650",
+        "Number of Analysts": "526"
+    },
+    "47": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABBV",
+        "Company Name": "AbbVie Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "650",
+        "Number of Analysts": "526"
+    },
+    "48": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABC",
+        "Company Name": "AmerisourceBergen Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "107",
+        "Number of Analysts": "123"
+    },
+    "49": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABC",
+        "Company Name": "AmerisourceBergen Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "107",
+        "Number of Analysts": "123"
+    },
+    "50": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABC",
+        "Company Name": "AmerisourceBergen Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "107",
+        "Number of Analysts": "123"
+    },
+    "51": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABC",
+        "Company Name": "AmerisourceBergen Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "107",
+        "Number of Analysts": "123"
+    },
+    "52": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABEO",
+        "Company Name": "Abeona Therapeutics Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "27",
+        "Number of Analysts": "57"
+    },
+    "53": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABEO",
+        "Company Name": "Abeona Therapeutics Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "27",
+        "Number of Analysts": "57"
+    },
+    "54": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABEO",
+        "Company Name": "Abeona Therapeutics Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "27",
+        "Number of Analysts": "57"
+    },
+    "55": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABEO",
+        "Company Name": "Abeona Therapeutics Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "27",
+        "Number of Analysts": "57"
+    },
+    "56": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABG",
+        "Company Name": "Asbury Automotive Group, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "84"
+    },
+    "57": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABG",
+        "Company Name": "Asbury Automotive Group, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "84"
+    },
+    "58": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABG",
+        "Company Name": "Asbury Automotive Group, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "84"
+    },
+    "59": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABG",
+        "Company Name": "Asbury Automotive Group, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "47",
+        "Number of Analysts": "84"
+    },
+    "60": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABM",
+        "Company Name": "ABM Industries Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "35",
+        "Number of Analysts": "109"
+    },
+    "61": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABM",
+        "Company Name": "ABM Industries Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "35",
+        "Number of Analysts": "109"
+    },
+    "62": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABM",
+        "Company Name": "ABM Industries Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "35",
+        "Number of Analysts": "109"
+    },
+    "63": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABM",
+        "Company Name": "ABM Industries Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "35",
+        "Number of Analysts": "109"
+    },
+    "64": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABMD",
+        "Company Name": "Abiomed Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "159",
+        "Number of Analysts": "189"
+    },
+    "65": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABMD",
+        "Company Name": "Abiomed Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "159",
+        "Number of Analysts": "189"
+    },
+    "66": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABMD",
+        "Company Name": "Abiomed Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "159",
+        "Number of Analysts": "189"
+    },
+    "67": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABMD",
+        "Company Name": "Abiomed Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "159",
+        "Number of Analysts": "189"
+    },
+    "68": {
+        "quarter": "fq1-2020",
+        "Ticker": "ABT",
+        "Company Name": "Abbott Laboratories",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "626",
+        "Number of Analysts": "397"
+    },
+    "69": {
+        "quarter": "fq2-2020",
+        "Ticker": "ABT",
+        "Company Name": "Abbott Laboratories",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "626",
+        "Number of Analysts": "397"
+    },
+    "70": {
+        "quarter": "fq3-2020",
+        "Ticker": "ABT",
+        "Company Name": "Abbott Laboratories",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "626",
+        "Number of Analysts": "397"
+    },
+    "71": {
+        "quarter": "fq4-2020",
+        "Ticker": "ABT",
+        "Company Name": "Abbott Laboratories",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Equipment & Supplies",
+        "Number of Followers": "626",
+        "Number of Analysts": "397"
+    },
+    "72": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACA",
+        "Company Name": "Arcosa, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "4",
+        "Number of Analysts": "3"
+    },
+    "73": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACA",
+        "Company Name": "Arcosa, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "4",
+        "Number of Analysts": "3"
+    },
+    "74": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACA",
+        "Company Name": "Arcosa, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "4",
+        "Number of Analysts": "3"
+    },
+    "75": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACA",
+        "Company Name": "Arcosa, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "4",
+        "Number of Analysts": "3"
+    },
+    "76": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACAD",
+        "Company Name": "ACADIA Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "121",
+        "Number of Analysts": "192"
+    },
+    "77": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACAD",
+        "Company Name": "ACADIA Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "121",
+        "Number of Analysts": "192"
+    },
+    "78": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACAD",
+        "Company Name": "ACADIA Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "121",
+        "Number of Analysts": "192"
+    },
+    "79": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACAD",
+        "Company Name": "ACADIA Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "121",
+        "Number of Analysts": "192"
+    },
+    "80": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACB",
+        "Company Name": "Aurora Cannabis, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "72",
+        "Number of Analysts": "58"
+    },
+    "81": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACB",
+        "Company Name": "Aurora Cannabis, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "72",
+        "Number of Analysts": "58"
+    },
+    "82": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACB",
+        "Company Name": "Aurora Cannabis, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "72",
+        "Number of Analysts": "58"
+    },
+    "83": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACB",
+        "Company Name": "Aurora Cannabis, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "72",
+        "Number of Analysts": "58"
+    },
+    "84": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACCO",
+        "Company Name": "ACCO Brands Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "28",
+        "Number of Analysts": "44"
+    },
+    "85": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACCO",
+        "Company Name": "ACCO Brands Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "28",
+        "Number of Analysts": "44"
+    },
+    "86": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACCO",
+        "Company Name": "ACCO Brands Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "28",
+        "Number of Analysts": "44"
+    },
+    "87": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACCO",
+        "Company Name": "ACCO Brands Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "28",
+        "Number of Analysts": "44"
+    },
+    "88": {
+        "quarter": "fq1-2020",
+        "Ticker": "LULU",
+        "Company Name": "Lululemon Athletica Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Textiles, Apparel & Luxury Goods",
+        "Number of Followers": "1,719",
+        "Number of Analysts": "2,213"
+    },
+    "89": {
+        "quarter": "fq2-2020",
+        "Ticker": "LULU",
+        "Company Name": "Lululemon Athletica Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Textiles, Apparel & Luxury Goods",
+        "Number of Followers": "1,719",
+        "Number of Analysts": "2,213"
+    },
+    "90": {
+        "quarter": "fq3-2020",
+        "Ticker": "LULU",
+        "Company Name": "Lululemon Athletica Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Textiles, Apparel & Luxury Goods",
+        "Number of Followers": "1,719",
+        "Number of Analysts": "2,213"
+    },
+    "91": {
+        "quarter": "fq4-2020",
+        "Ticker": "LULU",
+        "Company Name": "Lululemon Athletica Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Textiles, Apparel & Luxury Goods",
+        "Number of Followers": "1,719",
+        "Number of Analysts": "2,213"
+    },
+    "92": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACET",
+        "Company Name": "Aceto Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "24"
+    },
+    "93": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACET",
+        "Company Name": "Aceto Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "24"
+    },
+    "94": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACET",
+        "Company Name": "Aceto Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "24"
+    },
+    "95": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACET",
+        "Company Name": "Aceto Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "13",
+        "Number of Analysts": "24"
+    },
+    "96": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACHC",
+        "Company Name": "Acadia Healthcare Company, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "48",
+        "Number of Analysts": "75"
+    },
+    "97": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACHC",
+        "Company Name": "Acadia Healthcare Company, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "48",
+        "Number of Analysts": "75"
+    },
+    "98": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACHC",
+        "Company Name": "Acadia Healthcare Company, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "48",
+        "Number of Analysts": "75"
+    },
+    "99": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACHC",
+        "Company Name": "Acadia Healthcare Company, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "48",
+        "Number of Analysts": "75"
+    },
+    "100": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACIA",
+        "Company Name": "Acacia Communications, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "111",
+        "Number of Analysts": "140"
+    },
+    "101": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACIA",
+        "Company Name": "Acacia Communications, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "111",
+        "Number of Analysts": "140"
+    },
+    "102": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACIA",
+        "Company Name": "Acacia Communications, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "111",
+        "Number of Analysts": "140"
+    },
+    "103": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACIA",
+        "Company Name": "Acacia Communications, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "111",
+        "Number of Analysts": "140"
+    },
+    "104": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACIW",
+        "Company Name": "ACI Worldwide, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "32",
+        "Number of Analysts": "71"
+    },
+    "105": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACIW",
+        "Company Name": "ACI Worldwide, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "32",
+        "Number of Analysts": "71"
+    },
+    "106": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACIW",
+        "Company Name": "ACI Worldwide, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "32",
+        "Number of Analysts": "71"
+    },
+    "107": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACIW",
+        "Company Name": "ACI Worldwide, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "32",
+        "Number of Analysts": "71"
+    },
+    "108": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACLS",
+        "Company Name": "Axcelis Technologies, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "40",
+        "Number of Analysts": "55"
+    },
+    "109": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACLS",
+        "Company Name": "Axcelis Technologies, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "40",
+        "Number of Analysts": "55"
+    },
+    "110": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACLS",
+        "Company Name": "Axcelis Technologies, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "40",
+        "Number of Analysts": "55"
+    },
+    "111": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACLS",
+        "Company Name": "Axcelis Technologies, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "40",
+        "Number of Analysts": "55"
+    },
+    "112": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACM",
+        "Company Name": "AECOM Technology Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "81"
+    },
+    "113": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACM",
+        "Company Name": "AECOM Technology Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "81"
+    },
+    "114": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACM",
+        "Company Name": "AECOM Technology Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "81"
+    },
+    "115": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACM",
+        "Company Name": "AECOM Technology Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "81"
+    },
+    "116": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACN",
+        "Company Name": "Accenture plc",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "371",
+        "Number of Analysts": "380"
+    },
+    "117": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACN",
+        "Company Name": "Accenture plc",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "371",
+        "Number of Analysts": "380"
+    },
+    "118": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACN",
+        "Company Name": "Accenture plc",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "371",
+        "Number of Analysts": "380"
+    },
+    "119": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACN",
+        "Company Name": "Accenture plc",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "371",
+        "Number of Analysts": "380"
+    },
+    "120": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACOR",
+        "Company Name": "Acorda Therapeutics, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "67"
+    },
+    "121": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACOR",
+        "Company Name": "Acorda Therapeutics, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "67"
+    },
+    "122": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACOR",
+        "Company Name": "Acorda Therapeutics, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "67"
+    },
+    "123": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACOR",
+        "Company Name": "Acorda Therapeutics, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "67"
+    },
+    "124": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACRX",
+        "Company Name": "AcelRx Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "44",
+        "Number of Analysts": "96"
+    },
+    "125": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACRX",
+        "Company Name": "AcelRx Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "44",
+        "Number of Analysts": "96"
+    },
+    "126": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACRX",
+        "Company Name": "AcelRx Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "44",
+        "Number of Analysts": "96"
+    },
+    "127": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACRX",
+        "Company Name": "AcelRx Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Pharmaceuticals",
+        "Number of Followers": "44",
+        "Number of Analysts": "96"
+    },
+    "128": {
+        "quarter": "fq1-2020",
+        "Ticker": "ACTG",
+        "Company Name": "Acacia Research Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Professional Services",
+        "Number of Followers": "35",
+        "Number of Analysts": "63"
+    },
+    "129": {
+        "quarter": "fq2-2020",
+        "Ticker": "ACTG",
+        "Company Name": "Acacia Research Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Professional Services",
+        "Number of Followers": "35",
+        "Number of Analysts": "63"
+    },
+    "130": {
+        "quarter": "fq3-2020",
+        "Ticker": "ACTG",
+        "Company Name": "Acacia Research Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Professional Services",
+        "Number of Followers": "35",
+        "Number of Analysts": "63"
+    },
+    "131": {
+        "quarter": "fq4-2020",
+        "Ticker": "ACTG",
+        "Company Name": "Acacia Research Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Professional Services",
+        "Number of Followers": "35",
+        "Number of Analysts": "63"
+    },
+    "132": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADAP",
+        "Company Name": "Adaptimmune Therapeutics plc",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "24",
+        "Number of Analysts": "28"
+    },
+    "133": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADAP",
+        "Company Name": "Adaptimmune Therapeutics plc",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "24",
+        "Number of Analysts": "28"
+    },
+    "134": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADAP",
+        "Company Name": "Adaptimmune Therapeutics plc",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "24",
+        "Number of Analysts": "28"
+    },
+    "135": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADAP",
+        "Company Name": "Adaptimmune Therapeutics plc",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "24",
+        "Number of Analysts": "28"
+    },
+    "136": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADBE",
+        "Company Name": "Adobe Systems Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "1,309",
+        "Number of Analysts": "1,679"
+    },
+    "137": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADBE",
+        "Company Name": "Adobe Systems Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "1,309",
+        "Number of Analysts": "1,679"
+    },
+    "138": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADBE",
+        "Company Name": "Adobe Systems Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "1,309",
+        "Number of Analysts": "1,679"
+    },
+    "139": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADBE",
+        "Company Name": "Adobe Systems Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "1,309",
+        "Number of Analysts": "1,679"
+    },
+    "140": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADI",
+        "Company Name": "Analog Devices Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "216",
+        "Number of Analysts": "306"
+    },
+    "141": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADI",
+        "Company Name": "Analog Devices Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "216",
+        "Number of Analysts": "306"
+    },
+    "142": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADI",
+        "Company Name": "Analog Devices Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "216",
+        "Number of Analysts": "306"
+    },
+    "143": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADI",
+        "Company Name": "Analog Devices Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "216",
+        "Number of Analysts": "306"
+    },
+    "144": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADM",
+        "Company Name": "Archer Daniels Midland Company",
+        "Sectors": "Consumer Staples ",
+        "Industries": " Food Products",
+        "Number of Followers": "177",
+        "Number of Analysts": "212"
+    },
+    "145": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADM",
+        "Company Name": "Archer Daniels Midland Company",
+        "Sectors": "Consumer Staples ",
+        "Industries": " Food Products",
+        "Number of Followers": "177",
+        "Number of Analysts": "212"
+    },
+    "146": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADM",
+        "Company Name": "Archer Daniels Midland Company",
+        "Sectors": "Consumer Staples ",
+        "Industries": " Food Products",
+        "Number of Followers": "177",
+        "Number of Analysts": "212"
+    },
+    "147": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADM",
+        "Company Name": "Archer Daniels Midland Company",
+        "Sectors": "Consumer Staples ",
+        "Industries": " Food Products",
+        "Number of Followers": "177",
+        "Number of Analysts": "212"
+    },
+    "148": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADMS",
+        "Company Name": "Adamas Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "36"
+    },
+    "149": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADMS",
+        "Company Name": "Adamas Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "36"
+    },
+    "150": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADMS",
+        "Company Name": "Adamas Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "36"
+    },
+    "151": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADMS",
+        "Company Name": "Adamas Pharmaceuticals, Inc.",
+        "Sectors": "Health Care ",
+        "Industries": " Biotechnology",
+        "Number of Followers": "30",
+        "Number of Analysts": "36"
+    },
+    "152": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADP",
+        "Company Name": "Automatic Data Processing, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "208",
+        "Number of Analysts": "164"
+    },
+    "153": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADP",
+        "Company Name": "Automatic Data Processing, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "208",
+        "Number of Analysts": "164"
+    },
+    "154": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADP",
+        "Company Name": "Automatic Data Processing, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "208",
+        "Number of Analysts": "164"
+    },
+    "155": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADP",
+        "Company Name": "Automatic Data Processing, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "208",
+        "Number of Analysts": "164"
+    },
+    "156": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADS",
+        "Company Name": "Alliance Data Systems Corporation",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "136",
+        "Number of Analysts": "233"
+    },
+    "157": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADS",
+        "Company Name": "Alliance Data Systems Corporation",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "136",
+        "Number of Analysts": "233"
+    },
+    "158": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADS",
+        "Company Name": "Alliance Data Systems Corporation",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "136",
+        "Number of Analysts": "233"
+    },
+    "159": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADS",
+        "Company Name": "Alliance Data Systems Corporation",
+        "Sectors": "Information Technology ",
+        "Industries": " IT Services",
+        "Number of Followers": "136",
+        "Number of Analysts": "233"
+    },
+    "160": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADSK",
+        "Company Name": "Autodesk, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "400",
+        "Number of Analysts": "472"
+    },
+    "161": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADSK",
+        "Company Name": "Autodesk, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "400",
+        "Number of Analysts": "472"
+    },
+    "162": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADSK",
+        "Company Name": "Autodesk, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "400",
+        "Number of Analysts": "472"
+    },
+    "163": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADSK",
+        "Company Name": "Autodesk, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Software",
+        "Number of Followers": "400",
+        "Number of Analysts": "472"
+    },
+    "164": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADSW",
+        "Company Name": "Advanced Disposal Services, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "6",
+        "Number of Analysts": "3"
+    },
+    "165": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADSW",
+        "Company Name": "Advanced Disposal Services, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "6",
+        "Number of Analysts": "3"
+    },
+    "166": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADSW",
+        "Company Name": "Advanced Disposal Services, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "6",
+        "Number of Analysts": "3"
+    },
+    "167": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADSW",
+        "Company Name": "Advanced Disposal Services, Inc.",
+        "Sectors": "Industrials ",
+        "Industries": " Commercial Services & Supplies",
+        "Number of Followers": "6",
+        "Number of Analysts": "3"
+    },
+    "168": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADTN",
+        "Company Name": "ADTRAN Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "57",
+        "Number of Analysts": "212"
+    },
+    "169": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADTN",
+        "Company Name": "ADTRAN Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "57",
+        "Number of Analysts": "212"
+    },
+    "170": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADTN",
+        "Company Name": "ADTRAN Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "57",
+        "Number of Analysts": "212"
+    },
+    "171": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADTN",
+        "Company Name": "ADTRAN Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Communications Equipment",
+        "Number of Followers": "57",
+        "Number of Analysts": "212"
+    },
+    "172": {
+        "quarter": "fq1-2020",
+        "Ticker": "ADUS",
+        "Company Name": "Addus HomeCare Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "22",
+        "Number of Analysts": "29"
+    },
+    "173": {
+        "quarter": "fq2-2020",
+        "Ticker": "ADUS",
+        "Company Name": "Addus HomeCare Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "22",
+        "Number of Analysts": "29"
+    },
+    "174": {
+        "quarter": "fq3-2020",
+        "Ticker": "ADUS",
+        "Company Name": "Addus HomeCare Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "22",
+        "Number of Analysts": "29"
+    },
+    "175": {
+        "quarter": "fq4-2020",
+        "Ticker": "ADUS",
+        "Company Name": "Addus HomeCare Corporation",
+        "Sectors": "Health Care ",
+        "Industries": " Health Care Providers & Services",
+        "Number of Followers": "22",
+        "Number of Analysts": "29"
+    },
+    "176": {
+        "quarter": "fq1-2020",
+        "Ticker": "AEE",
+        "Company Name": "Ameren Corporation",
+        "Sectors": "Utilities ",
+        "Industries": " Multi-Utilities",
+        "Number of Followers": "37",
+        "Number of Analysts": "63"
+    },
+    "177": {
+        "quarter": "fq2-2020",
+        "Ticker": "AEE",
+        "Company Name": "Ameren Corporation",
+        "Sectors": "Utilities ",
+        "Industries": " Multi-Utilities",
+        "Number of Followers": "37",
+        "Number of Analysts": "63"
+    },
+    "178": {
+        "quarter": "fq3-2020",
+        "Ticker": "AEE",
+        "Company Name": "Ameren Corporation",
+        "Sectors": "Utilities ",
+        "Industries": " Multi-Utilities",
+        "Number of Followers": "37",
+        "Number of Analysts": "63"
+    },
+    "179": {
+        "quarter": "fq4-2020",
+        "Ticker": "AEE",
+        "Company Name": "Ameren Corporation",
+        "Sectors": "Utilities ",
+        "Industries": " Multi-Utilities",
+        "Number of Followers": "37",
+        "Number of Analysts": "63"
+    },
+    "180": {
+        "quarter": "fq1-2020",
+        "Ticker": "AEGN",
+        "Company Name": "Aegion Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "50"
+    },
+    "181": {
+        "quarter": "fq2-2020",
+        "Ticker": "AEGN",
+        "Company Name": "Aegion Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "50"
+    },
+    "182": {
+        "quarter": "fq3-2020",
+        "Ticker": "AEGN",
+        "Company Name": "Aegion Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "50"
+    },
+    "183": {
+        "quarter": "fq4-2020",
+        "Ticker": "AEGN",
+        "Company Name": "Aegion Corporation",
+        "Sectors": "Industrials ",
+        "Industries": " Construction & Engineering",
+        "Number of Followers": "34",
+        "Number of Analysts": "50"
+    },
+    "184": {
+        "quarter": "fq1-2020",
+        "Ticker": "AEIS",
+        "Company Name": "Advanced Energy Industries, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "74",
+        "Number of Analysts": "154"
+    },
+    "185": {
+        "quarter": "fq2-2020",
+        "Ticker": "AEIS",
+        "Company Name": "Advanced Energy Industries, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "74",
+        "Number of Analysts": "154"
+    },
+    "186": {
+        "quarter": "fq3-2020",
+        "Ticker": "AEIS",
+        "Company Name": "Advanced Energy Industries, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "74",
+        "Number of Analysts": "154"
+    },
+    "187": {
+        "quarter": "fq4-2020",
+        "Ticker": "AEIS",
+        "Company Name": "Advanced Energy Industries, Inc.",
+        "Sectors": "Information Technology ",
+        "Industries": " Semiconductors",
+        "Number of Followers": "74",
+        "Number of Analysts": "154"
+    },
+    "188": {
+        "quarter": "fq1-2020",
+        "Ticker": "AEL",
+        "Company Name": "American Equity Investment Life Holding Co.",
+        "Sectors": "Financials ",
+        "Industries": " Insurance",
+        "Number of Followers": "19",
+        "Number of Analysts": "38"
+    },
+    "189": {
+        "quarter": "fq2-2020",
+        "Ticker": "AEL",
+        "Company Name": "American Equity Investment Life Holding Co.",
+        "Sectors": "Financials ",
+        "Industries": " Insurance",
+        "Number of Followers": "19",
+        "Number of Analysts": "38"
+    },
+    "190": {
+        "quarter": "fq3-2020",
+        "Ticker": "AEL",
+        "Company Name": "American Equity Investment Life Holding Co.",
+        "Sectors": "Financials ",
+        "Industries": " Insurance",
+        "Number of Followers": "19",
+        "Number of Analysts": "38"
+    },
+    "191": {
+        "quarter": "fq4-2020",
+        "Ticker": "AEL",
+        "Company Name": "American Equity Investment Life Holding Co.",
+        "Sectors": "Financials ",
+        "Industries": " Insurance",
+        "Number of Followers": "19",
+        "Number of Analysts": "38"
+    },
+    "192": {
+        "quarter": "fq1-2020",
+        "Ticker": "AEM",
+        "Company Name": "Agnico Eagle Mines Ltd.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "16",
+        "Number of Analysts": "11"
+    },
+    "193": {
+        "quarter": "fq2-2020",
+        "Ticker": "AEM",
+        "Company Name": "Agnico Eagle Mines Ltd.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "16",
+        "Number of Analysts": "11"
+    },
+    "194": {
+        "quarter": "fq3-2020",
+        "Ticker": "AEM",
+        "Company Name": "Agnico Eagle Mines Ltd.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "16",
+        "Number of Analysts": "11"
+    },
+    "195": {
+        "quarter": "fq4-2020",
+        "Ticker": "AEM",
+        "Company Name": "Agnico Eagle Mines Ltd.",
+        "Sectors": "Materials ",
+        "Industries": " Metals & Mining",
+        "Number of Followers": "16",
+        "Number of Analysts": "11"
+    },
+    "196": {
+        "quarter": "fq1-2020",
+        "Ticker": "AEO",
+        "Company Name": "American Eagle Outfitters, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "267",
+        "Number of Analysts": "451"
+    },
+    "197": {
+        "quarter": "fq2-2020",
+        "Ticker": "AEO",
+        "Company Name": "American Eagle Outfitters, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "267",
+        "Number of Analysts": "451"
+    },
+    "198": {
+        "quarter": "fq3-2020",
+        "Ticker": "AEO",
+        "Company Name": "American Eagle Outfitters, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "267",
+        "Number of Analysts": "451"
+    },
+    "199": {
+        "quarter": "fq4-2020",
+        "Ticker": "AEO",
+        "Company Name": "American Eagle Outfitters, Inc.",
+        "Sectors": "Consumer Discretionary ",
+        "Industries": " Specialty Retail",
+        "Number of Followers": "267",
+        "Number of Analysts": "451"
+    }
+}
